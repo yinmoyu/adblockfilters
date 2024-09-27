@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240927162036
-! Last modified: 2024/09/27 16:20:36
-! Blocked domains: 114349
+! Version: 20240928001931
+! Last modified: 2024/09/28 00:19:31
+! Blocked domains: 114369
 ! unBlocked domains: 18
 !
 ||0-0.fr^
@@ -1709,6 +1709,7 @@
 ||imp-toutiao-data.37.com.cn^
 ||mail1.371.net^
 ||tracker.374nnahs.com^
+||ana.3751chat.com^
 ||377bet.com^
 ||37cs.com^
 ||dash.37signals.com^
@@ -17477,6 +17478,7 @@
 ||bhklubwindsor.com^
 ||bhohazozps.com^
 ||ban.bhol.co.il^
+||bhqvi.com^
 ||bhrl-pos.ink^
 ||r.bhsaccessories.com^
 ||smetrics.bi-connect.com^
@@ -31015,6 +31017,7 @@
 ||ag.divcom.com^
 ||agcdn.divcom.com^
 ||divedresign.com^
+||diverhaul.com^
 ||responses.diverseeducation.com^
 ||track.divinesoulmatesketch.com^
 ||divolution.com^
@@ -31065,6 +31068,7 @@
 ||dk9ps7goqoeef.cloudfront.net^
 ||dkagiqnjsdoqli.com^
 ||dkap.com^
+||dkasdeerw.xyz^
 ||dkbet999.com^
 ||ads.dkelseymedia.com^
 ||dkeyn.com^
@@ -33250,6 +33254,7 @@
 ||e8e2063b.xyz^
 ||8869bc0716.e9522e84dc.com^
 ||e99877e518.com^
+||e9d13e3e01.com^
 ||e9geolgzk6.com^
 ||adsrv.ea.com^
 ||mangler3.generals.ea.com^
@@ -35389,6 +35394,7 @@
 ||wnvieu.enpal.de^
 ||enquirysavagely.com^
 ||enquoted.com^
+||enqvcaugnkxmx.com^
 ||enrageeyesnoop.com^
 ||enraptureshut.com^
 ||enrichdressedprecursor.com^
@@ -43738,6 +43744,7 @@
 ||ggbets.pl^
 ||ggbetss.com^
 ||ggcorp.me^
+||ggfdgd88.fun^
 ||javguru.gggsss.site^
 ||gghacks.com^
 ||gghhe.com^
@@ -44222,6 +44229,7 @@
 ||glideimpulseregulate.com^
 ||glidelamppost.com^
 ||glidesparks.com^
+||glifjhcclyc.com^
 ||glimmercasino.com^
 ||glimpsedrastic.com^
 ||glimpsemankind.com^
@@ -51616,6 +51624,7 @@
 ||eml.iiconferences.com^
 ||deliver.ads2.iid.jp^
 ||deliver.ads3.iid.jp^
+||recruitbox.media.iid.jp^
 ||iiewl.com^
 ||iifvcfwiqi.com^
 ||jimg.iigs9.com^
@@ -51654,6 +51663,7 @@
 ||ijkcmm.com^
 ||ijksec.xyz^
 ||ijmxco.xyz^
+||ijobloemotherofh.com^
 ||marketing.ijoinsolutions.com^
 ||ijquery11.com^
 ||info.ijungo.com^
@@ -62535,6 +62545,7 @@
 ||luuming.com^
 ||rtneys.luuna.mx^
 ||luvieessentials.com^
+||ana.luvul.net^
 ||luvyhomeplus.com^
 ||luwsebstwpc.com^
 ||lux-sothebysrealty.com^
@@ -62707,6 +62718,7 @@
 ||data-367bcf5bd6.lzjobs.de^
 ||lzljhs.com^
 ||lzrikate.com^
+||lzukrobrykk.com^
 ||lzzqfj.xyz^
 ||m-99.co.uk^
 ||m-barati.de^
@@ -65509,6 +65521,7 @@
 ||midgetdeliveringsmartly.com^
 ||midgetincidentally.com^
 ||midjourney.co^
+||proxima.midjourney.com^
 ||midlandfeisty.com^
 ||midlandtimes.com^
 ||images.e.midmark.com^
@@ -83225,6 +83238,7 @@
 ||pugsgivehugs.com^
 ||puhufuuzei.live^
 ||pukaczu.pl^
+||pukimuki.xyz^
 ||pulaskitimes.com^
 ||pullhara.com^
 ||somniture.pullsdirect.com^
@@ -84399,6 +84413,7 @@
 ||radiation.news^
 ||radicaebsl.monster^
 ||radicalovertime.com^
+||radicalpackage.com^
 ||data-143ac31e30.radio-brocken.de^
 ||data-4f77096dc0.radio-brocken.de^
 ||data-60d896f23d.radio.at^
@@ -85437,6 +85452,7 @@
 ||rentfromart.com^
 ||rentingimmoderatereflecting.com^
 ||rentlybuzz.com^
+||rentlysearchingf.com^
 ||email.rentomojomailer.com^
 ||reolinkglobal.com^
 ||reonews.pl^
@@ -89291,6 +89307,7 @@
 ||shalltry.com^
 ||ad2.shallwead.com^
 ||shalomhousebnb.com^
+||ana.chat.shalove.net^
 ||shalseey.com^
 ||poczta-polska.shamanismensvej.dk^
 ||shamcisale.xyz^
@@ -90812,6 +90829,7 @@
 ||skype-com.cn^
 ||skype-online0345.web.app^
 ||skypefr.com^
+||ana.skypemeet.net^
 ||skypersystems.ca^
 ||loglady.skypicker.com^
 ||skypromotion.ru^
@@ -103513,6 +103531,7 @@
 ||umpedshumal.com^
 ||pages.contact.umpquabank.com^
 ||trk.contact.umpquabank.com^
+||umqmxawxnrcp.com^
 ||fv7fps0jsfezekvp.umso.co^
 ||t09x3ww33fchbqzl.umso.co^
 ||umstat.com^
@@ -111801,6 +111820,7 @@
 ||xpj23.net^
 ||xpj3.net^
 ||xpkxahje.xyz^
+||cdn.xpln.tech^
 ||xploitz.net^
 ||xplosion.de^
 ||xpollo.com^
