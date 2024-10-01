@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241001162124
-! Last modified: 2024/10/01 16:21:24
-! Blocked domains: 112519
+! Version: 20241002002035
+! Last modified: 2024/10/02 00:20:35
+! Blocked domains: 112570
 ! unBlocked domains: 26
 !
 ||0-0.fr^
@@ -2141,7 +2141,7 @@
 ||43-dg.cfd^
 ||430news.today^
 ||4332.ws^
-||65d9b4a4ad.433bcaa83b.com^
+||433bcaa83b.com^
 ||435d243e12.com^
 ||43ors1osh.com^
 ||43sjmq3hg.com^
@@ -2874,6 +2874,7 @@
 ||62a401411b.com^
 ||62b70ac32d4614b.com^
 ||m.62mao.com^
+||62zd0.icu^
 ||ihpost.632659235.xyz^
 ||fca88bf71e.632c96af3c.com^
 ||63383900e0.com^
@@ -9089,6 +9090,7 @@
 ||affluentshinymulticultural.com^
 ||affmates.com^
 ||affmoneyy.com^
+||affnamzwon.com^
 ||affntwklnk.com^
 ||track.affordablecarehealthplans.com^
 ||affordablecloth.com^
@@ -21630,6 +21632,7 @@
 ||bcash4you.com^
 ||ea.bcassurance.fr^
 ||newsletter.bcautoencheres.fr^
+||dichvucong.bcavnvnvngov.com^
 ||bcb.game^
 ||bcbm24.com^
 ||bcbm55555.com^
@@ -30013,6 +30016,7 @@
 ||butterflybingo.com^
 ||butterflycircus.com^
 ||butterflyitem.com^
+||butterflyjobs.com^
 ||app.butterflymx.com^
 ||butterflypronounceditch.com^
 ||butterflyunkindpractitioner.com^
@@ -30597,6 +30601,7 @@
 ||7e52bb0df7.c5ab629aba.com^
 ||c6.edgesuite.net^
 ||8e85eb0e5d.c6bbab50a3.com^
+||c6i0ilgden1ve8eb1here4s.ddns.net^
 ||c72w6.com^
 ||149549d67c.c759538eb2.com^
 ||c77777777.com^
@@ -33914,6 +33919,7 @@
 ||chamsocthekhachang-truc-tuyen.com^
 ||vib.chamsocthekhachang-tructuyen.com.vn^
 ||chamsocthekhachhang-thang4.com.vn^
+||chamsocthekhachhang-uudai-tructuyen-thang9.com.vn^
 ||chamsocthekhachhang-uudai-tructuyen.com^
 ||mor.chance-10dayful.com^
 ||chance-ad.com^
@@ -45849,6 +45855,7 @@
 ||dkeyn.com^
 ||dkfodboldstore.com^
 ||dkfq.net^
+||dkfqrsqg.com^
 ||dkgp834o9n8xl.cloudfront.net^
 ||dkhffh.xyz^
 ||track.dkhry.com^
@@ -47686,6 +47693,7 @@
 ||easytomessage.com^
 ||easytracking.de^
 ||easytradz.com^
+||ebayu.top^
 ||ebtmarketing.com^
 ||chat.ebutudan.com^
 ||confab.ebutudan.com^
@@ -48487,6 +48495,7 @@
 ||dwdlpqm6d4ra.test1.emanualonline.com^
 ||emarbox.com^
 ||www.emarketmakers.com^
+||emaxudrookrora.net^
 ||data.emb-api.com^
 ||advertising.embarcaderopublishing.com^
 ||embracetrace.com^
@@ -54045,6 +54054,7 @@
 ||5.gf54.cc^
 ||gfchck.xyz^
 ||gfhy.cfd^
+||gfkpbebwqwhlginna.org^
 ||c802de16.ghmsolutions.com.br^
 ||ghosttardy.com^
 ||ghyxmovcyj.com^
@@ -54061,6 +54071,7 @@
 ||giaodichquoctes.vercel.app^
 ||log.giaoduc.net.vn^
 ||giaohangtietkiem247.com^
+||giaohangtietkiemvietnam.com^
 ||img3.giardinelli.com^
 ||giatsaytietkiem.com^
 ||giaydantuong.com^
@@ -55110,6 +55121,7 @@
 ||ads.gplusmedia.com^
 ||tracking.gpm-rtv.ru^
 ||gpm.ltd^
+||cdn.gpmdata.ru^
 ||gpmzkg.xyz^
 ||gpodipsawtaf.com^
 ||gporkecpyttu.com^
@@ -55964,6 +55976,7 @@
 ||hangoverknock.com^
 ||hangrightsafetykit.com^
 ||www.hangthebankers.com^
+||vngiao.hangtietkiem.online^
 ||trk.hankisonair.com^
 ||e.hanleywood.com^
 ||hannahfireballperceive.com^
@@ -56236,6 +56249,7 @@
 ||link.healthline.com^
 ||healthlottery.co.uk^
 ||trk.healthmenslife.online^
+||healthnasdaqfeature.com^
 ||metrics.healthpartners.com^
 ||info.healthpathh.com^
 ||ok.healthpayouts.com^
@@ -56486,6 +56500,7 @@
 ||emails.hgtv.com^
 ||hgub2polye.com^
 ||affilate.hh.ru^
+||hh9uc8r3.xyz^
 ||hhbymc.top^
 ||hhbypdoecp.com^
 ||hhc757.cfd^
@@ -56772,6 +56787,7 @@
 ||hoct.cc^
 ||hoctor-pharity.xyz^
 ||hodadfelli.com^
+||chinhphu.hodancu.com^
 ||hoddlegamey.com^
 ||tgg.hodgelandscaping.com^
 ||hoegutvie.com^
@@ -57102,6 +57118,7 @@
 ||hotprisonbabes.com^
 ||hotrank.com.tw^
 ||www.hotranks.com^
+||hotrokhachhang-uudai-tructuyen.com.vn^
 ||o.hotsextube.tv^
 ||hotshopstore.com^
 ||hotsimulator.com^
@@ -62104,6 +62121,7 @@
 ||jmt7mbwce.com^
 ||jmvisuals.com^
 ||jmvscgd.com^
+||jmxgwesrte.com^
 ||jnachb.com^
 ||dpd.jnbay.online^
 ||hhncrgcwhnekdcjokrwz.jndkd.cn^
@@ -62445,6 +62463,7 @@
 ||jtoabhvw.com^
 ||jtokaxswunka.com^
 ||jtpgjihhix.com^
+||jtqqzvqrd.net^
 ||lm10111.jtrincc.cn^
 ||a8.tour.jtrip.co.jp^
 ||jualkost.com^
@@ -63035,6 +63054,7 @@
 ||metrics.kbb.com^
 ||kbbrptv.xyz^
 ||inpost.kbiao.top^
+||kbvnpjijrahsgchor.org^
 ||xjztuj.kbwine.com^
 ||kcmcbc.click^
 ||kctag.net^
@@ -63057,6 +63077,7 @@
 ||kebohjhh.xyz^
 ||kecwhlsr.com^
 ||anonymousstats.keefox.org^
+||keeklagqpvg.com^
 ||keenchimairaanthem.com^
 ||keenmosquitosadly.com^
 ||keenquill.com^
@@ -63730,6 +63751,7 @@
 ||secure.kpr2exp21.com^
 ||www.kpr2exp21.com^
 ||kpreviews.com^
+||kpt32165s.com^
 ||sharing.kptncook.com^
 ||app.e.kqed.org^
 ||kqrcijq.com^
@@ -63748,6 +63770,7 @@
 ||ads.krawall.de^
 ||krazil.com^
 ||krbcnews.com^
+||krbulhb.com^
 ||tcn14.krdplatform.xyz^
 ||tcn16.krdplatform.xyz^
 ||tcn5.krdplatform.xyz^
@@ -64027,6 +64050,7 @@
 ||kxadykuwmllrn.com^
 ||axp.kxnet.com^
 ||kxnggkh2nj.com^
+||kxtmstjs.org^
 ||tg.kxyl1.cc^
 ||ups.ky-ad.info^
 ||ky595images.com^
@@ -64248,6 +64272,7 @@
 ||lapgtetz.top^
 ||communications.lapiana.org^
 ||lapionste.top^
+||lapmangsctv.com.vn^
 ||lapocesc.top^
 ||lapoistre.top^
 ||lapopeintre.top^
@@ -65983,6 +66008,7 @@
 ||cinemizehp.lysteros.cfd^
 ||efflate.lysteros.cfd^
 ||mimishff.lysteros.cfd^
+||lytzmzheum.com^
 ||lywdoo.cn^
 ||lz8ssr.hair^
 ||lzcei.com^
@@ -66974,8 +67000,10 @@
 ||t.mazdausa.com^
 ||www.mazealexandra.com^
 ||mazuma.ru^
+||mbdk555.com^
 ||mblhzlqkhukry.com^
 ||mboatman.com^
+||mc-live.online^
 ||acv.mc-nurse.net^
 ||mc-ya.ru^
 ||data.qamailing.mcafee.com^
@@ -73864,6 +73892,7 @@
 ||az.nzn.io^
 ||protection.nzpolice.com^
 ||nzpostnews.one^
+||nzu66938s.com^
 ||nzuebfy.com^
 ||nzurlmq.com^
 ||grgnsht.nzxt.com^
@@ -75847,6 +75876,7 @@
 ||aiddut.particleformen.com^
 ||particlesnuff.com^
 ||particletap.xyz^
+||particularundoubtedly.com^
 ||partlytrouble.com^
 ||partnercash.com^
 ||partnerearning.com^
@@ -82766,6 +82796,7 @@
 ||qkikkg.xyz^
 ||qkjjuhs.com^
 ||qksrv.com^
+||qlljqimawdyw.com^
 ||qlspx.com^
 ||qmaacxajsovk.com^
 ||analytics.qoqa.ch^
@@ -83795,6 +83826,7 @@
 ||razor1911download.com^
 ||razor1911gaming.net^
 ||info.rbatriad.com^
+||rbdwa.com^
 ||go.rbfinance.com^
 ||rbfour.bid^
 ||mailer.rbis-averydennison.com^
@@ -85330,6 +85362,7 @@
 ||rewallesthete.shop^
 ||get.reward.me^
 ||assets.blk.mail.rewardgateway.net^
+||rewardjav128.fun^
 ||rewardpoll.com^
 ||rewardrush.life^
 ||rewardsaffiliates.com^
@@ -87371,6 +87404,7 @@
 ||aws-api.sail-personalize.com^
 ||api.sail-track.com^
 ||pages.sailgp.com^
+||sailorjav128.fun^
 ||api.sailthru.com^
 ||cb.sailthru.com^
 ||horizon.sailthru.com^
@@ -88454,6 +88488,7 @@
 ||secondchancecoaching.com^
 ||secondcommander.com^
 ||secondhandfall.com^
+||secondjav128.fun^
 ||secondlyundone.com^
 ||secondquaver.com^
 ||secondstreetapp.com^
@@ -89967,6 +90002,7 @@
 ||shopee18.vip^
 ||shopee2.net^
 ||shopee918.com^
+||shopeeace.com^
 ||shopeechinhthuc.com^
 ||shopeekx.com^
 ||c-api-bit.shopeemobile.com^
@@ -90419,6 +90455,7 @@
 ||sillyscrew.com^
 ||reklama.silnet.pl^
 ||silnews.com^
+||silpharapidly.com^
 ||ectkts.silux.ba^
 ||www.silver-path.com^
 ||fathom.app.silverbeak.com^
@@ -95581,6 +95618,7 @@
 ||partneri.svetfitness.cz^
 ||svetka.info^
 ||dnkeyt.svetsochtillbehor.se^
+||vssid.svgov.cc^
 ||usbc.svgtjov.top^
 ||partneri.sviicka.cz^
 ||gmpcyv.svinando.com^
@@ -97491,6 +97529,7 @@
 ||kwwgmv.tennistown.de^
 ||akhedh.teno.com^
 ||marketing.tenoapp.com^
+||tenoremediary.shop^
 ||tenping.kr^
 ||tensagesic.com^
 ||tenseapprobation.com^
@@ -99574,6 +99613,7 @@
 ||thevanghanhphuc.xyz^
 ||go.thevhs.org^
 ||thevinylspectrum.com^
+||thevpxjtfbxuuj.com^
 ||thevw155.com^
 ||sw88.thewaltdisneycompany.eu^
 ||thewatchtowers.com^
@@ -99989,6 +100029,7 @@
 ||sstats.tiffany.fr^
 ||smetrics.tiffany.kr^
 ||tiffanypinworm.tech^
+||tifsuc.com^
 ||tig-me.pro^
 ||privacy.tigerbeer.com^
 ||khiurx.tigerdirect.com^
@@ -100034,6 +100075,7 @@
 ||ads.tikpage.com^
 ||www.tikshop69.xyz^
 ||tiktakz.xyz^
+||tiktikshopvn.com^
 ||tiktok-fa67.shop^
 ||www.tiktok-yaa.top^
 ||ads.tiktok.com^
@@ -100274,6 +100316,7 @@
 ||engage.tines.com^
 ||tinewsdaily.com^
 ||tinezoe.com^
+||tingecauyuksehin.com^
 ||tingexcelelernodyden.info^
 ||tinggalklik.com^
 ||tingtang.pages.dev^
@@ -103037,6 +103080,7 @@
 ||txzaazmdhtw.com^
 ||txzsw.com^
 ||tyaqzjp.icu^
+||tyaumgxbofyb.com^
 ||tyburnpenalty.com^
 ||images.e.tycois.com^
 ||tydo88.com^
@@ -103375,6 +103419,7 @@
 ||ukrsvit.ukrmir.info^
 ||ukrposhtl.top^
 ||uksale.pl^
+||uksjogersamyre.com^
 ||ukskxmh.com^
 ||uktutorhelp.com^
 ||ukweddingdays.com^
@@ -103977,6 +104022,7 @@
 ||uqueae.xyz^
 ||apps.uquote.io^
 ||a8cventry.uqwimax.jp^
+||wl.uqwjdhgv.top^
 ||uqydcs.xyz^
 ||uqykeq.xyz^
 ||ur0.jp^
@@ -104699,6 +104745,7 @@
 ||uuaoy.com^
 ||uuaxvf.shop^
 ||uudai-tructuyen-chamsockhachhang-the.com.vn^
+||uudaikhachhangthe-tructuyen-thang9.com.vn^
 ||uudproxxc.com^
 ||uudzfbzthj.com^
 ||uuidksinc.net^
@@ -108160,6 +108207,7 @@
 ||we.wecanimal.pt^
 ||wechraykoum.com^
 ||wecount4u.com^
+||wectbrjgm.com^
 ||vxlpha.weddingpark.net^
 ||tujestwildcard.weddingspruce.com^
 ||wedgeac.com^
@@ -110477,6 +110525,7 @@
 ||a8clk.xserver.ne.jp^
 ||vinushka.xsrv.jp^
 ||xsvkfwth.xyz^
+||xtgfujmknprb.ru^
 ||xtnwxhjv.xyz^
 ||xtractor.no^
 ||xtrafficplus.online^
@@ -110660,6 +110709,7 @@
 ||pl.namaq.xxxy.info^
 ||404.xxxymovies.com^
 ||xxyolk.com^
+||xxyrgvielmehx.com^
 ||xy-z6goo-xyz.com^
 ||xy2.eu^
 ||xybnfn.xyz^
@@ -111909,6 +111959,7 @@
 ||zerovoicecall.com^
 ||zerowasteinitiative.com^
 ||ua.zertrex.ru.com^
+||zeryt111.fun^
 ||zesemen.cz^
 ||zesep.com^
 ||zeshanhaider.com^
