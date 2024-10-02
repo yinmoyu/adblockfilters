@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241002162039
-! Last modified: 2024/10/02 16:20:39
-! Blocked domains: 104376
+! Version: 20241003002026
+! Last modified: 2024/10/03 00:20:26
+! Blocked domains: 104390
 ! unBlocked domains: 4
 !
 ||052db.website^
@@ -13283,6 +13283,7 @@
 ||yuoo.aproggz.top^
 ||tr.info.aprr.fr^
 ||info.aps.org^
+||beacon.apsehick.date^
 ||apsis.com^
 ||static.ws.apsis.one^
 ||tr.apsisforms.com^
@@ -15196,6 +15197,7 @@
 ||data-f1e447fbcf.az-online.de^
 ||data-f59db3288b.az-online.de^
 ||az200.net^
+||az697jylm.cc^
 ||az888.bet^
 ||azadv.co.il^
 ||azaleaadventure.cam^
@@ -16576,6 +16578,7 @@
 ||1236.bclqvk.club^
 ||hlog.bclugu.com^
 ||dsp.bcm.ltd^
+||bcm8.shop^
 ||bcmediagroup.com^
 ||bcmoney.xyz^
 ||ads.bcnewsgroup.com^
@@ -42234,6 +42237,7 @@
 ||ezralarson.com^
 ||ezsbhlpchu.com^
 ||ezula.com^
+||f5zv2.icu^
 ||f8260adbf8558d6.com^
 ||f844df2b31.com^
 ||f8bet0.com^
@@ -42467,6 +42471,7 @@
 ||faktycznystan.click^
 ||faktydrogowe24h.click^
 ||faktyprzednie.click^
+||api-ad-callback.falconnet.app^
 ||falcoware.com^
 ||falseframe.com^
 ||famafakty.click^
@@ -43338,6 +43343,7 @@
 ||marketing.net.fidor.de^
 ||mc2o133jkwu19fv9.net.fidor.de^
 ||shhoix0fuonj0hz6.net.fidor.de^
+||fidszeoqwjf.com^
 ||eloq.fiducial.fr^
 ||www.fiduciariobajio.com.mx^
 ||marketing.fiduciaryfirst.com^
@@ -71189,6 +71195,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi5.com^
 ||navi50.com^
 ||navi53.com^
@@ -90696,6 +90703,7 @@
 ||snammar-jumntal.com^
 ||snap-affairs.com^
 ||intg.snapchat.com^
+||ad.snaptube.app^
 ||wiz.sncf-connect.com^
 ||et.sncf.com^
 ||analytics.snidigital.com^
@@ -93311,6 +93319,7 @@
 ||swtennnews.com^
 ||bxumze.swtimes.com^
 ||swtkes.com^
+||swurserb.top^
 ||swuso.com^
 ||swvalleytimes.com^
 ||swvegasnews.com^
@@ -96516,6 +96525,7 @@
 ||theshopizy.com^
 ||osvdtm.theshopyohjiyamamoto.jp^
 ||www.theshovel.com.au^
+||thesignaturehardware.com^
 ||thesignfactory.world^
 ||thesilverbacksway.com^
 ||rs-stripe.thesimplifydaily.com^
@@ -97906,6 +97916,8 @@
 ||trafficleader.com^
 ||trafficlide.com^
 ||trafficmagnates.com^
+||51tongji.trafficmanager.net^
+||cnzz.trafficmanager.net^
 ||ghochv3eng.trafficmanager.net^
 ||settingsfd-geo.trafficmanager.net^
 ||optimiser.trafficmansion.com^
@@ -100029,6 +100041,7 @@
 ||mws.verisk.com^
 ||files.veritas.org.ng^
 ||verkkopankkipaivitys-fi.de^
+||veryt111.fun^
 ||vescenter.ru^
 ||veselokloun.ru^
 ||vesen.xyz^
@@ -104141,6 +104154,7 @@
 ||zlvlciv.xyz^
 ||zlx.com.br^
 ||zm232.com^
+||znnfzx.xyz^
 ||bio.zohan.site^
 ||cbba.zohan.site^
 ||cnjj.zohan.site^
