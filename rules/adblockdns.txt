@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241003002026
-! Last modified: 2024/10/03 00:20:26
-! Blocked domains: 104390
+! Version: 20241003091245
+! Last modified: 2024/10/03 09:12:45
+! Blocked domains: 104419
 ! unBlocked domains: 4
 !
 ||052db.website^
@@ -3132,7 +3132,7 @@
 ||8daygo.com^
 ||8dayvn888.com^
 ||dfc1a3c2c3.8de4cb9cb7.com^
-||cb07f20af1.8de5d7e235.com^
+||8de5d7e235.com^
 ||8def8c352d.com^
 ||8digits.com^
 ||yngnwe.8division.com^
@@ -11541,6 +11541,7 @@
 ||aax-eu.amazon.com.tr^
 ||unagi.amazon.com.tr^
 ||advertising.amazon.de^
+||bugsnag.shopbop.amazon.dev^
 ||prod.us-east-1.cxm-bcn.publisher-services.amazon.dev^
 ||unagi.amazon.fr^
 ||smetrics-smartcommerce.amazon.in^
@@ -12300,6 +12301,7 @@
 ||anhdevietnam.com^
 ||smetrics.anhi.org^
 ||adv.anhsangvacuocsong.vn^
+||anickeebsoon.com^
 ||go.anifox.net^
 ||anilahstudio.com^
 ||anilqijs.xyz^
@@ -14643,6 +14645,7 @@
 ||auroralandscapingservices.com^
 ||aurousroseola.com^
 ||traffic.ausfuellhilfe.com^
+||ausfyk.xyz^
 ||ausirolabs.com^
 ||ausoafab.net^
 ||ausomsup.net^
@@ -16034,6 +16037,7 @@
 ||za.baomoi.com^
 ||ads.baotainguyenmoitruong.vn^
 ||adv.baotintuc.vn^
+||log-video.baotintuc.vn^
 ||baovechomeo.com^
 ||baptismdesired.com^
 ||vinted-pl-gj32d.baqia.top^
@@ -26489,7 +26493,6 @@
 ||ciksolre.net^
 ||cilentointreno.it^
 ||assets2.cilinsurance.com.au^
-||ciliyinqing.top^
 ||cilolamall.xyz^
 ||ciltbakimiveguzellik.com^
 ||zaintest.vuclip.com.atlantic.cilukba.us.kg^
@@ -30596,6 +30599,7 @@
 ||crazypopups.com^
 ||dl.crazyporn.xxx^
 ||sli.crazyporn.xxx^
+||y.crazyporn.xxx^
 ||crazyprotocol.com^
 ||link.crazyquest.com^
 ||crazyrdp.com^
@@ -35952,6 +35956,7 @@
 ||ads.djc.com^
 ||news.djcoregon.com^
 ||djdavincii.com^
+||djecgyk.icu^
 ||djekxa.ru^
 ||djers.com^
 ||djfuieotdlo.com^
@@ -38021,6 +38026,7 @@
 ||eanangelsa.info^
 ||eanddescri.com^
 ||partner.eandilek.cz^
+||eanff.com^
 ||eanwhitepinafor.com^
 ||eapect.icu^
 ||go.eapps.com^
@@ -52098,6 +52104,7 @@
 ||resu8.hjfile.cn^
 ||hjxajf.com^
 ||hk567rsda.appspot.com^
+||hkaphqknkao.com^
 ||hkcsl-5g.vip^
 ||hkcstcb.com^
 ||hketolls.top^
@@ -53552,6 +53559,7 @@
 ||hzrnbl.xyz^
 ||hzrqsr.xyz^
 ||www.hzxfmc.com^
+||hzychcvdmjo.com^
 ||ad.hzyoka.com^
 ||ads.i-am-bored.com^
 ||i-am-ed.com^
@@ -54518,6 +54526,7 @@
 ||ikouthaupi.com^
 ||pr.ikovrov.ru^
 ||q.ikre.xyz^
+||ikssllnhrb.com^
 ||ikunselt.com^
 ||ikup24h.pl^
 ||dsy-disneyplus.ikwb.com^
@@ -58491,6 +58500,7 @@
 ||jg5y2nkdg.com^
 ||jgblvt.xyz^
 ||jgfcgqivdpd.com^
+||jgfuxnrloev.com^
 ||jggegj-rtbix.top^
 ||jggjh.com^
 ||jggldfvx.com^
@@ -58856,6 +58866,7 @@
 ||jnmascx.xyz^
 ||jnn-pa.googleapis.com^
 ||jnnjthg.com^
+||jnoujcdiprjvx.com^
 ||jnovoksjreeyrpm.xyz^
 ||jnrtavp2x66u.com^
 ||jnwpzq.com^
@@ -59613,6 +59624,7 @@
 ||jzdwl4.cn^
 ||jzjpntr.xyz^
 ||www.jzmepp.com^
+||jzplabcvvy.com^
 ||jztchllgpcrwu.com^
 ||jztucbb.com^
 ||jzycnlq.com^
@@ -62537,6 +62549,7 @@
 ||rrznha.lanvin-en-bleu.com^
 ||down.laomaotao.net^
 ||www.laomaotao.net^
+||laoqo.top^
 ||m.laoqu123.com^
 ||applinks.laoshi.io^
 ||basilisk.laosima.com^
@@ -65161,6 +65174,7 @@
 ||lzcei.com^
 ||lzjl.com^
 ||lznfuab.xyz^
+||lzoasvofvzw.com^
 ||uspy.lzonsdmt.top^
 ||lzrikate.com^
 ||lzukrobrykk.com^
@@ -68487,6 +68501,7 @@
 ||mmadsgadget.com^
 ||mmaglobal.com^
 ||nr.mmcdn.com^
+||nwr.static.mmcdn.com^
 ||mmdem.net^
 ||mmdoors.ru^
 ||mmentorapp.com^
@@ -69402,6 +69417,7 @@
 ||smetrics.motortrend.com^
 ||ads.motosiklet.net^
 ||motsardi.net^
+||motu-teamblue.services^
 ||moun.site^
 ||mountaingaiety.com^
 ||mountedgrasshomesick.com^
@@ -73311,6 +73327,7 @@
 ||nostrumpor.lat^
 ||link.app.notab.com^
 ||link.staff.notab.com^
+||notabl8.com^
 ||notablenephew.top^
 ||notablevehicle.com^
 ||notallthingsedify.com^
@@ -76635,6 +76652,7 @@
 ||go.padcaster.com^
 ||paddingtonstationonline.com^
 ||paddleleague.com^
+||paddlemenu.com^
 ||paddypower.com^
 ||paderrer.com^
 ||padma-fed.com^
@@ -77945,6 +77963,7 @@
 ||pervertmine.com^
 ||pervertscarreceipt.com^
 ||c4n.perverzija.com^
+||peryt111.fun^
 ||perzonalization.com^
 ||pet2find.com^
 ||ilinks.petalcard.com^
@@ -79197,6 +79216,7 @@
 ||pmeuehivfps.com^
 ||pmew.jp^
 ||info.pmg360research.com^
+||pmgfwya.icu^
 ||info.pmhsi.com^
 ||adobe.pmi.org^
 ||adobes.pmi.org^
@@ -81168,6 +81188,7 @@
 ||psaudous.com^
 ||psaugourtauy.com^
 ||psaukaux.net^
+||psaulrouck.net^
 ||psausuck.net^
 ||psclicks.com^
 ||mdws.pscu.ca^
@@ -87621,6 +87642,7 @@
 ||ruinedtolerance.com^
 ||ruletka-systemy.com^
 ||ruletkasystem.eu^
+||rulrahed.com^
 ||rumbazo.com^
 ||brtrack.rummypassion.com^
 ||rumormillnews.com^
@@ -89233,6 +89255,7 @@
 ||joskgw.sewingmachinesplus.com^
 ||sewingunrulyshriek.com^
 ||sewinthesky.com^
+||sewparamedic.com^
 ||sewurown.com^
 ||sewyomingnews.com^
 ||sex-and-flirt.com^
@@ -96954,6 +96977,7 @@
 ||tienve.pro^
 ||tienvenhanhvtb.com^
 ||go.tier1inc.com^
+||tifpqpbqurspix.com^
 ||a8cv.store.tiger-corporation.com^
 ||apiv2.tiin.vn^
 ||tk.tikamoon.ch^
@@ -99110,6 +99134,7 @@
 ||xpygen.unger-fashion.com^
 ||ungiblechan.com^
 ||ungillhenbane.com^
+||unhhsrraf.com^
 ||webstat.rrz.uni-koeln.de^
 ||unicatethebe.org^
 ||igjytl.unice.com^
@@ -99377,6 +99402,7 @@
 ||ups-packaging.delivery^
 ||telegram.ur1s.ru^
 ||urinebladdernovember.com^
+||urinousbiriba.com^
 ||url-redirect.com^
 ||polska-vinted-hjso21.url11.xyz^
 ||1835.url25fatm.com^
@@ -99810,6 +99836,7 @@
 ||vaipsouw.com^
 ||submit.vaisala.com^
 ||vaithodo.com^
+||vaivurizoa.net^
 ||vaizauwe.com^
 ||vak345.com^
 ||vakabimka.com^
@@ -103528,6 +103555,7 @@
 ||ybriifs.com^
 ||ybtkzjm.com^
 ||ycdywl.com^
+||ycuhky.xyz^
 ||yd88c.com^
 ||ydazjxso.xyz^
 ||yddbysa.xyz^
@@ -103963,6 +103991,7 @@
 ||zalesyykau.org^
 ||groupstats.event.zalo.me^
 ||log.api.zaloapp.com^
+||marty.zappos.com^
 ||zarpop.com^
 ||zartransfer.com^
 ||zasadadrogowa.click^
