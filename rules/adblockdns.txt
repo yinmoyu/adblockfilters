@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241006001846
-! Last modified: 2024/10/06 00:18:46
-! Blocked domains: 114090
+! Version: 20241006091726
+! Last modified: 2024/10/06 09:17:26
+! Blocked domains: 114106
 ! unBlocked domains: 24
 !
 ||053h94.com^
@@ -1592,6 +1592,7 @@
 ||2explore.com^
 ||2f16d429ce.com^
 ||2f20f7a413.com^
+||2f8a651b12.com^
 ||2fb8or7ai.de^
 ||2fcde24f87.com^
 ||2fgrrc9t0.de^
@@ -3587,6 +3588,7 @@
 ||8-rt3.homes^
 ||8000plus.si^
 ||800774.com^
+||80133082.xyz^
 ||8020solutions.net^
 ||www.805m.com^
 ||805taylor.com^
@@ -5200,6 +5202,7 @@
 ||acceptablearablezoological.com^
 ||acceptablebleat.com^
 ||acceptablefabric.com^
+||acceptablereality.com^
 ||acceptimpatient.com^
 ||acceptlnterac-email-transfer-online-2fasecure.com^
 ||acceptthispodcast.com^
@@ -13010,6 +13013,7 @@
 ||track1.avplayer.com^
 ||avplwte.xyz^
 ||avpris.ru^
+||avqdhss.icu^
 ||avrakougioumtzi.gr^
 ||avramstroy.ru^
 ||plausible.avris.it^
@@ -28335,6 +28339,7 @@
 ||csgosteamanalyst.eu.com^
 ||csgosteamanalyst.uk.com^
 ||csgousp.com^
+||cshbglcfcmirnm.xyz^
 ||cshugen.com^
 ||csjplatform.com^
 ||tracking.csob.cz^
@@ -53684,6 +53689,7 @@
 ||wws.atendimento-cliente.com.br.it4e.co^
 ||it8vh.site^
 ||itaca.in^
+||itakrid.icu^
 ||italianadirectory.com^
 ||www.italianbestcall.com^
 ||italianexpecting.com^
@@ -58043,6 +58049,7 @@
 ||track.msadcenter.kpuo.com^
 ||kpyerxzn.xyz^
 ||kq272lw4c.com^
+||kqbjdvighp.com^
 ||kqbrgl.icu^
 ||app.e.kqed.org^
 ||kqhi97lf.de^
@@ -75232,6 +75239,7 @@
 ||t.pbr.com^
 ||microsite.pbs.org^
 ||smetrics.pbteen.com^
+||pbvdlb.xyz^
 ||pbxcloudeservices.com^
 ||pbxphonenetwork.com^
 ||pc-agency24.de^
@@ -76875,6 +76883,7 @@
 ||planmybackup.co^
 ||plannedcardiac.com^
 ||plannersavour.com^
+||planningdesigned.com^
 ||planningwebviolently.com^
 ||profiling.plannja.com^
 ||planobywatelski.click^
@@ -77460,6 +77469,7 @@
 ||poflix.com^
 ||pofmnj.xyz^
 ||pog79aff.com^
+||pogimpfufg.com^
 ||tr.emailing.pogioclub.be^
 ||pogladfaktow.click^
 ||pogloskamiastowa.click^
@@ -78116,6 +78126,7 @@
 ||positive0120.com^
 ||positivejudge.com^
 ||positivelyoverall.com^
+||positivelysunday.com^
 ||tracking.positivesparks.com^
 ||poslmygroup.top^
 ||posmy.help^
@@ -84869,6 +84880,7 @@
 ||qzetnversitym.com^
 ||mobivx.qzngisyy.xyz^
 ||qznjujv.xyz^
+||qzorwe.xyz^
 ||qzsvwo.xyz^
 ||qzvzluu.xyz^
 ||qzzzzzzzzzqq.com^
@@ -94331,6 +94343,7 @@
 ||provize.snubni-prsten.cz^
 ||snugglethesheep.com^
 ||snuggrow.com^
+||snugwednesday.com^
 ||www.snvanita.org^
 ||snxewpxrhegslq.com^
 ||ans.sny.tv^
@@ -95673,6 +95686,7 @@
 ||srkft.com^
 ||srmlawassociates.com^
 ||axisphonebankingofficer.srmsb.com^
+||srmsii.xyz^
 ||srodektrwaly.click^
 ||srokte.xyz^
 ||www.srpinheiros.com.br^
@@ -111719,6 +111733,7 @@
 ||xixrdn.xyz^
 ||xizopiwhu.com^
 ||xjappzvz.xyz^
+||xjefqrxric.com^
 ||xjfbhxp.com^
 ||xjfqqyrcz.com^
 ||usee.xjiuxzsy.top^
@@ -112884,6 +112899,7 @@
 ||yuanprime.com^
 ||yuanprofit.com^
 ||overseauspider.yuanshen.com^
+||yuayku.xyz^
 ||daily.yubanet.com^
 ||yubasuttertimes.com^
 ||sgtm.yubico.com^
