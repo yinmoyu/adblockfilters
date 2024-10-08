@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241008162104
-! Last modified: 2024/10/08 16:21:04
-! Blocked domains: 132085
+! Version: 20241009002029
+! Last modified: 2024/10/09 00:20:29
+! Blocked domains: 132101
 ! unBlocked domains: 49
 !
 ||ihpost.03463247.xyz^
@@ -2939,6 +2939,7 @@
 ||65f249bd43.com^
 ||65spy7rgcu.com^
 ||65twenty.com^
+||65wenv5f.xyz^
 ||www.66-trk-srv.com^
 ||sar.66.ru^
 ||6604.org^
@@ -39629,6 +39630,7 @@
 ||track.docusign.jp^
 ||track.docusign.mx^
 ||www.docuware.com^
+||dodaihoptu.xyz^
 ||dodk8rb03jif9.cloudfront.net^
 ||eventstream.dodopizza.com^
 ||dofrogadiera.com^
@@ -60535,6 +60537,7 @@
 ||srepdata.knoxnews.com^
 ||knoxtimes.com^
 ||marketing.knoxville.org^
+||kntodvofiyjjl.xyz^
 ||follow.koandigital.com^
 ||kocairdo.net^
 ||data-e4dc2eea88.kochbar.de^
@@ -61217,6 +61220,7 @@
 ||wa.kuwo.cn^
 ||kuwoucaxoad.com^
 ||kuxatsiw.net^
+||kuxfsgwjkfu.com^
 ||kuxkddg.cn^
 ||kuyhaa-me.pw^
 ||kuyhaa.cc^
@@ -80948,6 +80952,7 @@
 ||bdac403133.nxcli.net^
 ||nxev.top^
 ||nxexydg.com^
+||nxgzeejhs.com^
 ||nxikijn.com^
 ||nxledn.xyz^
 ||nxnjw.com^
@@ -99325,6 +99330,7 @@
 ||m.qhxcdmfj.cn^
 ||www.qiaopiguniang.com^
 ||qiaoxz.xyz^
+||qibqiwczoojw.com^
 ||qichetansuo.com^
 ||qidmhohammat.com^
 ||trcka8net.qieto.net^
@@ -103348,6 +103354,7 @@
 ||web.contact.saintlukeskc.org^
 ||saintselfish.com^
 ||saipeevit.net^
+||saiphoogloobo.net^
 ||saipsoan.net^
 ||trk.sais.ch^
 ||adebis.saison-pocket.com^
@@ -103661,6 +103668,7 @@
 ||sanjosestandard.com^
 ||sanjosestartups.com^
 ||sanjuanitaliscano.click^
+||b.ranking.apis.sankei-digital.co.jp^
 ||promos.sanmarcanada.com^
 ||sanneusports.com^
 ||sannsyn.com^
@@ -104320,6 +104328,7 @@
 ||sddan.com^
 ||sdfeaa.top^
 ||sdfecc.top^
+||sdfewed.com^
 ||sdgreg.cn^
 ||sdhfbvd.com^
 ||sdhjak.com^
@@ -105956,6 +105965,7 @@
 ||track.sidehustleadvertising.com^
 ||sidenotestarts.com^
 ||go.sideqik.com^
+||sidsaignoo.net^
 ||ilkk97e98lvg.www.sidsplumbing.ie^
 ||siduspad-captchabot.com^
 ||info.siege-corp.com^
@@ -113809,6 +113819,7 @@
 ||thoorgins.com^
 ||thootsoumsoa.com^
 ||thor-media.ru^
+||thordoodovoo.net^
 ||click.web.thornburg.com^
 ||thornrancorouspeerless.com^
 ||thornshop.com^
@@ -125739,6 +125750,7 @@
 ||whechypheshu.com^
 ||b.whee.ly^
 ||wheebsadree.com^
+||wheegaulrie.net^
 ||wheejooh.com^
 ||wheel.to^
 ||a.wheelabratorgroup.com^
@@ -125794,6 +125806,7 @@
 ||wheyonsale.com^
 ||whfdny.org^
 ||js.whfyhouse.com^
+||whgh1.icu^
 ||syndication.whibd.com^
 ||whiboubs.com^
 ||syndication.whibp.com^
@@ -127954,6 +127967,7 @@
 ||wryfruw.com^
 ||wryqahbilc.com^
 ||ws5ujgqkp.com^
+||ws67eqwwp.pro^
 ||wsafeguardpush.com^
 ||wsaidthemathe.info^
 ||marketing.wsandco.com^
@@ -129302,6 +129316,7 @@
 ||olx-pol-kxlsw2.xvliang.top^
 ||xvvclhrrpgiln.com^
 ||xvzvqoq.xyz^
+||xvzyyzix.com^
 ||usrn.xwenzrtn.top^
 ||xwewabodwhud.com^
 ||ads.xwire.io^
@@ -131900,6 +131915,7 @@
 ||zweryfikowany-sprzedawca.pl^
 ||zweryfikujkonto.com^
 ||app.zwilling.com^
+||zwk7ybbg.net^
 ||zwlxnj.xyz^
 ||zwnhufcwhaw.com^
 ||zwnoeqzsuz.com^
