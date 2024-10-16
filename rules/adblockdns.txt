@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241016162115
-! Last modified: 2024/10/16 16:21:15
-! Blocked domains: 102301
+! Version: 20241017001906
+! Last modified: 2024/10/17 00:19:06
+! Blocked domains: 102330
 ! unBlocked domains: 24
 !
 ||054d5c.cc^
@@ -604,7 +604,9 @@
 ||683.155ujz.cc^
 ||15752525.xyz^
 ||157win.com^
+||1583263508.rsc.cdn77.org^
 ||158aq.com^
+||1596918856.rsc.cdn77.org^
 ||ahoy.15five.com^
 ||ebis.15jikai.com^
 ||sadbmetrics.15kvalencia.es^
@@ -10546,6 +10548,7 @@
 ||get.amity.io^
 ||amjoltiktor.com^
 ||amkbpcc.com^
+||amkxihjuvo.com^
 ||amlkonto.com^
 ||amlkontomatik.com^
 ||amlkontosprawdza.com^
@@ -18999,7 +19002,7 @@
 ||be023693af.com^
 ||be22.com^
 ||ads.be2hand.com^
-||3d78620f7e.be30660063.com^
+||be30660063.com^
 ||response.bea.com^
 ||response.b2b.bea.com^
 ||beachanatomyheroin.com^
@@ -29759,6 +29762,7 @@
 ||clustrmaps.com^
 ||clutchlilts.com^
 ||cluttercallousstopped.com^
+||clutteredassociate.pro^
 ||clutterpuzzle.com^
 ||clypzbzs.xyz^
 ||support.clz.kr^
@@ -32974,6 +32978,7 @@
 ||smetrics.cvty.com^
 ||cvujac.xyz^
 ||cvupdateservice.com^
+||cvwrkqfpapsg.com^
 ||cvxwaslonejulyha.info^
 ||cvzfoods.com^
 ||cw-net.de^
@@ -35962,6 +35967,7 @@
 ||discloseapplicationtreason.com^
 ||discloseprogramwednesday.com^
 ||disclosestockingsprestigious.com^
+||disclosesweepraincoat.com^
 ||discomagicband.com^
 ||discomantles.com^
 ||disconnectthirstyron.com^
@@ -39233,6 +39239,7 @@
 ||eldestcontribution.com^
 ||adbmetrics.eldiariomontanes.es^
 ||sadbmetrics.eldiariomontanes.es^
+||w9g7dlhw3kaank.www.eldorado.gg^
 ||omni.elearners.com^
 ||eleavers.com^
 ||top.elec.ru^
@@ -41968,6 +41975,7 @@
 ||www.ezlink.ca^
 ||ezmob.com^
 ||eznoz.xyz^
+||eznwukoceebp.com^
 ||ezodn.com^
 ||videosvc.ezoic.com^
 ||www.ezoic.com^
@@ -42609,6 +42617,7 @@
 ||error.fc2.com^
 ||media5.fc2.com^
 ||analyzer5.fc2cn.com^
+||fc3ppv.xyz^
 ||92934e7e2b.fc9d8824d4.com^
 ||fca4efa968.com^
 ||images.matservice.fcagroup.com^
@@ -42981,6 +42990,7 @@
 ||fhsmtrnsfnt.com^
 ||fhtfnb.xyz^
 ||fhv00rxa2.com^
+||fhvfznpehzgl.com^
 ||fhvzrr.xyz^
 ||fhzgeqk.com^
 ||preview.fi-institutional.com.au^
@@ -44764,6 +44774,7 @@
 ||fractionfridgejudiciary.com^
 ||smetrics.framesdirect.com^
 ||tk.france-abonnements.fr^
+||unl1zvy2zuyn.franchiseplus.nl^
 ||dog.franchisesocial.co.uk^
 ||franecki.net^
 ||franeski.net^
@@ -46195,6 +46206,7 @@
 ||gbuzz.net^
 ||stats.gbvanalytics.com^
 ||gbztputcfgp.com^
+||gbzvldguay.com^
 ||marketing.gca.net^
 ||info.gcaaltium.com^
 ||e.gcaog.com^
@@ -57263,6 +57275,7 @@
 ||baidu.jz5u.net^
 ||jzdby.net^
 ||jzeapwlruols.com^
+||jztwidpixa.icu^
 ||bmqjor.k-bid.com^
 ||k-cheats.com^
 ||affiliate.k-uno.co.jp^
@@ -57506,6 +57519,7 @@
 ||kalsekarhospital.com^
 ||kalved9835-philadent98254.pages.dev^
 ||kalyancityfootballclub.com^
+||kamahiunvisor.shop^
 ||kamak-mab.com^
 ||kamalafooner.space^
 ||kamanilsio.art^
@@ -58070,6 +58084,7 @@
 ||kfpicimage.xyz^
 ||kfpnqug.cn^
 ||image.kfw-ipex-bank.de^
+||kfyrquavidn.com^
 ||dc.kfz-steuercheck.de^
 ||sdc.kfz-steuercheck.de^
 ||track.msadcenter.kfz.com^
@@ -59136,6 +59151,7 @@
 ||kurenekayametog.cc^
 ||kurenekoyemat.cc^
 ||ads.kureren.no^
+||kuresdd.top^
 ||kureusagiyenat.cc^
 ||data-fb37a1e7c3.kurier.de^
 ||clnbze.kurierlubelski.pl^
@@ -62297,6 +62313,7 @@
 ||tr.e.m-entreprise.fr^
 ||m-eteor.shop^
 ||m-facebookk.com.vn^
+||m-fmfadcfm.icu^
 ||m-icc.com^
 ||m-koller.com^
 ||m-obywatel.pl^
@@ -65627,6 +65644,7 @@
 ||mnorkc.xyz^
 ||lp.mnp.ca^
 ||tr.email.mnpaf.fr^
+||mnpdylwayjbh.com^
 ||protection.mnpolice.com^
 ||mnsauto-marsan.com^
 ||mnsource.com^
@@ -69565,6 +69583,7 @@
 ||metrics.nmfn.com^
 ||metricssecure.nmfn.com^
 ||ctr.nmg.de^
+||nmo-ep.nl^
 ||nmp1.com^
 ||www.nmpcdn.com^
 ||nmrdnqn.cn^
@@ -71296,6 +71315,7 @@
 ||omgnqu.xyz^
 ||go.omgprograms.org^
 ||omgwowgirls.com^
+||omhxguadsvq.com^
 ||log.omiga-plus.com^
 ||omissionmexicanengineering.com^
 ||omitcalculategalactic.com^
@@ -72856,6 +72876,7 @@
 ||shell.ozsu.org^
 ||ozxakfawm.com^
 ||ozznarazdtz.com^
+||ozzvjbdqcw.com^
 ||ozzywebsites.com^
 ||p-analytics.life^
 ||p-chi.info^
@@ -82755,6 +82776,7 @@
 ||webcontr.ryzon.net^
 ||mtp.rzadinfpl.com^
 ||rzadowa-refundacja.com^
+||rzdcdjxg.com^
 ||c.rzk-m.com^
 ||rzzlhfx.com^
 ||s-aktivierung.de^
@@ -83417,6 +83439,7 @@
 ||schakaomz.info^
 ||data-47ee1b0882.schanzenkino73.de^
 ||scheanet.com^
+||scheduleginnarcotic.com^
 ||schedulerationally.com^
 ||email.schedulers.shop^
 ||online.schedulers.shop^
@@ -85141,6 +85164,7 @@
 ||ad.simflight.com^
 ||haddock.simgenie.app^
 ||smetrics.similac.com^
+||similarpresence.com^
 ||matomo.similarweb.io^
 ||simility.com^
 ||stats.siminn.is^
@@ -85450,6 +85474,7 @@
 ||skedina.com^
 ||sketchjav182.fun^
 ||sketchyaggravation.com^
+||skhgzrtxy.com^
 ||skiingwights.com^
 ||skill-boost.net^
 ||lp.skill-mentors.net^
@@ -87139,6 +87164,7 @@
 ||ssl2anyone5.com^
 ||sslenuh.com^
 ||ssliivuqpm.ru^
+||sslir.icu^
 ||api.v2.sslsecure1.com^
 ||staticrr.sslsecure1.com^
 ||ob.tracking.ssltrackread.com^
@@ -93616,6 +93642,7 @@
 ||tryanimalemale.com^
 ||linkd.trybany.com^
 ||p2ro4u.trybawaryjny.pl^
+||yctjw54slxrwwlh.trybawaryjny.pl^
 ||trybest.click^
 ||trybikowo.pl^
 ||trycarloan.com^
@@ -98909,6 +98936,7 @@
 ||whitewatertimes.com^
 ||whizzco.com^
 ||axp.who13.com^
+||whoawoansoo.com^
 ||whohustle.com^
 ||wholecoolstories.com^
 ||wholehugewords.com^
@@ -99751,6 +99779,7 @@
 ||wtmtrack.com^
 ||wtoredir.com^
 ||wtp101.com^
+||wtroytj33.fun^
 ||app.wts2.one^
 ||whjj.wtsplatform.top^
 ||whrd.wtsplatform.top^
