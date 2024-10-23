@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241023002017
-! Last modified: 2024/10/23 00:20:17
-! Blocked domains: 124303
+! Version: 20241023091225
+! Last modified: 2024/10/23 09:12:25
+! Blocked domains: 124331
 ! unBlocked domains: 14
 !
 ||00186.shop^
@@ -2363,6 +2363,7 @@
 ||property.472782.bid^
 ||47296536.xyz^
 ||4736.in^
+||47415889.xyz^
 ||5e7c26314c.474b0fa000.com^
 ||www.476601.com^
 ||booking.47845-confirm.com^
@@ -14035,6 +14036,7 @@
 ||atalianmail.com^
 ||affil.atan.cz^
 ||atapgogreen.com^
+||atardrushim.com^
 ||rowsrm.atasunoptik.com.tr^
 ||atcco-sa.com^
 ||atcelebitor.com^
@@ -22680,6 +22682,7 @@
 ||botbf.com^
 ||client.botchk.net^
 ||ens.bote.ch^
+||botelpu.com^
 ||reklama.botevgrad.com^
 ||botfaqtor.ru^
 ||bothele.com^
@@ -24610,6 +24613,7 @@
 ||cablepaddle.com^
 ||som.cablestogo.co.uk^
 ||cabombaskopets.life^
+||cabreminyan.com^
 ||cacaca123.cc^
 ||cacaobroach.com^
 ||cacaoda.com^
@@ -27636,6 +27640,7 @@
 ||choagrie.com^
 ||choakalsimen.com^
 ||choakaucmomt.com^
+||choalsegroa.xyz^
 ||choamikr.com^
 ||choang.fun^
 ||choang.tv^
@@ -36945,6 +36950,7 @@
 ||dn0qt3r0xannq.cloudfront.net^
 ||dn34cbtcv9mef.cloudfront.net^
 ||dn6rwwtxa647p.cloudfront.net^
+||dn7u3i0t165w2.cloudfront.net^
 ||dn9.biz^
 ||dn9uzzhcwc0ya.cloudfront.net^
 ||dnainternal.com^
@@ -38618,7 +38624,6 @@
 ||dzdxnbc.xyz^
 ||ms.dzen.ru^
 ||dzgg.com^
-||ima.dzgsm.com^
 ||dzgwautxzdtn9.cloudfront.net^
 ||dzhzp0zlnyoe8.cloudfront.net^
 ||dzialamyodrazu.rest^
@@ -41137,6 +41142,7 @@
 ||tr.communication.enkiapp.io^
 ||tr.mep.enkiapp.io^
 ||tr.news.enkiapp.io^
+||enkvum.xyz^
 ||beetle.enlacepermanente.es^
 ||enlargementerroronerous.com^
 ||enlargementwolf.com^
@@ -43969,6 +43975,7 @@
 ||inspire.fashionframeworks.com^
 ||fashionfusion.site^
 ||fashiongaze.cam^
+||ldpsh.fashionnova.com^
 ||mchtna.fashionplus.co.kr^
 ||fashionpulse.cam^
 ||trk.fashionresource.com^
@@ -53252,6 +53259,7 @@
 ||haohoc.com^
 ||bd.haomagujia.com^
 ||haoora.com^
+||2.haory.cn^
 ||by.haory.cn^
 ||mbrowser.news.haosou.com^
 ||haowei.me^
@@ -53853,6 +53861,7 @@
 ||go.healthactioncouncil.org^
 ||go.healthallowancecentre.com^
 ||track.healthandharmony1.com^
+||mob2.healthapplines.com^
 ||trk.share.healthc2u.com^
 ||track.healthcare-distribution.com^
 ||trk.healthcaremarketquotes.com^
@@ -58039,6 +58048,7 @@
 ||imcht.net^
 ||imcod.net^
 ||imcounting.com^
+||metrics.imdb.com^
 ||imdbwatch.com^
 ||imdn.pics^
 ||communication.imec.be^
@@ -64990,6 +65000,7 @@
 ||keepsociety.com^
 ||keepsosto.com^
 ||analytics.keepstreams.com^
+||servo-report.keepstreams.com^
 ||getapp.keepy.me^
 ||secure.keet1liod.com^
 ||www.keet1liod.com^
@@ -65118,6 +65129,7 @@
 ||kevinschartner.com^
 ||kevinsmithson.com^
 ||kevinsnow.online^
+||kewal.shop^
 ||kexihao.xyz^
 ||kexojito.com^
 ||key-drop.com^
@@ -74022,6 +74034,7 @@
 ||engagefront.meteomedia.com^
 ||pixel.meteora.us^
 ||meteorclashbailey.com^
+||cmp.meteored.com^
 ||meteorsolutions.com^
 ||lrhyty.meteovista.be^
 ||werbung.meteoxpress.com^
@@ -76000,6 +76013,7 @@
 ||lujcig.modaforyou.pl^
 ||jswlpe.modainpelle.com^
 ||marketing.modalife.com^
+||modalsaya.xyz^
 ||www.modani.com^
 ||metric.modcloth.com^
 ||modechallenges.com^
@@ -76676,6 +76690,7 @@
 ||mossgaietyhumiliation.com^
 ||marketing.mossinc.com^
 ||mosspf.com^
+||adx.mossru.com^
 ||mossypinebush903.sbs^
 ||lnk.most-days.com^
 ||mostauthor.com^
@@ -77750,6 +77765,7 @@
 ||my-netflixssl1.com^
 ||app.nissan.my-nissan-usa.com^
 ||my-promo7.com^
+||my-rudderjolly.com^
 ||my-softbank-jp.com^
 ||www.my-stats.com^
 ||my-stats.info^
@@ -79820,6 +79836,7 @@
 ||news-buzz.cc^
 ||news-capufu.com^
 ||news-caxxar.site^
+||news-cdn.site^
 ||news-center.shop^
 ||tr.news-chocolat.com^
 ||tr.news-companeo.be^
@@ -82155,6 +82172,7 @@
 ||moose.octo.app^
 ||octoads.shop^
 ||octobergypsydeny.com^
+||octoberrates.com^
 ||octobird.com^
 ||octolinkcom.me^
 ||octomarket.com^
@@ -87291,6 +87309,7 @@
 ||ea.placedestendances.com^
 ||via.placeholder.com^
 ||placeoff.ru^
+||placetobeforever.com^
 ||placingfinally.com^
 ||placingharassment.com^
 ||placingsolemnlyinexpedient.com^
@@ -89452,6 +89471,7 @@
 ||presentationbishop.com^
 ||presentimentguestmetaphor.com^
 ||preservealso.com^
+||preservedresentful.com^
 ||presetrabbits.com^
 ||presidentialagent.com^
 ||presidentialtumble.com^
@@ -94923,6 +94943,7 @@
 ||x.adnet.qq.com^
 ||ysdk.qq.com^
 ||qq101.com^
+||qq288cm1.com^
 ||qq86tbqodk.ru^
 ||www.qq8788.net^
 ||qq8788viet.com^
@@ -96336,6 +96357,7 @@
 ||rdwmct.com^
 ||pokemon-vip.rdx.pl^
 ||rdxmjgp.com^
+||rdxqbp.xyz^
 ||secure.checkout.re-brand-de.com^
 ||secure.checkout.re-brand-fi.com^
 ||re-captha-version-3-243.buzz^
@@ -97621,7 +97643,7 @@
 ||form.respondi.app^
 ||respondunexpectedalimony.com^
 ||go.respondus.com^
-||ad.responsad1.space^
+||responsad1.space^
 ||olx.response-200.shop^
 ||marketing.responsepoint.com^
 ||responserver.com^
@@ -100365,6 +100387,7 @@
 ||vinted-pl-gj32d.sangbi.top^
 ||active.sangfor.com^
 ||tech.sangfor.com^
+||sanggauchelys.shop^
 ||sanggilregard.com^
 ||sanglah.com^
 ||sanhpaox.xyz^
@@ -103997,6 +104020,7 @@
 ||skrotmyslowy.click^
 ||skroutza.skroutz.gr^
 ||hit.skrz.cz^
+||sksbgm.xyz^
 ||sksingh4bjp.com^
 ||sksolutionss.in^
 ||m.skspt.cn^
@@ -109176,6 +109200,7 @@
 ||tapwhigwy.com^
 ||ads.tapzin.com^
 ||tar-nama.com^
+||tarafnagging.com^
 ||tarbend.online^
 ||metrics.tarceva.com^
 ||t.tarceva.com^
@@ -111829,6 +111854,7 @@
 ||tipcatscarola.com^
 ||tipico.com^
 ||tipicool.com^
+||tipitspart.com^
 ||tipkeomoingay.club^
 ||adebis.tipness.co.jp^
 ||tipollerstrk.com^
@@ -114364,6 +114390,7 @@
 ||twojezdanie.rest^
 ||twojwybor2023.online^
 ||tworinformacyjny.click^
+||twoter.info^
 ||twrank.com^
 ||twrences.xyz^
 ||twrencesprin.info^
@@ -122399,6 +122426,7 @@
 ||yaqurc.com^
 ||yarlnk.com^
 ||ojmxro.yatsan.com^
+||yaupingbought.com^
 ||yawcoynag.com^
 ||yaxgszv.com^
 ||a8.yayoi-kk.co.jp^
