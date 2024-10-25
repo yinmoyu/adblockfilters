@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241025001813
-! Last modified: 2024/10/25 00:18:13
-! Blocked domains: 162114
+! Version: 20241025091326
+! Last modified: 2024/10/25 09:13:26
+! Blocked domains: 162147
 ! unBlocked domains: 35
 !
 ||052db.website^
@@ -609,6 +609,7 @@
 ||148dfe140d0f3d5e.com^
 ||boring-tesla.149-102-231-176.plesk.page^
 ||1493361689.rsc.cdn77.org^
+||1494918251.rsc.cdn77.org^
 ||www.1495c8.com^
 ||ff14044536.14a9004c2a.com^
 ||14betvnd.com^
@@ -796,6 +797,7 @@
 ||santonline.190724.info^
 ||19093.jp^
 ||1909cyzocouxagikui6.pro^
+||1918634747.rsc.cdn77.org^
 ||19199675.xyz^
 ||19515bia.de^
 ||tracking.196189.com^
@@ -2167,7 +2169,7 @@
 ||data.comunitat.3cat.cat^
 ||metrics.3cat.cat^
 ||smetrics.3cat.cat^
-||b7755dcb72.3cb9b57efc.com^
+||3cb9b57efc.com^
 ||3cg6sa78w.com^
 ||3cinteractive.com^
 ||3cloud.net^
@@ -9627,6 +9629,7 @@
 ||agakoffingan.com^
 ||agalarvitaran.com^
 ||agalinoonetor.com^
+||agalumineonr.com^
 ||agamagcargoan.com^
 ||agamantykeon.com^
 ||e.aganj.com^
@@ -11895,6 +11898,7 @@
 ||allk8.com^
 ||allkeygensdownload.com^
 ||click.allkeyshop.com^
+||allkmbr.icu^
 ||stats.allliquid.com^
 ||alllotto.com^
 ||allloveydovey.fun^
@@ -41090,6 +41094,7 @@
 ||compensationstout.com^
 ||ads.comperia.pl^
 ||siteanalytics.compete.com^
+||competemerriment.com^
 ||competencesickcake.com^
 ||competitioncyclemetrics.com^
 ||competitionlevel.com^
@@ -42706,6 +42711,7 @@
 ||metrics.costcobusinessdelivery.com^
 ||smetrics.costcobusinessdelivery.com^
 ||costhandbookfolder.com^
+||costivecohorts.top^
 ||phublid.costlig.uno^
 ||costperleadaff.com^
 ||costranchill.com^
@@ -44363,6 +44369,8 @@
 ||csy8cjm7.xyz^
 ||m.csypspcs.cn^
 ||csyvc.cn^
+||csyzhztgs.com^
+||cszjyqqpj.com^
 ||cszz.ru^
 ||ct01.biz^
 ||infmicrosoft365.ct8.pl^
@@ -50815,6 +50823,7 @@
 ||djre.pl^
 ||login.djrickymix.it^
 ||djroomba.com^
+||djrsvwtt.com^
 ||djscordsteam.com^
 ||djsnake-shop.com^
 ||djsoo8p407d6p.cloudfront.net^
@@ -52881,6 +52890,7 @@
 ||drugsofficial.com^
 ||sstats.drugstore.com^
 ||stats.drugstore.com^
+||drugstoredemuretake.com^
 ||drugstoreforyou.com^
 ||druguniverseinfected.com^
 ||drujbacollege.com^
@@ -53579,6 +53589,7 @@
 ||dwvbfnqrbif.com^
 ||dwwpofwebdwm.com^
 ||dwxjayoxbnyrr.cloudfront.net^
+||dwydqnclgflug.com^
 ||kns.dwytzoyr.top^
 ||dwzacisze.com.pl^
 ||dx-tv.com^
@@ -57814,6 +57825,7 @@
 ||eputysolomon.com^
 ||info.epworthvilla.org^
 ||epxfjcb.xyz^
+||epynkklzkvnvs.com^
 ||eqads.com^
 ||eqbyc.com^
 ||eqdudaj.com^
@@ -61052,6 +61064,7 @@
 ||al.fafa-shop.com^
 ||fafmimgubcm.com^
 ||faganlab.com^
+||fagarauvitic.com^
 ||fagawdasv.com^
 ||fagem2021.com^
 ||tracking.fagersta-posten.se^
@@ -81671,6 +81684,7 @@
 ||iewoheh.wixsite.com^
 ||iewtwo.xyz^
 ||iexplorenow.com^
+||ieyri61b.xyz^
 ||iezxmddndn.com^
 ||if-eku3a-fp.com^
 ||ifactz.com^
@@ -93853,6 +93867,7 @@
 ||partner.kokiskashop.cz^
 ||partner.kokiskashop.sk^
 ||online.koko-ko.com^
+||sdk.kokocads.com^
 ||kokocha.site^
 ||edfjqt.kokoji.fr^
 ||kokomostandard.com^
@@ -94699,6 +94714,7 @@
 ||krzyjahu.pl^
 ||krzywdzacaprawda.click^
 ||liebao.us-uplive.ks-cdn.com^
+||config-p2p-other.vcloud.ks-live.com^
 ||slb-p2p.vcloud.ks-live.com^
 ||ks.bet^
 ||ksado.com^
@@ -100973,6 +100989,7 @@
 ||pub.macommune.info^
 ||maconreporter.com^
 ||macontimes.com^
+||macos.space^
 ||a8clk.macpaw.com^
 ||api-lytics.macpaw.com^
 ||macpurifier.com^
@@ -104984,7 +105001,6 @@
 ||log-abroad.avlyun.sec.miui.com^
 ||qsb.browser.miui.com^
 ||tracking.intl.miui.com^
-||virus-engine.sec.miui.com^
 ||miva.com^
 ||mivibsegnuhaub.xyz^
 ||miweegad.xyz^
@@ -112039,6 +112055,7 @@
 ||nqyrywn.icu^
 ||storefront.nr-assets.net^
 ||0uync.nr3xc.com^
+||nrarnesjbsef.com^
 ||content2.nrc.nl^
 ||klik.nrc.nl^
 ||go.nrchealth.com^
@@ -113717,6 +113734,7 @@
 ||omgranbulltor.com^
 ||omgthink.com^
 ||omhealingwaters.com^
+||omheth.com^
 ||omhomestay.com^
 ||log.omiga-plus.com^
 ||omiki.com^
@@ -115431,6 +115449,7 @@
 ||ounceanalogous.com^
 ||oungimuk.net^
 ||oungoowe.xyz^
+||ounobdlzzks.world^
 ||xsud.ountchar.com^
 ||ouo3ophlpm.ru^
 ||oupai.cc^
@@ -115562,6 +115581,7 @@
 ||outtunova.com^
 ||outube.com^
 ||outwar.com^
+||outwingullom.com^
 ||ouvertrenewed.com^
 ||fmqidg.ouvirmusica.com.br^
 ||ouvyil.com^
@@ -115824,6 +115844,7 @@
 ||web.mapp.ozone.bg^
 ||mkolqj.ozonee.pl^
 ||ozonemedia.com^
+||ozonerexhaled.click^
 ||ozongees.com^
 ||shell.ozsu.org^
 ||ozxakfawm.com^
@@ -118067,6 +118088,7 @@
 ||phoumsoomsoh.com^
 ||phoutchounse.com^
 ||phouvemp.net^
+||phovaiksou.net^
 ||php4you.biz^
 ||phpbbex.com^
 ||ads.phpclasses.org^
@@ -120858,6 +120880,7 @@
 ||ant.prefinery.com^
 ||prefleks.com^
 ||preform.info^
+||pregainskilly.shop^
 ||pregierzrozumu.pl^
 ||pregnancyslayidentifier.com^
 ||pregnantwomennaked.com^
@@ -126761,6 +126784,7 @@
 ||pzimff.com^
 ||pixel.pzkie.com^
 ||pznlpp.xyz^
+||pzpcgiaj.com^
 ||pzphmkf.xyz^
 ||pzpivx.xyz^
 ||pzqfmhy.com^
@@ -130157,6 +130181,7 @@
 ||riance.trade^
 ||riarialuvluv2023.com^
 ||riastats.com^
+||riazrk-oba.online^
 ||ribqpiocnzc.com^
 ||ribsaiji.com^
 ||ribsegment.com^
@@ -136397,6 +136422,7 @@
 ||xhqpgt.skullpig.com^
 ||skullypower.com^
 ||skunkfunkcrypto.com^
+||skunscold.top^
 ||skutecznyautokomis.pl^
 ||skutkipotracenia.click^
 ||skutkipowodzi.rest^
@@ -142504,6 +142530,7 @@
 ||tar-nama.com^
 ||www.tara-medium.com^
 ||tarbend.online^
+||tarcavbul.com^
 ||metrics.tarceva.com^
 ||t.tarceva.com^
 ||targad.de^
@@ -143395,6 +143422,7 @@
 ||akhedh.teno.com^
 ||tenonersem.com^
 ||tenping.kr^
+||tensasscarify.com^
 ||tensedus.world^
 ||a8cv.tenshinocart.com^
 ||tensionrope.world^
@@ -149319,6 +149347,7 @@
 ||tvpt-renovar.com^
 ||tvreel.us^
 ||tvrush.eu^
+||tvrzftbmhkeuuc.com^
 ||tvshowslist.com^
 ||tvshowzonline.com^
 ||tvsolve.com^
@@ -152332,6 +152361,7 @@
 ||vbm1.ru^
 ||vboro.de^
 ||vbout.com^
+||vbozbkzvyzloy.top^
 ||vbrbgki.com^
 ||go.vbrick.com^
 ||vbrusdiifpfd.com^
@@ -154739,6 +154769,7 @@
 ||vw210.com^
 ||vw270.com^
 ||vwabc88.com^
+||vwagkipi.com^
 ||vwasiabet.com^
 ||vwbetasia.com^
 ||smetrics.purchase.vwdriveeasy.com^
@@ -158950,6 +158981,7 @@
 ||xfwblpomxc.com^
 ||xfxssqakis.com^
 ||dt.xfyun.cn^
+||xg-jbpmnru.online^
 ||xg4ken.com^
 ||xgal.jp^
 ||xgamering.com^
@@ -160165,6 +160197,7 @@
 ||sensors.yodo1api.com^
 ||uc-ap.yodo1api.com^
 ||tagmanager.yodobashi.com^
+||yodpbbkoe.com^
 ||yodse.io^
 ||yoeturvule.site^
 ||yofprpv.cn^
