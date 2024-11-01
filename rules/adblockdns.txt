@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241101162018
-! Last modified: 2024/11/01 16:20:18
-! Blocked domains: 111004
+! Version: 20241102001927
+! Last modified: 2024/11/02 00:19:27
+! Blocked domains: 111032
 ! unBlocked domains: 37
 !
 ||inp0st.0344223.xyz^
@@ -812,6 +812,7 @@
 ||1das7.top^
 ||url7061.support.1dental.com^
 ||1directory.ru^
+||1dki0.icu^
 ||1dmp.io^
 ||login.1drv.pl^
 ||1dtdsln1j.de^
@@ -2004,6 +2005,7 @@
 ||www.404errorpage.com^
 ||407433bfc441.com^
 ||4087aa0dc1.com^
+||4088846d50.com^
 ||27c83c607f.40aa881a9f.com^
 ||40ceexln7929.com^
 ||40cg.com^
@@ -5346,6 +5348,7 @@
 ||adstean.com^
 ||adsterra.com^
 ||adstico.io^
+||adstik.click^
 ||adstock.ru^
 ||adstogo.com^
 ||adstook.com^
@@ -8395,6 +8398,7 @@
 ||www.amtrav.com^
 ||www.amtvmedia.com^
 ||amuguu.xyz^
+||amulaswhitish.com^
 ||amuletcheek.com^
 ||amuletcontext.com^
 ||amunfezanttor.com^
@@ -15848,6 +15852,7 @@
 ||bh3.net^
 ||bhagwabharatnews.com^
 ||l.bhaibandhu.com^
+||bhakte.com^
 ||bhalukecky.com^
 ||bhapoalim.net^
 ||bharalhallahs.com^
@@ -32438,6 +32443,7 @@
 ||depreciateape.com^
 ||depreciatelovers.com^
 ||depressionmedsotc.com^
+||depsabsootchut.net^
 ||com.deptesp.com^
 ||da.deptesp.com^
 ||dep.deptesp.com^
@@ -35001,6 +35007,7 @@
 ||metrics.dominos.com.tr^
 ||dominos88.com^
 ||affil.domio.cz^
+||domipush.com^
 ||dommdom.com^
 ||domnkpost.cc^
 ||domnlk.com^
@@ -38689,6 +38696,7 @@
 ||olx-pl.eorlspaieh.site^
 ||eosads.com^
 ||eosapis.com^
+||eoubliw.top^
 ||eoufaoeuhoauengi.su^
 ||eoveukrnme.info^
 ||track.eovnx.com^
@@ -41313,6 +41321,7 @@
 ||fh259by01r25.com^
 ||fhahujwafaf.com^
 ||sstats.fhb.com^
+||fhcdbufjnjcev.com^
 ||fhdfgfh.pages.dev^
 ||fhdwtku.com^
 ||fhgfffdsf9.appspot.com^
@@ -45091,6 +45100,7 @@
 ||waitlist.geekupworld.com^
 ||schoorsteen.geenstijl.nl^
 ||geephenuw.com^
+||geeseruesome.com^
 ||geetacog.xyz^
 ||fnnusx.gefro.de^
 ||gefybeaqea.com^
@@ -46378,6 +46388,7 @@
 ||gmanhua.com^
 ||ats.gmarket.co.kr^
 ||dadispapi.gmarket.co.kr^
+||montelena.gmarket.co.kr^
 ||a.gmasken.top^
 ||b.gmasken.top^
 ||coin.gmasken.top^
@@ -50124,6 +50135,7 @@
 ||hollowafterthought.com^
 ||hollowcharacter.com^
 ||hollykim.com^
+||hollysocialspuse.com^
 ||ads.hollywood.com^
 ||h.hollywood.com^
 ||hollywoodblock40.com^
@@ -56001,6 +56013,7 @@
 ||jowarclimb.club^
 ||jowlishdiviner.com^
 ||jowunoolao.com^
+||jowyylrzbqmb.top^
 ||joxaviri.com^
 ||joy-box.pl^
 ||a8cv.joy-karaokerental.com^
@@ -58683,6 +58696,7 @@
 ||ktwwzqdx.xyz^
 ||ktxtr.com^
 ||www.ktzhk.com^
+||ktzvyiia.xyz^
 ||ku11.io^
 ||ku11.me^
 ||ku11.pro^
@@ -59172,6 +59186,7 @@
 ||lakvandula.com^
 ||lalabaos1020.top^
 ||lalabaos1025.top^
+||lalabaos1101.top^
 ||a8.lalala-clean.com^
 ||lalalove.ru^
 ||lalapush.com^
@@ -62583,6 +62598,7 @@
 ||lusaisso.com^
 ||start.luscii.com^
 ||luscioussensitivenesssavour.com^
+||lusfusvawov.com^
 ||lushaseex.com^
 ||lushbotanik.com^
 ||lushbrownie.com^
@@ -63370,6 +63386,7 @@
 ||sats.manager-magazin.de^
 ||managersun.com^
 ||managesborerecords.com^
+||managetroubles.com^
 ||managingmischieftravel.com^
 ||manahegazedatth.info^
 ||manajemenrisiko.com^
@@ -65382,6 +65399,7 @@
 ||marketing.mie-solutions.com^
 ||miejskibiuletyn.click^
 ||miejskiszpital.click^
+||sentry.mielse.com^
 ||mieszkancyprzekazuja.click^
 ||smetrics.miga.org^
 ||oseanwave.mightcode.com^
@@ -66529,6 +66547,7 @@
 ||pluto.mobilen.no^
 ||mola77.mobilenobo.com^
 ||mobileofferplace.site^
+||mobilerefreit.com^
 ||mobilerevenu.com^
 ||mobilespaphoenix.com^
 ||mobilespasandiego.com^
@@ -68306,6 +68325,7 @@
 ||mziso.xyz^
 ||mzlit.com^
 ||mznizrhd.xyz^
+||mznntniruui.com^
 ||mzoczythupi.com^
 ||mzpecui.icu^
 ||metrics.mzstatic.com^
@@ -70856,6 +70876,7 @@
 ||nvntt.com^
 ||tracking.etidning.nvp.se^
 ||nvtrf.xyz^
+||nvwjhrimontqvjo.com^
 ||data-83380557db.nw.de^
 ||nwatlantanews.com^
 ||nwejuljibczi.com^
@@ -75014,6 +75035,7 @@
 ||ozationsuchasric.org^
 ||ozaukeetimes.com^
 ||ozbet.com.au^
+||ozbkfuhpuolf.com^
 ||ozbnagojbop.com^
 ||ozboya.com^
 ||klienci-indywidualne-santander-sa.ozcamera.com^
@@ -91363,6 +91385,7 @@
 ||opus.sexyxxx.biz^
 ||sexzavod.com^
 ||ferthu.seyffer.shop^
+||seymourlamboy.com^
 ||sez-pr.com^
 ||c.seznam.cz^
 ||cileni.seznam.cz^
@@ -91718,6 +91741,7 @@
 ||go.shippingeasy.com^
 ||shippinginsights.com^
 ||shipseaimpish.com^
+||shipwreckclassmate.com^
 ||shiracy.com^
 ||shiroyui.blogspot.com^
 ||shirtbladder.com^
@@ -94722,6 +94746,7 @@
 ||staggeredplan.com^
 ||staggeredquelldressed.com^
 ||staggeredravehospitality.com^
+||staggersuggestedupbrining.com^
 ||links.staging-lifestepsapp.com^
 ||stagingjobshq.com^
 ||app.stagingsimpl.com^
@@ -98120,6 +98145,7 @@
 ||termerspatrice.com^
 ||termiteleopard.com^
 ||termswhopitched.com^
+||termswilgers.top^
 ||termvb.xyz^
 ||nimiq.terorie.com^
 ||terperbelomo.info^
@@ -103692,6 +103718,7 @@
 ||variedsubduedplaice.com^
 ||varietiesassuage.com^
 ||varietiesplea.com^
+||varietypatrice.com^
 ||varietyscissor.com^
 ||app-ad.variflight.com^
 ||track.varifreeoficial.site^
@@ -110502,6 +110529,7 @@
 ||ziplink.uk^
 ||ziploaded.com^
 ||smetrics.ziplyfiber.com^
+||zippercontinual.com^
 ||zipperxray.com^
 ||zippingcare.com^
 ||squiggleflap370.zippityzap.uno^
