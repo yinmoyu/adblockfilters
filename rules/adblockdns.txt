@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241109001934
-! Last modified: 2024/11/09 00:19:34
-! Blocked domains: 124596
+! Version: 20241109090949
+! Last modified: 2024/11/09 09:09:49
+! Blocked domains: 124618
 ! unBlocked domains: 17
 !
 ||donamervotes.000.pe^
@@ -2899,6 +2899,7 @@
 ||stat-58home.58che.com^
 ||58isg.cn^
 ||58mingri.cn^
+||58shuz.com^
 ||c2.58toto.net^
 ||590578zugbr8.com^
 ||j9yvvyc.591books.xyz^
@@ -3189,6 +3190,7 @@
 ||chinchilla.68keys.io^
 ||68lottery.com^
 ||app.68win.co^
+||68yscw.com^
 ||69-13-59.ru^
 ||69-hky.cfd^
 ||trace.690.co^
@@ -14584,6 +14586,7 @@
 ||go.avvo.com^
 ||avwjyvzeyeov.top^
 ||avwlptrk.com^
+||avxonsp.icu^
 ||avygpim.com^
 ||awaitdetestableitem.com^
 ||awakenedsour.com^
@@ -24962,6 +24965,7 @@
 ||cbproads.com^
 ||images.response.cbre.com.au^
 ||image.cbrecommunications.com^
+||cbro.win^
 ||cbs-35.cfd^
 ||saa.cbs.com^
 ||axp.cbs17.com^
@@ -35429,6 +35433,7 @@
 ||dn3hksy6kf.com^
 ||dn3uy6cx65ujf.cloudfront.net^
 ||dn3y71tq7jf07.cloudfront.net^
+||dn4qoz.com^
 ||dn6rwwtxa647p.cloudfront.net^
 ||dn7u3i0t165w2.cloudfront.net^
 ||dn9.biz^
@@ -48824,6 +48829,7 @@
 ||graphzer.com^
 ||grapseex.com^
 ||grapselu.com^
+||graptaupsi.net^
 ||graptolitesudner.life^
 ||ff-member.grarena.vn^
 ||grassfreedom.com^
@@ -49130,6 +49136,7 @@
 ||gripping-bread.com^
 ||gripspigyard.com^
 ||gripwheels.com^
+||grirqaks.com^
 ||grirtouy.com^
 ||rook.grithix.com^
 ||grizzlies30.fun^
@@ -49468,6 +49475,7 @@
 ||go.guardiandatadestruction.com^
 ||guardiandigitalcomparison.co.uk^
 ||info.guardianews.site^
+||guardiannostrils.com^
 ||guardiansesports.com^
 ||ads.guardianunlimited.co.uk^
 ||go.guardicore.com^
@@ -51956,6 +51964,7 @@
 ||c.holmesmind.com^
 ||cdn.holmesmind.com^
 ||a8cv.holo-bell.com^
+||hologydeno.info^
 ||news.holomag.info^
 ||images.holtcat.com^
 ||sc.holtsmilitarybank.co.uk^
@@ -64343,6 +64352,7 @@
 ||koufey.xyz^
 ||campaign-direct.kouketsuatsu-health.xyz^
 ||kounnomichishirube.net^
+||kouphouwhajee.net^
 ||kouryuu.net^
 ||kousjcignye.com^
 ||koussinnielli.com^
@@ -81135,6 +81145,7 @@
 ||oboxads.com^
 ||obpofhtura.com^
 ||obr-invest.com^
+||obr3.space^
 ||obradjgifja.com^
 ||obranadroga.click^
 ||obrazgrozy.click^
@@ -81384,6 +81395,7 @@
 ||odpowiedzenie.click^
 ||odpowiedzialnemedia.rest^
 ||odpowiedzmedialna.rest^
+||odqciqdazjuk.com^
 ||odrecznepismo.click^
 ||odrownowagaco.yachts^
 ||correouy.odsr.top^
@@ -86252,6 +86264,7 @@
 ||paypertext.com^
 ||paypie.net^
 ||paypiz.com^
+||payplintelverify3.site^
 ||payplservice52170.site^
 ||payplservice52171.site^
 ||payplservice52172.site^
@@ -86443,6 +86456,7 @@
 ||count.pcpop.com^
 ||www.pcprivacysoftware.com^
 ||a.pcpro.co.uk^
+||pcqze.tech^
 ||pcrentalindia.com^
 ||metrics.pcrichard.com^
 ||tick.pcrpriser.se^
@@ -101633,6 +101647,7 @@
 ||sambaads.com^
 ||go.sambafoot.com^
 ||marketing.sambasafety.com^
+||gabrielahlavack.samcart.com^
 ||samconus.com^
 ||samedical.co^
 ||sameklopoty.click^
@@ -105849,6 +105864,7 @@
 ||snappyreport.com^
 ||snaretoeburp.work^
 ||snarlaptly.com^
+||snarlsfuzzes.com^
 ||act-on.snb.com^
 ||et.sncf.com^
 ||sncsbb.top^
@@ -112520,6 +112536,7 @@
 ||thinklabs-ltd.de^
 ||thinktarget.com^
 ||thinktot.com^
+||thirdads.me^
 ||thirdgas.com^
 ||apple.thirdrail-press.com^
 ||grid.thirdrail-press.com^
@@ -113728,6 +113745,7 @@
 ||track.tproger.ru^
 ||tpwtjya.com^
 ||tpydhykibbz.com^
+||tqanmatx.icu^
 ||tqbrnd.xyz^
 ||tquvbfl.com^
 ||tqznjujv.xyz^
@@ -114412,6 +114430,7 @@
 ||images.go.trimarkusa.com^
 ||trimay.ru^
 ||solution.trimech.com^
+||trimmoits.com^
 ||trimpagkygg.com^
 ||trimpost.com^
 ||trimulianugraha.com^
@@ -115281,6 +115300,7 @@
 ||lxsway.tyda.se^
 ||tydo88.com^
 ||info.tyfone.com^
+||tyfqjbuk.one^
 ||tyfuufdp-xbd.top^
 ||tygsqtkyiwxb.com^
 ||tyjttinacorners.info^
@@ -118817,6 +118837,7 @@
 ||viwevayxoy.life^
 ||viwvamotrnu.com^
 ||vjcbm.com^
+||vjlyljbjjmley.top^
 ||usr.vjqiqow.top^
 ||www.vjsoft.net^
 ||vjugz.com^
@@ -122324,6 +122345,7 @@
 ||xjbjz1ba.top^
 ||xjefqrxric.com^
 ||xjfqqyrcz.com^
+||xjlqybkll.com^
 ||xjpakmdcfuqe.biz^
 ||xjpakmdcfuqe.in^
 ||xjpmlf.xyz^
