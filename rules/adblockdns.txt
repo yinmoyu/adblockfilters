@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241115002054
-! Last modified: 2024/11/15 00:20:54
-! Blocked domains: 115885
+! Version: 20241115091657
+! Last modified: 2024/11/15 09:16:57
+! Blocked domains: 115899
 ! unBlocked domains: 38
 !
 ||0-0.fr^
@@ -6474,6 +6474,7 @@
 ||sa.adidas.com.vn^
 ||swqleb.adidas.ru^
 ||smetrics.adiglobal.us^
+||t.adii.se^
 ||cdn.adimo.co^
 ||adincon.com^
 ||ads.adinmotech.com^
@@ -6935,6 +6936,7 @@
 ||tracking.adpri.org^
 ||adqit.com^
 ||adquan.com^
+||fail.adr.ec^
 ||adreactor.com^
 ||adreadytractions.com^
 ||adreclaim.com^
@@ -12407,6 +12409,7 @@
 ||advertising.apple.com^
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
+||events-analytics.apple.com^
 ||iad.apple.com^
 ||iadworkbench.apple.com^
 ||notes-analytics-events.apple.com^
@@ -26680,6 +26683,7 @@
 ||championlog.com.br^
 ||trk.championpneumatic.com^
 ||marketing.championsales.com^
+||championshipcoma.com^
 ||www.championsverige.com.se^
 ||getstarted.championteamwear.com^
 ||ads.champs-elysees.com^
@@ -50387,6 +50391,7 @@
 ||gzcl999.com^
 ||gzdpae.cyou^
 ||share.gzdsw.com^
+||gzfsqrc.icu^
 ||gzglmoczfzf.com^
 ||gzhjjzkj.com^
 ||gzifhovadhf.com^
@@ -55461,6 +55466,7 @@
 ||immuneclone.com^
 ||immunization.news^
 ||imnpost-pl.top^
+||front-perf.imoim.net^
 ||imoneymarketingg.com^
 ||jp.imonitorsoft.com^
 ||imonomy.com^
@@ -64383,6 +64389,7 @@
 ||latamdcs.com^
 ||sanalytics.latamwbd.com^
 ||latchwaitress.com^
+||late-anxiety.com^
 ||secure.late6year.com^
 ||www.late6year.com^
 ||secure.late8chew.com^
@@ -64729,6 +64736,7 @@
 ||leancoursedesign.com^
 ||leangroupe.com^
 ||leanhtien.net^
+||plausible.leaningtech.com^
 ||c.leankun.com^
 ||invite.leanlab.co^
 ||track.leanlab.co^
@@ -65944,6 +65952,7 @@
 ||a8.liver-rhythm.jp^
 ||udr9.livera.nl^
 ||liverail.com^
+||atsod.launch.liveramp.com^
 ||livere.com^
 ||bmbjpv.liverpooljeans.com^
 ||liversely.com^
@@ -75280,6 +75289,7 @@
 ||smetrics.nexmo.com^
 ||nexo-community.com^
 ||nexoinmobiliario.pe^
+||analytics.nexon.com^
 ||nexonbet.website^
 ||nexotradex.com^
 ||images.engage.nexperia.com^
@@ -86116,6 +86126,7 @@
 ||pub-7a5fa439af5b4783aaa143e6f97d49c3.r2.dev^
 ||pub-7a64fd2efe134c5f9b88199041424f1e.r2.dev^
 ||pub-7a6b99614f4b41658cd677a620b18951.r2.dev^
+||pub-7a9aae2813a742e1b02d588e632e401b.r2.dev^
 ||pub-7ac23868382d40668a897b97b7548d23.r2.dev^
 ||pub-7ad98ddef02a43ebb06824978af593be.r2.dev^
 ||pub-7aef0558769d4eda8248efdaf76aa6a1.r2.dev^
@@ -102008,6 +102019,7 @@
 ||thinperspectivetales.com^
 ||thinrabbitsrape.com^
 ||tracking.thiomucase.es^
+||bad.third-party.site^
 ||grid.thirdrail-press.com^
 ||bafybeibctuvv46bcjucpygurtzcfzv3dgm6ggddwjrqkq7s6ezwpxmxo2m.ipfs.thirdwebgateway.com^
 ||bafybeibctuvv46bcjucpygurtzcfzv3dgm6ggddwjrqkq7s6ezwpxmxo2m.ipfs.thirdwebstorage.com^
@@ -105107,6 +105119,7 @@
 ||uaecdsale.xyz^
 ||uaefurniturebuyers.com^
 ||lpzxed.uai.com.br^
+||uaqdgrfr.icu^
 ||uaqzn.top^
 ||uarating.com^
 ||uavejnys.xyz^
@@ -112202,6 +112215,7 @@
 ||a8cv.workman.jp^
 ||workon.ru^
 ||workoperation.com^
+||analytics.workos.com^
 ||workplacenotchperpetual.com^
 ||workroommarriage.com^
 ||steam.workshop-art.com^
