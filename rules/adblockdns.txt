@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241117001931
-! Last modified: 2024/11/17 00:19:31
-! Blocked domains: 121285
+! Version: 20241117092025
+! Last modified: 2024/11/17 09:20:25
+! Blocked domains: 121299
 ! unBlocked domains: 24
 !
 ||00808.vip^
@@ -11703,6 +11703,7 @@
 ||apoyosbienestar.com^
 ||status-ch.app-2024.de^
 ||app-adforce.jp^
+||app-ads-services.com^
 ||app-analytics-services.com^
 ||app-authorization.vercel.app^
 ||devtest.app-birdy.com^
@@ -36727,6 +36728,7 @@
 ||dmeq7blex6x1u.cloudfront.net^
 ||dmetherearlyinhes.info^
 ||dmeukeuktyoue.info^
+||dmevejjt.icu^
 ||www.dmfgermany.de^
 ||dmfpaloaltonetworks.com^
 ||dmg0877nfcvqj.cloudfront.net^
@@ -49321,6 +49323,7 @@
 ||accountrenewtime.ge-opep.org^
 ||ge041b.cfd^
 ||ge1.ca^
+||ge189.com^
 ||jttmym.gear4music.com^
 ||gearanime.com^
 ||gearcraft.us^
@@ -73849,6 +73852,7 @@
 ||mlcgaisqudchmgg.com^
 ||mlcrosoft-teams.one^
 ||mlcrosoftonline365activedirectorysapp.pages.dev^
+||mlgowell.org^
 ||mlicci.xyz^
 ||geoip.mlive.com^
 ||metrics.mlive.com^
@@ -80529,6 +80533,7 @@
 ||ohchat.net^
 ||info.ohdparts.com^
 ||ohgfd.top^
+||ohgorbqcegig.com^
 ||ohimunpracticalw.info^
 ||watchdog.ohio.gov^
 ||app.ohiobobcats.com^
@@ -85773,6 +85778,7 @@
 ||a8cv.pocket-sommelier.com^
 ||pocketjaguar.com^
 ||pocketmath.com^
+||trck.pocketmoon.me^
 ||track.pocketoption.asia^
 ||dash.pocketuniverse.app^
 ||pocketvegas.co.uk^
@@ -95736,6 +95742,7 @@
 ||collector.scopely.io^
 ||metrics.scopus.com^
 ||scorbark.com^
+||scorchads.com^
 ||score-feed.com^
 ||scorealtosuper.com^
 ||ads.scored.co^
@@ -99021,6 +99028,8 @@
 ||smartmnews.pro^
 ||stats.smartmobil.de^
 ||smartname.com^
+||pixel.smartnews.com^
+||pixel.dev.smartnews.com^
 ||smartocto.com^
 ||smartokids.com^
 ||ads.smartolution.com^
@@ -111572,6 +111581,8 @@
 ||build.usgbc.org^
 ||marketing.usglobaltax.com^
 ||trwxvx.usgoldbureau.com^
+||usgowell.com^
+||usgowell.org^
 ||ushaitoa.com^
 ||go.trk.ushealthnet.com^
 ||ushealthyadvisor.com^
@@ -113073,6 +113084,7 @@
 ||vider-pl.online^
 ||vider-vod.pl^
 ||jkwdsl.videt.ro^
+||ads-api.videy.co^
 ||ads2.videy.co^
 ||ads3.videy.co^
 ||vidhaze.com^
@@ -118125,6 +118137,7 @@
 ||wwclicknews.club^
 ||ads20.wwe-media.de^
 ||ads.wwe.biz^
+||wweisie.top^
 ||engage.wwettshow.com^
 ||wwgdwl.com^
 ||wwgfyvvdtmeq.pw^
@@ -120156,6 +120169,7 @@
 ||yxgqgq.xyz^
 ||yxhjt.com^
 ||ad.a.yximgs.com^
+||yxjcyxy.icu^
 ||yxkbgg.xyz^
 ||yxptcrss.xyz^
 ||yxrmbjw.icu^
