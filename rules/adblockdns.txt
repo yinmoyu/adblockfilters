@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241201162017
-! Last modified: 2024/12/01 16:20:17
-! Blocked domains: 128365
+! Version: 20241202001933
+! Last modified: 2024/12/02 00:19:33
+! Blocked domains: 128371
 ! unBlocked domains: 15
 !
 ||allegrolokalnie.0-103-a0-10.shop^
@@ -5363,7 +5363,6 @@
 ||accordancespotted.com^
 ||accordinglyair.com^
 ||account-center765.pages.dev^
-||account-cfe.mx^
 ||olx.account-customer.shop^
 ||account-infos-pl.com^
 ||account-myrbc.com^
@@ -27256,6 +27255,7 @@
 ||smetrics.atlantic.caa.ca^
 ||insurance.caainsurancecompany.com^
 ||news.caamp.org^
+||caaqot.com^
 ||dl.caavo.com^
 ||cabaral.com^
 ||cabbagereporterpayroll.com^
@@ -44545,6 +44545,7 @@
 ||qa-go.ebat.es^
 ||clicked.ebates.com^
 ||ebay8989.shop^
+||ebayadservices.com^
 ||ebayadvertising.com^
 ||www.ebaybanner.com^
 ||ebayc2c.net^
@@ -59935,6 +59936,7 @@
 ||drrt.h18.ru^
 ||h1bsalarydata.com^
 ||h1l.cc^
+||h1v3fa.com^
 ||h21.ru^
 ||h2icqxvhzwjcam5g1bpph2icqxvhzwjcam5g1bpph2icqxvhzwjcam5g1bpp.in^
 ||ads.h2porn.com^
@@ -70711,6 +70713,7 @@
 ||trvonu.k-manga.jp^
 ||kads.k-network.com^
 ||k-oggwkhhxt.love^
+||k-tozluxury.shop^
 ||affiliate.k-uno.co.jp^
 ||xhqmvu.k-uno.co.jp^
 ||enot.k-yroky.ru^
@@ -82859,6 +82862,7 @@
 ||navi35.com^
 ||navi38.ru^
 ||navi39.ru^
+||navi40.com^
 ||navi45.ru^
 ||navi54.com^
 ||navi56.com^
@@ -99216,6 +99220,7 @@
 ||reflushneuma.com^
 ||refnippod.com^
 ||sys.refocus.ru^
+||reforest-iita.org^
 ||dl.reforged.gg^
 ||stingray.reform.app^
 ||inpost-pl-hid226ks.reforma.info^
@@ -106036,7 +106041,6 @@
 ||gnfqtz.smartphoto.se^
 ||smartpicrotation.com^
 ||smartpower4all.org^
-||smartproduct.site^
 ||smartpush0.info^
 ||smartpush3.info^
 ||smartraport.pl^
@@ -121070,6 +121074,7 @@
 ||wcwkcus.top^
 ||wczesniej.pl^
 ||wda.com^
+||wdamcse.top^
 ||wdavrzv.com^
 ||wdbnrytrk.com^
 ||traffic.wdc.center^
@@ -127718,6 +127723,7 @@
 ||zininopstonline.one^
 ||zinodo.today^
 ||zintaxideaz.com^
+||zio8.icu^
 ||ziololecznictwo.pl^
 ||app.zmail.zionsbank.com^
 ||ablink.account.zip.co^
