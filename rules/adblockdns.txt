@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241204162305
-! Last modified: 2024/12/04 16:23:05
-! Blocked domains: 132070
+! Version: 20241205002218
+! Last modified: 2024/12/05 00:22:18
+! Blocked domains: 132093
 ! unBlocked domains: 31
 !
 ||1npost.02343243.xyz^
@@ -695,6 +695,7 @@
 ||1905715.com^
 ||19093.jp^
 ||19199675.xyz^
+||1932195014.rsc.cdn77.org^
 ||19515bia.de^
 ||tracking.196189.com^
 ||19706903.xyz^
@@ -929,6 +930,7 @@
 ||1xslots.site^
 ||1xsultan.com^
 ||1xzf53lo.xyz^
+||1yj.icu^
 ||images.warranty.2-10.com^
 ||mvjkbj.2-carat.net^
 ||2-easy.xyz^
@@ -3052,7 +3054,7 @@
 ||8181zx.com^
 ||8184.cc^
 ||vdrigb.8190.jp^
-||ce73e4958b.81c875a340.com^
+||81c875a340.com^
 ||81nerg0orafts.xyz^
 ||logs.81plug.com^
 ||81ways.com^
@@ -6975,6 +6977,7 @@
 ||ads.adtrustmedia.com^
 ||adtscriptduck.com^
 ||adtscriptshark.com^
+||adttmsvcxeri.com^
 ||adttt.com^
 ||adtube.media^
 ||adturtle.biz^
@@ -14558,6 +14561,7 @@
 ||newordercordinate.com.aquativ.cam^
 ||aqueduct.com^
 ||aquitaineformationpro.com^
+||aqxme-eorex.site^
 ||wt.ara.ad^
 ||wt.ara.cat^
 ||track.arab-brokers.app^
@@ -18976,6 +18980,7 @@
 ||track.bcwinbr.online^
 ||3127e9ed17.bd6afd7ab5.com^
 ||bd742.com^
+||bdamcsv.top^
 ||bdawrsi.icu^
 ||services.bdc.ca^
 ||stat.bdc.ca^
@@ -22144,6 +22149,7 @@
 ||ensighten.bhphoto.com^
 ||affiliates.bhphotovideo.com^
 ||bhpnj.com^
+||bhqbirsac.site^
 ||bhqfnuq.com^
 ||bhqvi.com^
 ||bhs4.com^
@@ -26682,6 +26688,7 @@
 ||data-96d64cb150.bz-ticket.de^
 ||smetrics.bzees.com^
 ||data-8abe5cc617.bzflirt.de^
+||bzoodfalqge.online^
 ||data-8abe5cc617.bztrauer.de^
 ||data-96d64cb150.bztrauer.de^
 ||bzzxyyh.xyz^
@@ -41895,6 +41902,7 @@
 ||eontournriseel.com^
 ||data-0e6bbb5192.eopac.net^
 ||data-6d6bae47f7.eopac.net^
+||eoqmbnaelaxrg.com^
 ||eoredi.com^
 ||eosads.com^
 ||eosanchorwallet.com^
@@ -42724,6 +42732,7 @@
 ||eu-adcenter.net^
 ||eu-global.com^
 ||eu-post.top^
+||eu-soaxtatl.life^
 ||vd.contents.prod.eu.s3.amazonaws.com^
 ||ogloszenia-miejskie24.eu3.biz^
 ||ratownictwo-morskie24.eu3.biz^
@@ -46256,6 +46265,7 @@
 ||flameuncle.com^
 ||tr.news.flandrintechnologies.com^
 ||flannelbeforehand.com^
+||flanneldatedly.com^
 ||flannellegendary.com^
 ||flapi.pl^
 ||flapoint.ru^
@@ -60892,6 +60902,7 @@
 ||infamousfine.com^
 ||infamousprescribe.com^
 ||infamousstream.com^
+||infantilecombination.com^
 ||infatuated-difference.pro^
 ||infectedably.com^
 ||infectedrepentearl.com^
@@ -64079,6 +64090,7 @@
 ||nvuwpi.jelmoli-shop.ch^
 ||te.jelmoli-shop.ch^
 ||tp.jelmoli-shop.ch^
+||jelokeryevbyy.top^
 ||trk.jemacoair.com^
 ||a8cv.jemmy.co.jp^
 ||blog.jendela.biz^
@@ -68841,6 +68853,7 @@
 ||le1er.net^
 ||pub.le360.ma^
 ||le48.paris^
+||leachysubarch.shop^
 ||lead-123.com^
 ||www.lead-analytics-1000.com^
 ||tracking.lead-plus.jp^
@@ -76521,6 +76534,7 @@
 ||midsarang.com^
 ||marketing.midstate-sales.com^
 ||midstconductcanned.com^
+||midstsquonset.com^
 ||adamsads.midtc.com^
 ||championads.midtc.com^
 ||tlads.midtc.com^
@@ -84797,6 +84811,7 @@
 ||olosex.pics^
 ||olovoley.ru^
 ||olq18dx1t.com^
+||olqead.com^
 ||olt-nw.com^
 ||oltnukjafo.com^
 ||oltre.mx^
@@ -89531,6 +89546,7 @@
 ||pompouslemonadetwitter.com^
 ||pompreflected.com^
 ||pomyslowosci24.click^
+||ponieqldeos.com^
 ||ponkovertechs.com^
 ||aa-metrics.ponparemall.com^
 ||a8track.www.pontely.com^
@@ -102431,6 +102447,7 @@
 ||nscmetrics.shell.com^
 ||scmetrics.shell.com^
 ||mdws.shellcu.com^
+||shelourdoals.net^
 ||guanaco.shelter.stream^
 ||sheltermilligrammillions.com^
 ||go.shelterpoint.com^
@@ -103563,6 +103580,7 @@
 ||simulateswing.com^
 ||target.simulationworld.com^
 ||acesso.simultaneo.online^
+||simurgmugged.com^
 ||fea-cfd.simutechgroup.com^
 ||info.simutechmultimedia.com^
 ||jgb8.simyo.es^
@@ -108414,6 +108432,7 @@
 ||stopadblocker.com^
 ||stopadzblock.net^
 ||stopaggregation.com^
+||stopapaumari.com^
 ||stopblockads.com^
 ||stopcodex.pl^
 ||stopformal.com^
@@ -114205,6 +114224,7 @@
 ||news.tigregame.us^
 ||rp.tigretramcar.com^
 ||track.tigrinhopremiado.com^
+||tigroulseedsipt.net^
 ||tigta.gov^
 ||tihdjd.xyz^
 ||tiiepofl.xyz^
@@ -128298,6 +128318,7 @@
 ||wonfigfig.com^
 ||wongahmalta.com^
 ||scribe.wongnai.com^
+||wonigiwurtounsu.xyz^
 ||woniu.com^
 ||www.wonkie.com^
 ||wonnauseouswheel.com^
@@ -129315,6 +129336,7 @@
 ||wygraj-dzisiaj.com^
 ||wygraj-super-nagrode.com^
 ||wyhifdpatl.com^
+||wyjjqoqlfjtbbr.com^
 ||wykeshaspeaks.com^
 ||wykonczenia-wnetrz.com.pl^
 ||wykrywaniesprawcy.click^
@@ -131005,6 +131027,7 @@
 ||smetrics.yrcw.com^
 ||yremovementxvi.org^
 ||go.yretirement.org^
+||yrhxttwa.xyz^
 ||yrmqfojomlwh.com^
 ||yrvzqabfxe.com^
 ||yrwap.cn^
