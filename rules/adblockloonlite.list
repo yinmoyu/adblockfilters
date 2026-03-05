@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/03/05 08:42:20
-#!support=4905
+#!date=2026/03/05 09:15:36
+#!support=4903
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -3172,7 +3172,6 @@ DOMAIN-SUFFIX,mta.qq.com
 DOMAIN-SUFFIX,oimsgad.qq.com
 DOMAIN-SUFFIX,omgid.qq.com
 DOMAIN-SUFFIX,omgmta1.qq.com
-DOMAIN-SUFFIX,oth.eve.mdt.qq.com
 DOMAIN-SUFFIX,oth.str.mdt.qq.com
 DOMAIN-SUFFIX,p2p.qq.com
 DOMAIN-SUFFIX,p2pupdate.gamedl.qq.com
@@ -3209,7 +3208,6 @@ DOMAIN-SUFFIX,sdksp.video.qq.com
 DOMAIN-SUFFIX,show-msgch.qq.com
 DOMAIN-SUFFIX,snowflake.qq.com
 DOMAIN-SUFFIX,soup.v.qq.com
-DOMAIN-SUFFIX,stat.y.qq.com
 DOMAIN-SUFFIX,stat6.y.qq.com
 DOMAIN-SUFFIX,statistic.qzone.qq.com
 DOMAIN-SUFFIX,stdl.qq.com

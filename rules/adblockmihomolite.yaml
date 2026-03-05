@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20260305084220
-  # Last modified: 2026/03/05 08:42:20
-  # Blocked domains: 4905
+  # Version: 20260305091536
+  # Last modified: 2026/03/05 09:15:36
+  # Blocked domains: 4903
   #
   - '+.kwflvcdn.000dn.com'
   - '+.img.0279.net'
@@ -3169,7 +3169,6 @@ payload:
   - '+.oimsgad.qq.com'
   - '+.omgid.qq.com'
   - '+.omgmta1.qq.com'
-  - '+.oth.eve.mdt.qq.com'
   - '+.oth.str.mdt.qq.com'
   - '+.p2p.qq.com'
   - '+.p2pupdate.gamedl.qq.com'
@@ -3206,7 +3205,6 @@ payload:
   - '+.show-msgch.qq.com'
   - '+.snowflake.qq.com'
   - '+.soup.v.qq.com'
-  - '+.stat.y.qq.com'
   - '+.stat6.y.qq.com'
   - '+.statistic.qzone.qq.com'
   - '+.stdl.qq.com'

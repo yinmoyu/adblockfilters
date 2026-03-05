@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/03/05 08:42:20
-#!support=4905
+#!date=2026/03/05 09:15:36
+#!support=4903
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -3175,7 +3175,6 @@
 .oimsgad.qq.com
 .omgid.qq.com
 .omgmta1.qq.com
-.oth.eve.mdt.qq.com
 .oth.str.mdt.qq.com
 .p2p.qq.com
 .p2pupdate.gamedl.qq.com
@@ -3212,7 +3211,6 @@
 .show-msgch.qq.com
 .snowflake.qq.com
 .soup.v.qq.com
-.stat.y.qq.com
 .stat6.y.qq.com
 .statistic.qzone.qq.com
 .stdl.qq.com
