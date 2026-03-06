@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/03/06 00:24:07
-#!support=4827
+#!date=2026/03/06 08:45:35
+#!support=4824
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -4390,8 +4390,6 @@ DOMAIN-SUFFIX,preload.xiaomi.com
 DOMAIN-SUFFIX,redirect.pandora.xiaomi.com
 DOMAIN-SUFFIX,register.xmpush.global.xiaomi.com
 DOMAIN-SUFFIX,resolver.mi.xiaomi.com
-DOMAIN-SUFFIX,sdkconfig.ad.eu.xiaomi.com
-DOMAIN-SUFFIX,sdkconfig.ad.rus.xiaomi.com
 DOMAIN-SUFFIX,stat.pandora.xiaomi.com
 DOMAIN-SUFFIX,stats.music.xiaomi.com
 DOMAIN-SUFFIX,storeconfig.mistat.intl.xiaomi.com
@@ -4561,7 +4559,6 @@ DOMAIN-SUFFIX,ymcdn.cn
 DOMAIN-SUFFIX,ymmobi.com
 DOMAIN-SUFFIX,yncjsc.cn
 DOMAIN-SUFFIX,ad123.ynet.com
-DOMAIN-SUFFIX,m.yocvn.com
 DOMAIN-SUFFIX,webtrans.yodao.com
 DOMAIN-SUFFIX,c1.yodo1.com
 DOMAIN-SUFFIX,sdk-mas.yodo1.com
