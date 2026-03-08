@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260308001017
-# Last modified: 2026/03/08 00:10:17
-# Blocked domains: 4854
+# Version: 20260308084316
+# Last modified: 2026/03/08 08:43:16
+# Blocked domains: 4848
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -617,7 +617,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	us-behavior.apitd.net
 0.0.0.0	apkevery.com
 0.0.0.0	app-analytics-services.com
-0.0.0.0	app-clash.com.cn
 0.0.0.0	app-measurement.com
 0.0.0.0	mobile.appchina.com
 0.0.0.0	appdriver.cn
@@ -969,7 +968,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	adv.ccb.com
 0.0.0.0	ad.ccement.com
 0.0.0.0	cchytech.com
-0.0.0.0	mailserver.ccsnetwork.cn
 0.0.0.0	btrace.ysp.cctv.cn
 0.0.0.0	mtrace.ysp.cctv.cn
 0.0.0.0	ad.cctv.com
@@ -2030,7 +2028,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sensors.ibreader.com
 0.0.0.0	busuanzi.ibruce.info
 0.0.0.0	moon.ibytecdn.cn
-0.0.0.0	www.icbc-ltd.com
 0.0.0.0	static.ichehome.com
 0.0.0.0	f1.ichong123.com
 0.0.0.0	goto.www.iciba.com
@@ -3842,7 +3839,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	toutiaopage.com
 0.0.0.0	tovbus.cn
 0.0.0.0	tovppl.cn
-0.0.0.0	tr0ff3.cn
 0.0.0.0	trackingio.com
 0.0.0.0	tradplus.cn
 0.0.0.0	tradplus.com
@@ -4350,7 +4346,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wyvw.cn
 0.0.0.0	a.wzu.com
 0.0.0.0	x-steam.com
-0.0.0.0	download.x64-google.cn
 0.0.0.0	xazbts.com
 0.0.0.0	enappstat.xbext.com
 0.0.0.0	enstat.xbext.com
@@ -4687,7 +4682,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	123.ywxww.net
 0.0.0.0	ftp.ywxww.net
 0.0.0.0	adsclick.yx.js.cn
-0.0.0.0	qiniuyunxz.yxflzs.com
 0.0.0.0	yxgfcj.com
 0.0.0.0	ad.a.yximgs.com
 0.0.0.0	ali-ad.a.yximgs.com

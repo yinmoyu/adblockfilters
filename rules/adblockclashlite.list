@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20260308001017
-# Last modified: 2026/03/08 00:10:17
-# Blocked domains: 4854
+# Version: 20260308084316
+# Last modified: 2026/03/08 08:43:16
+# Blocked domains: 4848
 #
 [Rule]
 DOMAIN-SUFFIX,kwflvcdn.000dn.com,REJECT-DROP
@@ -603,7 +603,6 @@ DOMAIN-SUFFIX,adx.apicgate.com,REJECT-DROP
 DOMAIN-SUFFIX,us-behavior.apitd.net,REJECT-DROP
 DOMAIN-SUFFIX,apkevery.com,REJECT-DROP
 DOMAIN-SUFFIX,app-analytics-services.com,REJECT-DROP
-DOMAIN-SUFFIX,app-clash.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,app-measurement.com,REJECT-DROP
 DOMAIN-SUFFIX,mobile.appchina.com,REJECT-DROP
 DOMAIN-SUFFIX,appdriver.cn,REJECT-DROP
@@ -955,7 +954,6 @@ DOMAIN-SUFFIX,cc20140418.online,REJECT-DROP
 DOMAIN-SUFFIX,adv.ccb.com,REJECT-DROP
 DOMAIN-SUFFIX,ad.ccement.com,REJECT-DROP
 DOMAIN-SUFFIX,cchytech.com,REJECT-DROP
-DOMAIN-SUFFIX,mailserver.ccsnetwork.cn,REJECT-DROP
 DOMAIN-SUFFIX,btrace.ysp.cctv.cn,REJECT-DROP
 DOMAIN-SUFFIX,mtrace.ysp.cctv.cn,REJECT-DROP
 DOMAIN-SUFFIX,ad.cctv.com,REJECT-DROP
@@ -2016,7 +2014,6 @@ DOMAIN-SUFFIX,ibozys.cn,REJECT-DROP
 DOMAIN-SUFFIX,sensors.ibreader.com,REJECT-DROP
 DOMAIN-SUFFIX,busuanzi.ibruce.info,REJECT-DROP
 DOMAIN-SUFFIX,moon.ibytecdn.cn,REJECT-DROP
-DOMAIN-SUFFIX,www.icbc-ltd.com,REJECT-DROP
 DOMAIN-SUFFIX,static.ichehome.com,REJECT-DROP
 DOMAIN-SUFFIX,f1.ichong123.com,REJECT-DROP
 DOMAIN-SUFFIX,goto.www.iciba.com,REJECT-DROP
@@ -3828,7 +3825,6 @@ DOMAIN-SUFFIX,tnc3-bjlgy.toutiaoapi.com,REJECT-DROP
 DOMAIN-SUFFIX,toutiaopage.com,REJECT-DROP
 DOMAIN-SUFFIX,tovbus.cn,REJECT-DROP
 DOMAIN-SUFFIX,tovppl.cn,REJECT-DROP
-DOMAIN-SUFFIX,tr0ff3.cn,REJECT-DROP
 DOMAIN-SUFFIX,trackingio.com,REJECT-DROP
 DOMAIN-SUFFIX,tradplus.cn,REJECT-DROP
 DOMAIN-SUFFIX,tradplus.com,REJECT-DROP
@@ -4336,7 +4332,6 @@ DOMAIN-SUFFIX,wy213.com,REJECT-DROP
 DOMAIN-SUFFIX,wyvw.cn,REJECT-DROP
 DOMAIN-SUFFIX,a.wzu.com,REJECT-DROP
 DOMAIN-SUFFIX,x-steam.com,REJECT-DROP
-DOMAIN-SUFFIX,download.x64-google.cn,REJECT-DROP
 DOMAIN-SUFFIX,xazbts.com,REJECT-DROP
 DOMAIN-SUFFIX,enappstat.xbext.com,REJECT-DROP
 DOMAIN-SUFFIX,enstat.xbext.com,REJECT-DROP
@@ -4673,7 +4668,6 @@ DOMAIN-SUFFIX,yw800.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,123.ywxww.net,REJECT-DROP
 DOMAIN-SUFFIX,ftp.ywxww.net,REJECT-DROP
 DOMAIN-SUFFIX,adsclick.yx.js.cn,REJECT-DROP
-DOMAIN-SUFFIX,qiniuyunxz.yxflzs.com,REJECT-DROP
 DOMAIN-SUFFIX,yxgfcj.com,REJECT-DROP
 DOMAIN-SUFFIX,ad.a.yximgs.com,REJECT-DROP
 DOMAIN-SUFFIX,ali-ad.a.yximgs.com,REJECT-DROP

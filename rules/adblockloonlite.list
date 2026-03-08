@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/03/08 00:10:17
-#!support=4854
+#!date=2026/03/08 08:43:16
+#!support=4848
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -606,7 +606,6 @@ DOMAIN-SUFFIX,adx.apicgate.com
 DOMAIN-SUFFIX,us-behavior.apitd.net
 DOMAIN-SUFFIX,apkevery.com
 DOMAIN-SUFFIX,app-analytics-services.com
-DOMAIN-SUFFIX,app-clash.com.cn
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,mobile.appchina.com
 DOMAIN-SUFFIX,appdriver.cn
@@ -958,7 +957,6 @@ DOMAIN-SUFFIX,cc20140418.online
 DOMAIN-SUFFIX,adv.ccb.com
 DOMAIN-SUFFIX,ad.ccement.com
 DOMAIN-SUFFIX,cchytech.com
-DOMAIN-SUFFIX,mailserver.ccsnetwork.cn
 DOMAIN-SUFFIX,btrace.ysp.cctv.cn
 DOMAIN-SUFFIX,mtrace.ysp.cctv.cn
 DOMAIN-SUFFIX,ad.cctv.com
@@ -2019,7 +2017,6 @@ DOMAIN-SUFFIX,ibozys.cn
 DOMAIN-SUFFIX,sensors.ibreader.com
 DOMAIN-SUFFIX,busuanzi.ibruce.info
 DOMAIN-SUFFIX,moon.ibytecdn.cn
-DOMAIN-SUFFIX,www.icbc-ltd.com
 DOMAIN-SUFFIX,static.ichehome.com
 DOMAIN-SUFFIX,f1.ichong123.com
 DOMAIN-SUFFIX,goto.www.iciba.com
@@ -3831,7 +3828,6 @@ DOMAIN-SUFFIX,tnc3-bjlgy.toutiaoapi.com
 DOMAIN-SUFFIX,toutiaopage.com
 DOMAIN-SUFFIX,tovbus.cn
 DOMAIN-SUFFIX,tovppl.cn
-DOMAIN-SUFFIX,tr0ff3.cn
 DOMAIN-SUFFIX,trackingio.com
 DOMAIN-SUFFIX,tradplus.cn
 DOMAIN-SUFFIX,tradplus.com
@@ -4339,7 +4335,6 @@ DOMAIN-SUFFIX,wy213.com
 DOMAIN-SUFFIX,wyvw.cn
 DOMAIN-SUFFIX,a.wzu.com
 DOMAIN-SUFFIX,x-steam.com
-DOMAIN-SUFFIX,download.x64-google.cn
 DOMAIN-SUFFIX,xazbts.com
 DOMAIN-SUFFIX,enappstat.xbext.com
 DOMAIN-SUFFIX,enstat.xbext.com
@@ -4676,7 +4671,6 @@ DOMAIN-SUFFIX,yw800.com.cn
 DOMAIN-SUFFIX,123.ywxww.net
 DOMAIN-SUFFIX,ftp.ywxww.net
 DOMAIN-SUFFIX,adsclick.yx.js.cn
-DOMAIN-SUFFIX,qiniuyunxz.yxflzs.com
 DOMAIN-SUFFIX,yxgfcj.com
 DOMAIN-SUFFIX,ad.a.yximgs.com
 DOMAIN-SUFFIX,ali-ad.a.yximgs.com
