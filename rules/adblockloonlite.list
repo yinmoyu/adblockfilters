@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/03/08 16:12:32
-#!support=4903
+#!date=2026/03/09 00:11:04
+#!support=4904
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -3835,6 +3835,7 @@ DOMAIN-SUFFIX,sky.tongjiai.com
 DOMAIN-SUFFIX,ato.tooopen.com
 DOMAIN-SUFFIX,topsem.com
 DOMAIN-SUFFIX,static.topxgun.com
+DOMAIN-SUFFIX,torvex7.vip
 DOMAIN-SUFFIX,api.touch-moblie.com
 DOMAIN-SUFFIX,touclick.com
 DOMAIN-SUFFIX,toushibao.com

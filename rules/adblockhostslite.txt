@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260308161232
-# Last modified: 2026/03/08 16:12:32
-# Blocked domains: 4903
+# Version: 20260309001104
+# Last modified: 2026/03/09 00:11:04
+# Blocked domains: 4904
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -3846,6 +3846,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ato.tooopen.com
 0.0.0.0	topsem.com
 0.0.0.0	static.topxgun.com
+0.0.0.0	torvex7.vip
 0.0.0.0	api.touch-moblie.com
 0.0.0.0	touclick.com
 0.0.0.0	toushibao.com
