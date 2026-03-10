@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/03/10 16:18:46
-#!support=4922
+#!date=2026/03/11 00:28:25
+#!support=4921
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -4899,7 +4899,6 @@
 .abcd.zle.com
 .efg.zle.com
 .gl.zle.com
-.cdn.zmaticoo.com
 .zmdesf.cn
 .p.zol-img.com.cn
 .cpro.zol.com.cn

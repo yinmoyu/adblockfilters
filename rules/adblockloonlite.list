@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/03/10 16:18:45
-#!support=4922
+#!date=2026/03/11 00:28:25
+#!support=4921
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -4896,7 +4896,6 @@ DOMAIN-SUFFIX,dm.zjut.cc
 DOMAIN-SUFFIX,abcd.zle.com
 DOMAIN-SUFFIX,efg.zle.com
 DOMAIN-SUFFIX,gl.zle.com
-DOMAIN-SUFFIX,cdn.zmaticoo.com
 DOMAIN-SUFFIX,zmdesf.cn
 DOMAIN-SUFFIX,p.zol-img.com.cn
 DOMAIN-SUFFIX,cpro.zol.com.cn
