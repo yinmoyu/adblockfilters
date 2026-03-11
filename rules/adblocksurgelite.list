@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/03/11 16:19:03
-#!support=5150
+#!date=2026/03/12 00:24:30
+#!support=5138
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -950,14 +950,7 @@
 .dlogs.bwton.com
 .bxwccii.cn
 .bybiat.hl.cn
-.bybibt.hl.cn
-.bybict.hl.cn
 .bybidt.hl.cn
-.bybiet.hl.cn
-.bybift.hl.cn
-.bybigt.hl.cn
-.bybiht.hl.cn
-.bybiit.hl.cn
 .bybijt.hl.cn
 .byscy.cn
 .dm.bytedance.com
@@ -1651,26 +1644,21 @@
 .static.gaomaer.cn
 .gaoshouyou.com
 .trk.gardnerdenver.com.cn
-.gate-7k.hl.cn
 .gate-bn.hl.cn
 .gate-bs.hl.cn
-.gate-f8.hl.cn
 .gate-fg.hl.cn
 .gate-fgk.hl.cn
 .gate-gp.hl.cn
 .gate-hq.hl.cn
 .gate-hqd.hl.cn
-.gate-j4.hl.cn
 .gate-jh.hl.cn
 .gate-ks.hl.cn
 .gate-ksw.hl.cn
-.gate-m9.hl.cn
 .gate-mz.hl.cn
 .gate-ny.hl.cn
 .gate-px.hl.cn
 .gate-pxn.hl.cn
 .gate-qk.hl.cn
-.gate-r2.hl.cn
 .gate-rv.hl.cn
 .gate-rvb.hl.cn
 .gate-tl.hl.cn
