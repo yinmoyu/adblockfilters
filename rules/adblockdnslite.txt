@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260315161733
-! Last modified: 2026/03/15 16:17:33
-! Blocked domains: 5160
+! Version: 20260316001253
+! Last modified: 2026/03/16 00:12:53
+! Blocked domains: 5145
 ! unBlocked domains: 16
 !
 ||kwflvcdn.000dn.com^
@@ -621,7 +621,6 @@
 ||aoe-google.hl.cn^
 ||aoe-qishuiyinyue.hl.cn^
 ||aoe-wps.hl.cn^
-||aoo-google.hl.cn^
 ||aoqinglv.cn^
 ||wxhawk.aoscdn.com^
 ||log-pub-hk.aoshitang.com^
@@ -1487,7 +1486,6 @@
 ||eheb8.cn^
 ||tr.ekatox.com^
 ||ekdky.cn^
-||ekm-google.com.cn^
 ||eknz.cn^
 ||wellfaction.ekzhwp.cn^
 ||adashx.ut.ele.me^
@@ -1772,7 +1770,6 @@
 ||goodoffice.cn^
 ||google-analytics-cn.com^
 ||google-analytics.com^
-||google-chrom.hl.cn^
 ||google-google-google.hl.cn^
 ||google-llq.hl.cn^
 ||ads.google.cn^
@@ -2421,7 +2418,6 @@
 ||smetrics.kioxia.com.cn^
 ||kissfang.cn^
 ||kivo.fun^
-||kkb-google.hl.cn^
 ||adl.kkguan.com^
 ||houyi.kkmh.com^
 ||ipv4.kkmh.com^
@@ -2462,7 +2458,6 @@
 ||api.kingdata.ksyun.com^
 ||hdns.ksyun.com^
 ||c.kuaiduizuoye.com^
-||kuailian-cn.hl.cn^
 ||kuailian-cnzh.hl.cn^
 ||kuailianac.hl.cn^
 ||kuailiandg.hl.cn^
@@ -3084,7 +3079,6 @@
 ||turbo2sdk-push.oupeng.com^
 ||ad.ourgame.com^
 ||ourl.cn^
-||out-google.hl.cn^
 ||at-af.outfit7.com^
 ||bidder.dsp.outfit7.com^
 ||hb-af-us-central1.outfit7.com^
@@ -3594,7 +3588,6 @@
 ||smetrics.schindler.cn^
 ||schooloffice.cn^
 ||scjpqut.cn^
-||sckexing.cn^
 ||sckfcn.cn^
 ||statscollector.sd-rtn.com^
 ||sd6hon.cn^
@@ -3784,7 +3777,6 @@
 ||worldwide.sogou.com^
 ||ws-keyboard.shouji.sogou.com^
 ||theta.sogoucdn.com^
-||sogoushurufa.hl.cn^
 ||888.tv.sohu.com^
 ||ad.sohu.com^
 ||ads.sohu.com^
@@ -3828,7 +3820,6 @@
 ||click1n.soufun.com^
 ||countubn.light.soufun.com^
 ||tongji.home.soufun.com^
-||sougou-shurufa.hl.cn^
 ||roi.soulapp.cn^
 ||sgg.southcn.com^
 ||cod.southmoney.com^
@@ -4485,8 +4476,6 @@
 ||log-stats.weathercn.com^
 ||zgzxm.weathercn.com^
 ||zgzxs.weathercn.com^
-||web-chrom.hl.cn^
-||web-chromee.hl.cn^
 ||web-okx.hl.cn^
 ||web3live.cn^
 ||webdissector.com^
@@ -4524,7 +4513,6 @@
 ||whalecpan.cn^
 ||whalememory.cn^
 ||whaleprotect.cn^
-||whatsapp-gwlm.com.cn^
 ||whyfate.cn^
 ||whytd.com^
 ||log.wifi.com^
@@ -4551,13 +4539,11 @@
 ||wmxke.com^
 ||wn68din.cn^
 ||wnp.com^
-||wok-google.com.cn^
 ||analytics.wondershare.cc^
 ||event.wondershare.com^
 ||go.pardot.wondershare.com^
 ||platform.wondershare.com^
 ||irurng.wondershare.jp^
-||wonengy.com^
 ||woniu.com^
 ||analytics.woozooo.com^
 ||statics.woozooo.com^
@@ -5035,7 +5021,6 @@
 ||slotabrosdev.zharev.com^
 ||slotabrosuat.zharev.com^
 ||zhcn-chrome.hl.cn^
-||zhcn-kuailian.hl.cn^
 ||cdnlog.zhenai.com^
 ||1.zhev.com.cn^
 ||zhflodsix.cn^

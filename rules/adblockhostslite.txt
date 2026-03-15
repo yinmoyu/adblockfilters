@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260315161733
-# Last modified: 2026/03/15 16:17:33
-# Blocked domains: 5160
+# Version: 20260316001253
+# Last modified: 2026/03/16 00:12:53
+# Blocked domains: 5145
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -635,7 +635,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	aoe-google.hl.cn
 0.0.0.0	aoe-qishuiyinyue.hl.cn
 0.0.0.0	aoe-wps.hl.cn
-0.0.0.0	aoo-google.hl.cn
 0.0.0.0	aoqinglv.cn
 0.0.0.0	wxhawk.aoscdn.com
 0.0.0.0	log-pub-hk.aoshitang.com
@@ -1501,7 +1500,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	eheb8.cn
 0.0.0.0	tr.ekatox.com
 0.0.0.0	ekdky.cn
-0.0.0.0	ekm-google.com.cn
 0.0.0.0	eknz.cn
 0.0.0.0	wellfaction.ekzhwp.cn
 0.0.0.0	adashx.ut.ele.me
@@ -1786,7 +1784,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	goodoffice.cn
 0.0.0.0	google-analytics-cn.com
 0.0.0.0	google-analytics.com
-0.0.0.0	google-chrom.hl.cn
 0.0.0.0	google-google-google.hl.cn
 0.0.0.0	google-llq.hl.cn
 0.0.0.0	ads.google.cn
@@ -2435,7 +2432,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	smetrics.kioxia.com.cn
 0.0.0.0	kissfang.cn
 0.0.0.0	kivo.fun
-0.0.0.0	kkb-google.hl.cn
 0.0.0.0	adl.kkguan.com
 0.0.0.0	houyi.kkmh.com
 0.0.0.0	ipv4.kkmh.com
@@ -2476,7 +2472,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.kingdata.ksyun.com
 0.0.0.0	hdns.ksyun.com
 0.0.0.0	c.kuaiduizuoye.com
-0.0.0.0	kuailian-cn.hl.cn
 0.0.0.0	kuailian-cnzh.hl.cn
 0.0.0.0	kuailianac.hl.cn
 0.0.0.0	kuailiandg.hl.cn
@@ -3098,7 +3093,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	turbo2sdk-push.oupeng.com
 0.0.0.0	ad.ourgame.com
 0.0.0.0	ourl.cn
-0.0.0.0	out-google.hl.cn
 0.0.0.0	at-af.outfit7.com
 0.0.0.0	bidder.dsp.outfit7.com
 0.0.0.0	hb-af-us-central1.outfit7.com
@@ -3608,7 +3602,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	smetrics.schindler.cn
 0.0.0.0	schooloffice.cn
 0.0.0.0	scjpqut.cn
-0.0.0.0	sckexing.cn
 0.0.0.0	sckfcn.cn
 0.0.0.0	statscollector.sd-rtn.com
 0.0.0.0	sd6hon.cn
@@ -3798,7 +3791,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	worldwide.sogou.com
 0.0.0.0	ws-keyboard.shouji.sogou.com
 0.0.0.0	theta.sogoucdn.com
-0.0.0.0	sogoushurufa.hl.cn
 0.0.0.0	888.tv.sohu.com
 0.0.0.0	ad.sohu.com
 0.0.0.0	ads.sohu.com
@@ -3842,7 +3834,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	click1n.soufun.com
 0.0.0.0	countubn.light.soufun.com
 0.0.0.0	tongji.home.soufun.com
-0.0.0.0	sougou-shurufa.hl.cn
 0.0.0.0	roi.soulapp.cn
 0.0.0.0	sgg.southcn.com
 0.0.0.0	cod.southmoney.com
@@ -4499,8 +4490,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	log-stats.weathercn.com
 0.0.0.0	zgzxm.weathercn.com
 0.0.0.0	zgzxs.weathercn.com
-0.0.0.0	web-chrom.hl.cn
-0.0.0.0	web-chromee.hl.cn
 0.0.0.0	web-okx.hl.cn
 0.0.0.0	web3live.cn
 0.0.0.0	webdissector.com
@@ -4538,7 +4527,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	whalecpan.cn
 0.0.0.0	whalememory.cn
 0.0.0.0	whaleprotect.cn
-0.0.0.0	whatsapp-gwlm.com.cn
 0.0.0.0	whyfate.cn
 0.0.0.0	whytd.com
 0.0.0.0	log.wifi.com
@@ -4565,13 +4553,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	wmxke.com
 0.0.0.0	wn68din.cn
 0.0.0.0	wnp.com
-0.0.0.0	wok-google.com.cn
 0.0.0.0	analytics.wondershare.cc
 0.0.0.0	event.wondershare.com
 0.0.0.0	go.pardot.wondershare.com
 0.0.0.0	platform.wondershare.com
 0.0.0.0	irurng.wondershare.jp
-0.0.0.0	wonengy.com
 0.0.0.0	woniu.com
 0.0.0.0	analytics.woozooo.com
 0.0.0.0	statics.woozooo.com
@@ -5049,7 +5035,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	slotabrosdev.zharev.com
 0.0.0.0	slotabrosuat.zharev.com
 0.0.0.0	zhcn-chrome.hl.cn
-0.0.0.0	zhcn-kuailian.hl.cn
 0.0.0.0	cdnlog.zhenai.com
 0.0.0.0	1.zhev.com.cn
 0.0.0.0	zhflodsix.cn
