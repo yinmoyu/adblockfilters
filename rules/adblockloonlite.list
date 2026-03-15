@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/03/15 00:11:44
-#!support=5087
+#!date=2026/03/15 08:48:26
+#!support=5083
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -1081,8 +1081,6 @@ DOMAIN-SUFFIX,cityhuitech.com
 DOMAIN-SUFFIX,3.cjcp.cn
 DOMAIN-SUFFIX,www.claiks.com
 DOMAIN-SUFFIX,clarins.com.cn
-DOMAIN-SUFFIX,www.clash-github.com.cn
-DOMAIN-SUFFIX,clash-org.com.cn
 DOMAIN-SUFFIX,claude-cn.hl.cn
 DOMAIN-SUFFIX,cleartone.club
 DOMAIN-SUFFIX,log-api.cli.im
@@ -3006,7 +3004,6 @@ DOMAIN-SUFFIX,imagzine.oppomobile.com
 DOMAIN-SUFFIX,u.oppomobile.com
 DOMAIN-SUFFIX,optimix.asia
 DOMAIN-SUFFIX,oqyiapj.cn
-DOMAIN-SUFFIX,oraypc.com.cn
 DOMAIN-SUFFIX,orlenity-pl.com
 DOMAIN-SUFFIX,visit.oschina.net
 DOMAIN-SUFFIX,otme.cn
@@ -4557,7 +4554,6 @@ DOMAIN-SUFFIX,impott.ad.xelements.cn
 DOMAIN-SUFFIX,monott.ad.xelements.cn
 DOMAIN-SUFFIX,v.ad.xelements.cn
 DOMAIN-SUFFIX,xerhibx.cn
-DOMAIN-SUFFIX,xf221.cn
 DOMAIN-SUFFIX,bbb.xfrwu.cn
 DOMAIN-SUFFIX,xftsjv.top
 DOMAIN-SUFFIX,dt.xfyun.cn
