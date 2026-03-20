@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/03/20 00:25:55
-#!support=5233
+#!date=2026/03/20 08:42:40
+#!support=5236
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -88,6 +88,9 @@
 .d1.1ppt.com
 .ssp.21ic.com
 .tj.21ic.com
+.bd-js1.2345.com
+.bd-retrieval1.2345.com
+.bdcode.2345.com
 .2481e.com
 .25662zubo23739.com
 .2607.cn
