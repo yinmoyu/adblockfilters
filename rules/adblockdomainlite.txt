@@ -3,12 +3,11 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260323162743
-! Last modified: 2026/03/23 16:27:43
-! Blocked domains: 5480
+! Version: 20260324002624
+! Last modified: 2026/03/24 00:26:24
+! Blocked domains: 5436
 !
 kwflvcdn.000dn.com
-0123456789a.com
 img.0279.net
 027dir.com
 o.027eat.com
@@ -333,13 +332,6 @@ m5.66077.cn
 67914.xyz
 67986.xyz
 kl.67it.com
-68004.xyz
-68019.xyz
-68021.xyz
-68037.xyz
-68038.xyz
-68058.xyz
-68087.xyz
 68287zubo85737.com
 6fm4dcpj31.com
 6iiz8ni96v.com
@@ -906,15 +898,11 @@ a.bake818.cn
 bakerdavid.shop
 j.baminw.cn
 ad.bandao.cn
-bankwest-au.vip
 bankwest-benefits365.vip
-bankwest-points.vip
 bankwest-reward.com
 bankwest-reward.net
 bankwest365account.vip
-bankwestau.vip
 bankwestoffer365.vip
-bankwestrewards.vip
 midinfo.baofeng.com
 barhuta.com
 baycode.cn
@@ -954,7 +942,6 @@ smetrics.beatsbydre.com.cn
 beigonggroup.com
 beijydt.cn
 beizi.biz
-bendigohome365.vip
 smetrics.benefitcosmetics.com.cn
 better.com.np
 betylife.com
@@ -1161,14 +1148,11 @@ chromecn-google.hl.cn
 chromeee-google.hl.cn
 chromekr-google.com.cn
 chromen-google.hl.cn
-chromeuk-google.com.cn
-chromeus-google.com.cn
 chromew-google.com.cn
 chromezh-google.hl.cn
 chrone-google.hl.cn
 chroommee-google.hl.cn
 chroomnee-google.hl.cn
-chroone.hl.cn
 chroonme-google.hl.cn
 chroum-google.hl.cn
 chrromcce-google.hl.cn
@@ -1230,7 +1214,6 @@ senlog.cmpassport.com
 cmpxaup.cn
 ggx.cmvideo.cn
 cn-chhrome-google.hl.cn
-cn-chrom.hl.cn
 cn-chrome-google-zh.hl.cn
 cn-clash.hl.cn
 cn-goog-google.hl.cn
@@ -1354,12 +1337,10 @@ a.dangdang.com
 click.dangdang.com
 schprompt.dangdang.com
 t.dangdang.com
-dao-asi.top
 daoass.cfd
 daock.bond
 daokarcdn.cn
 daonk.bond
-daoseis.top
 daosin.bond
 daoyoudao.com
 daque.cn
@@ -1441,7 +1422,6 @@ ddsdsad.com
 dm1.ddwk8.cn
 trackercollect.ddxq.mobi
 trackerfeed.ddxq.mobi
-de-google.hl.cn
 sm.dell.com
 aem.dentsuchina.cn
 www.destinationurl.com
@@ -1451,7 +1431,6 @@ dexinyi.cn
 dg186.cn
 dgrj.com.cn
 d.dgzj.com
-dhlr.cn
 dianru.com
 digitalfiles.org
 digitaltrustoffice.com
@@ -1750,7 +1729,6 @@ mon11-misc-lf.fqnovel.com
 mon3-misc-lf.fqnovel.com
 rtlog5-applog-lf.fqnovel.com
 fqxkj.cn
-fr-google.hl.cn
 trace-v1.free-reels.com
 friendshipoffice.xyz
 frodzo.club
@@ -2141,7 +2119,6 @@ auth-launcher-sa.hismarttv.com
 auth-na.hismarttv.com
 auth-phone-afr.hismarttv.com
 auth-phone-ap.hismarttv.com
-auth-phone-na.hismarttv.com
 auth-sa.hismarttv.com
 cdn-plugin-sync-upgrade-juui.hismarttv.com
 msg-em.hismarttv.com
@@ -2155,7 +2132,6 @@ gentian-frd.hjapi.com
 valuefication.hjbkyh.cn
 resu8.hjfile.cn
 hjpqt.cn
-hk-ch-google.hl.cn
 hkeig.com
 hkkeafj.cn
 hlstlyy.com
@@ -2358,7 +2334,6 @@ atb-stats-api.imolive.tv
 imop.com
 ads-gdl.imovideo.ru
 pyk.in-neo.cn
-inc-wpsoffice.ah.cn
 analytics.infility.cn
 link.infineon.cn
 apidns.kwd.inkuai.com
@@ -2512,7 +2487,6 @@ cookies.joneslanglasalle.com.cn
 email-ap.joneslanglasalle.com.cn
 telemetry.api.joox.com
 joyfartech.com
-jp-google.hl.cn
 jpecrl.cn
 jpush.cn
 jpush.io
@@ -2830,7 +2804,6 @@ libaishuo.com
 track.libii.cn
 lichunxiao.cn
 liebaovip.com
-line-pc.hl.cn
 lineap.hl.cn
 ads.linkedin.cn
 linkhaitao.com
@@ -2965,7 +2938,6 @@ metaversemolecule.com
 mexicopuntosf.top
 a.mfcad.net
 mflowtani.bond
-mflowthei.shop
 mflowthuni.bond
 mflowthyui.bond
 mfxyqh.cn
@@ -3755,7 +3727,6 @@ sacre.cn
 404.safedog.cn
 go.safemini.club
 web.safemini.club
-safew-go.hl.cn
 sagetrc.com
 saitef.cn
 smetrics.samsung.com.cn
@@ -3801,7 +3772,6 @@ seordl.cn
 services-amazon-webservices.com
 logstat.t.sfht.com
 sfpyykk22.cn
-sg-google.hl.cn
 track.sgdmobile.com
 sglyd.cn
 shahidul.com.bd
@@ -4212,7 +4182,6 @@ answers.teradata.com.cn
 tesconews.top
 tfkuailian.hl.cn
 tgfyq.cn
-th-google.hl.cn
 th7.cn
 advert.api.thejoyrun.com
 adpai.thepaper.cn
@@ -4245,7 +4214,6 @@ site-p2p-ads.tngdigital.com.my
 tnjvz.cn
 pxx.tnklrs.cn
 tnze.cn
-todesk-pc.hl.cn
 abtest.todesk.com
 st.todesk.com
 todesk-log-upload.todesk.com
@@ -4289,7 +4257,6 @@ toutiaopage.com
 tovbus.cn
 tovppl.cn
 trackingio.com
-tronlink.ooo
 ta.trs.cn
 trustutn.org
 trustwalletqbgwrukou.com.cn
@@ -4375,7 +4342,6 @@ uhabo.com
 bdjs.uimg.cn
 uimr.cn
 ujian.cc
-uk-google.hl.cn
 ultrapay.net
 umeng.com
 gf.umenglog.com
@@ -4404,7 +4370,6 @@ uqz.com
 urbanfind.club
 uri6.com
 urlqh.cn
-us-google.hl.cn
 usdcqb.com.cn
 usrzh.cn
 gyqpyr.utsource.net
@@ -4518,7 +4483,6 @@ asia-vcode-or.vivoglobal.com
 asia-vpushonrt-stsdk.vivoglobal.com
 asia-vpushort-stsdk.vivoglobal.com
 br-p.vivoglobal.com
-cl-vcode-od.vivoglobal.com
 cname-asia-comonrt-stsdk.vivoglobal.com
 cname-asia-st-exappupgrade.vivoglobal.com
 cname-in-apport-stsdk.vivoglobal.com
@@ -4801,7 +4765,6 @@ wps-cnn.hl.cn
 wps-cnzh.hl.cn
 wps-ddk.hl.cn
 wps-down.hl.cn
-wps-go.hl.cn
 wps-hl.hl.cn
 wps-jinshan.hl.cn
 wps-lws.hl.cn
@@ -5061,12 +5024,9 @@ ca.yangshengtv.com
 yanzhouoffice.top
 yaodaipeishi.cn
 yatemy.cn
-yaxing.hl.cn
 yaxing111.hl.cn
 yaxing222.hl.cn
 yaxing333.hl.cn
-yaxingguan.hl.cn
-yaxingguanwang.hl.cn
 yc-apple.cn
 ycsshb.cn
 ydgsvls.cn
@@ -5149,7 +5109,6 @@ gorgon.youdao.com
 sdk-log-inter.youdao.com
 union.youdao.com
 ydpushserver.youdao.com
-youdaofanyi.hl.cn
 static.youdm.cn
 bdcode.youke.com
 ad.youku.com
@@ -5283,13 +5242,10 @@ ssp.zf313.com
 zggxkj.com.cn
 zgisp.net
 yin1.zgpingshu.com
-zh-chrom.hl.cn
 zh-chrome-chrome.hl.cn
 zh-chrome-google-cn.hl.cn
 zh-clash.hl.cn
-zh-cn-chroome.hl.cn
 zh-cn-google.hl.cn
-zh-cn-goolge.hl.cn
 zh-ggoogle-cn.hl.cn
 zh-googgle-cn.hl.cn
 zh-google-cn-google.hl.cn
