@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/03/26 00:33:31
-#!support=5420
+#!date=2026/03/26 08:46:33
+#!support=5418
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -4824,7 +4824,6 @@ DOMAIN-SUFFIX,xdrig.com
 DOMAIN-SUFFIX,sensors.h5.xed.plus
 DOMAIN-SUFFIX,xegnfwkju.com
 DOMAIN-SUFFIX,xerhibx.cn
-DOMAIN-SUFFIX,bbb.xfrwu.cn
 DOMAIN-SUFFIX,xftsjv.top
 DOMAIN-SUFFIX,dt.xfyun.cn
 DOMAIN-SUFFIX,pics.xgo-img.com.cn
@@ -5322,7 +5321,6 @@ DOMAIN-SUFFIX,w11.zhongkaohelp.com
 DOMAIN-SUFFIX,zhongsijiacheng.com
 DOMAIN-SUFFIX,jy.zhongxues.com
 DOMAIN-SUFFIX,zhuangxiu567.com
-DOMAIN-SUFFIX,dla.zhuayoukong.com
 DOMAIN-SUFFIX,u.zhugeapi.net
 DOMAIN-SUFFIX,zgsdk.zhugeio.com
 DOMAIN-SUFFIX,umami.zhul.in
