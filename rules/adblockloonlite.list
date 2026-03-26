@@ -7,7 +7,7 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/03/26 16:25:48
+#!date=2026/03/26 16:47:11
 #!support=5471
 #!proxy-select=REJECT
 #
@@ -151,6 +151,7 @@ DOMAIN-SUFFIX,ad.dev.360.cn
 DOMAIN-SUFFIX,ad.iot.360.cn
 DOMAIN-SUFFIX,ad.jia.360.cn
 DOMAIN-SUFFIX,ad.life.360.cn
+DOMAIN-SUFFIX,aicleaner.shouji.360.cn
 DOMAIN-SUFFIX,care.help.360.cn
 DOMAIN-SUFFIX,dd.browser.360.cn
 DOMAIN-SUFFIX,f.360.cn
@@ -161,7 +162,6 @@ DOMAIN-SUFFIX,openbox.mobilem.360.cn
 DOMAIN-SUFFIX,papi.look.360.cn
 DOMAIN-SUFFIX,pub.se.360.cn
 DOMAIN-SUFFIX,s.360.cn
-DOMAIN-SUFFIX,shouji.360.cn
 DOMAIN-SUFFIX,soft.data.weather.360.cn
 DOMAIN-SUFFIX,stat.m.360.cn
 DOMAIN-SUFFIX,stat.sd.360.cn

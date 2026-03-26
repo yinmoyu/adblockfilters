@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: th0k2Bvc/xDj4usvZp+5VA
-! Version: 202603260812
+! Checksum: kh89kKBjiZVJmDtcs2Vplg
+! Version: 202603260831
 ! Title: EasyList China
-! Last modified: 26 Mar 2026 08:12 UTC
+! Last modified: 26 Mar 2026 08:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
