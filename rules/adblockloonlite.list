@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/03/27 11:17:23
-#!support=5839
+#!date=2026/03/27 16:23:15
+#!support=5836
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -2561,7 +2561,6 @@ DOMAIN-SUFFIX,ixlycm.cn
 DOMAIN-SUFFIX,izgl.cn
 DOMAIN-SUFFIX,adapi.izuiyou.com
 DOMAIN-SUFFIX,adstat.izuiyou.com
-DOMAIN-SUFFIX,j323c.xyz
 DOMAIN-SUFFIX,j6zh4g0.cn
 DOMAIN-SUFFIX,jab88.com
 DOMAIN-SUFFIX,eventlog.jackpot.de
@@ -3583,7 +3582,6 @@ DOMAIN-SUFFIX,oyz61nhz8.com
 DOMAIN-SUFFIX,ozogame.com
 DOMAIN-SUFFIX,p0y.cn
 DOMAIN-SUFFIX,p0yixb3wfv.com
-DOMAIN-SUFFIX,p210x.xyz
 DOMAIN-SUFFIX,p2cdn.com
 DOMAIN-SUFFIX,p6992.cn
 DOMAIN-SUFFIX,p74ugyuur.com
@@ -4063,7 +4061,6 @@ DOMAIN-SUFFIX,accoun.rywlyq.cn
 DOMAIN-SUFFIX,rz261.cn
 DOMAIN-SUFFIX,rznscya.cn
 DOMAIN-SUFFIX,s0p6s02x28.com
-DOMAIN-SUFFIX,s114r.xyz
 DOMAIN-SUFFIX,s1gr2198h.com
 DOMAIN-SUFFIX,s4y6lhotaw.com
 DOMAIN-SUFFIX,sa-kuailian.com.cn
