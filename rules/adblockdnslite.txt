@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260329161854
-! Last modified: 2026/03/29 16:18:54
-! Blocked domains: 5729
+! Version: 20260330001421
+! Last modified: 2026/03/30 00:14:21
+! Blocked domains: 5653
 ! unBlocked domains: 16
 !
 ||kwflvcdn.000dn.com^
@@ -55,7 +55,6 @@
 ||countly.mail.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
-||e-p4p.163.com^
 ||fp-upload.dun.163.com^
 ||g.163.com^
 ||httpdns.music.163.com^
@@ -90,7 +89,6 @@
 ||273dce9ebd.top^
 ||285200.com^
 ||a1.289.com^
-||2estafetamexicana.top^
 ||2girls1finger.org^
 ||2mdn-cn.net^
 ||2pogg4c.cn^
@@ -167,7 +165,6 @@
 ||www.3aym.cn^
 ||fc.3dmgame.com^
 ||ga1.3dmgame.com^
-||3estafetamexicana.top^
 ||gostat.3g.cn^
 ||goupdate.3g.cn^
 ||acc.3gbizhi.com^
@@ -319,11 +316,6 @@
 ||66737.xyz^
 ||66769.xyz^
 ||66806.xyz^
-||66982.xyz^
-||67156.xyz^
-||67193.xyz^
-||67218.xyz^
-||67269.xyz^
 ||6789.net^
 ||kl.67it.com^
 ||68287zubo85737.com^
@@ -352,7 +344,6 @@
 ||7s7bvoungt.com^
 ||7s8z7w24u.com^
 ||80712.cc^
-||80sdyw.hl.cn^
 ||m1.81312.com^
 ||81387.cc^
 ||8181zx.com^
@@ -476,7 +467,6 @@
 ||ahyjcud.cn^
 ||ai-aisizhushou.hl.cn^
 ||ai-i4.hl.cn^
-||ai-openclaw.hl.cn^
 ||ai-sogou.hl.cn^
 ||ai-sougou.hl.cn^
 ||ai-wps.hl.cn^
@@ -696,7 +686,6 @@
 ||apps-google-cn.com.cn^
 ||apps-google-cn.hl.cn^
 ||apps-google-hl.hl.cn^
-||apps-google-zh.com.cn^
 ||apps-openclaw.com.cn^
 ||apps-safew-cn.com.cn^
 ||apps-www-google.com.cn^
@@ -1129,7 +1118,6 @@
 ||pv.cheshi.com^
 ||qc1.cheshipin.com^
 ||z1.chezhuzhinan.com^
-||chhrromee-google.hl.cn^
 ||t6.china-xian.com^
 ||log.china.cn^
 ||ads.china.com^
@@ -1160,28 +1148,21 @@
 ||chrom-pc.cn^
 ||chromb-google.com.cn^
 ||chrome-ch.hl.cn^
-||chrome-download.com.cn^
 ||chrome-google-google.hl.cn^
 ||chrome-googleapp.hl.cn^
 ||chrome-googlee.hl.cn^
 ||chrome-googll.com.cn^
 ||chrome-hl.hl.cn^
 ||chrome-me.hl.cn^
-||chrome-zhcn.hl.cn^
 ||chrome-zhgoogle.hl.cn^
-||chromechr-google.hl.cn^
 ||chromecn-google.hl.cn^
-||chromeee-google.hl.cn^
 ||chromezh-google.hl.cn^
 ||chromgoogle.hl.cn^
 ||chrondl-google.com.cn^
-||chroommee-google.hl.cn^
-||chroomnee-google.hl.cn^
 ||chroonme-google.hl.cn^
 ||chroum-google.hl.cn^
 ||chrromcce-google.hl.cn^
 ||chrrommee-google.hl.cn^
-||chruome-google.hl.cn^
 ||chshcms.net^
 ||config.chsmarttv.com^
 ||data.chsmarttv.com^
@@ -1207,13 +1188,10 @@
 ||www.claiks.com^
 ||clarins.com.cn^
 ||clash-aa.hl.cn^
-||clash-clash.hl.cn^
 ||clash-down.hl.cn^
 ||clash-meta.hl.cn^
 ||clash-sh.hl.cn^
-||clash-verge.hl.cn^
 ||clash-vpn.hl.cn^
-||clash-web.hl.cn^
 ||cleartone.club^
 ||log-api.cli.im^
 ||bd1.click.com.cn^
@@ -1235,9 +1213,7 @@
 ||senlog.cmpassport.com^
 ||cmpxaup.cn^
 ||cn-chhrome-google.hl.cn^
-||cn-chrome-download.com.cn^
 ||cn-chrome-google-zh.hl.cn^
-||cn-clash.hl.cn^
 ||cn-ggoogle-google-zh.hl.cn^
 ||cn-goog-google.hl.cn^
 ||cn-googglle-google-zh.hl.cn^
@@ -1270,8 +1246,6 @@
 ||cn-safew-cn.com.cn^
 ||cn-safeww.com.cn^
 ||cn-telegramxz.com.cn^
-||cn-wpsweb.hl.cn^
-||cn-wpswps.com.cn^
 ||cn-www-google.com.cn^
 ||ad-api.cnblogs.com^
 ||analytics.cnblogs.com^
@@ -1280,14 +1254,12 @@
 ||abcd.cnhuoche.com^
 ||hmjs.cnmo-img.com.cn^
 ||webcert.cnmstl.net^
-||cnn-google-google.hl.cn^
 ||cnn-google.hl.cn^
 ||cnn-leyu.com.cn^
 ||smuc.cnnfootballclub.com^
 ||adp.cnool.net^
 ||clickcount.cnool.net^
 ||ad.cnr.cn^
-||cns-clash.hl.cn^
 ||phpstat.cntcm.com.cn^
 ||cnwps.com.cn^
 ||cnwps.hl.cn^
@@ -1479,10 +1451,8 @@
 ||d.dgzj.com^
 ||ad.dhgate.com^
 ||dhlink.bond^
-||dhlr.cn^
 ||dianru.com^
 ||digitalfiles.org^
-||digitaltrustoffice.com^
 ||dikuailian.com.cn^
 ||bea-s.dinghuoche.com^
 ||resolver.dingtalk.com^
@@ -1924,11 +1894,7 @@
 ||google-gooogle.hl.cn^
 ||google-www-chrome.com.cn^
 ||google-www-chrome.hl.cn^
-||google-zhcnc.hl.cn^
 ||google-zhcngoogle.hl.cn^
-||google-zhcnq.hl.cn^
-||google-zhcnz.hl.cn^
-||google-zhcnzh.hl.cn^
 ||google-zhgoogle.hl.cn^
 ||ads.google.cn^
 ||adsense.google.cn^
@@ -1942,7 +1908,6 @@
 ||googleadservices.com^
 ||googleanalytics.com^
 ||googleapp-google.hl.cn^
-||googlechrome-download.com.cn^
 ||googlecn-google.hl.cn^
 ||googledianziqianbao.com.cn^
 ||googleoptimize-cn.com^
@@ -2197,7 +2162,6 @@
 ||hnol.net^
 ||hnxxt.net^
 ||hologramid.cn^
-||home-clash.hl.cn^
 ||om.hotels.cn^
 ||ad.house365.com^
 ||adadmin.house365.com^
@@ -2240,7 +2204,6 @@
 ||hsrgnac.cn^
 ||hswfj.cn^
 ||hsych.com^
-||hth-live.com.cn^
 ||hth-safe.com.cn^
 ||htkgsx.com^
 ||http-wps.com.cn^
@@ -2547,7 +2510,6 @@
 ||jrq39d1r8.com^
 ||jsdajp.click^
 ||jsebmcv.cn^
-||jshbbs.cn^
 ||jsing.net^
 ||jsmxkj.com^
 ||fpb1.jsq886.com^
@@ -2555,7 +2517,6 @@
 ||jszctech.com^
 ||lm10111.jtrincc.cn^
 ||jtvwbp.cn^
-||jtx12580.com^
 ||junshi8181.com^
 ||y1.junshitt.com^
 ||junwbjc.cn^
@@ -2705,8 +2666,6 @@
 ||kuailianfcg.com.cn^
 ||kuailianfcw.com.cn^
 ||kuailianfey.com.cn^
-||kuailianfil.com.cn^
-||kuailianfit.com.cn^
 ||kuailianfit.hl.cn^
 ||kuailianfly.hl.cn^
 ||kuailianfog.com.cn^
@@ -2714,15 +2673,12 @@
 ||kuailianfug.com.cn^
 ||kuailiangapp.com.cn^
 ||kuailiangbr.com.cn^
-||kuailiangdx.com.cn^
 ||kuailiangfc.com.cn^
 ||kuailiangnu.com.cn^
 ||kuailiangps.com.cn^
-||kuailiangtt.com.cn^
 ||kuailiangvh.com.cn^
 ||kuailiangzl.com.cn^
 ||kuailianhdu.com.cn^
-||kuailianhen.com.cn^
 ||kuailianhip.com.cn^
 ||kuailianhnd.com.cn^
 ||kuailianhug.com.cn^
@@ -2733,7 +2689,6 @@
 ||kuailianita.com.cn^
 ||kuailianitw.com.cn^
 ||kuailianjai.com.cn^
-||kuailianjap.com.cn^
 ||kuailianjaw.com.cn^
 ||kuailianjiasuqi.com.cn^
 ||kuailianjig.com.cn^
@@ -2750,7 +2705,6 @@
 ||kuailianlkjhg.com.cn^
 ||kuailianlot.hl.cn^
 ||kuailianlpc.com.cn^
-||kuailianlun.com.cn^
 ||kuailianluv.com.cn^
 ||kuailianlux.com.cn^
 ||kuailianlyf.com.cn^
@@ -2774,7 +2728,6 @@
 ||kuailianpropropc.com.cn^
 ||kuailianqfk.com.cn^
 ||kuailianqis.com.cn^
-||kuailianrar.com.cn^
 ||kuailianray.com.cn^
 ||kuailianros.com.cn^
 ||kuailianrow.com.cn^
@@ -2795,7 +2748,6 @@
 ||kuailiantfd.com.cn^
 ||kuailiantmc.com.cn^
 ||kuailiantoe.com.cn^
-||kuailianton.com.cn^
 ||kuailiantrk.com.cn^
 ||kuailianuae.com.cn^
 ||kuailianvcj.com.cn^
@@ -2816,7 +2768,6 @@
 ||kuailianygh.com.cn^
 ||kuailianyou.hl.cn^
 ||kuailianzed.com.cn^
-||kuailianzgw.com.cn^
 ||kuailianzhcn.com.cn^
 ||kuailianzly.com.cn^
 ||kuailianzmn.com.cn^
@@ -2915,7 +2866,6 @@
 ||zq.lansedir.com^
 ||applog-metrics.lanxin.cn^
 ||laomaotao.net^
-||lapostemonaco.com^
 ||images.newsletter.larksuite.com^
 ||laslki.cn^
 ||un1.lawyernet.cn^
@@ -3023,8 +2973,6 @@
 ||livephoto.cn^
 ||liveservice.top^
 ||ljarfvg.cn^
-||lk-chrome-google.com.cn^
-||lk-google.hl.cn^
 ||cortorium.lkcqzi.cn^
 ||lmqyz.com^
 ||lnk0.com^
@@ -3324,7 +3272,6 @@
 ||nasimobi.com^
 ||dl.natgo.cn^
 ||nbhpqn.cn^
-||nc-google-google.hl.cn^
 ||sdk.stat.foreign.nearme.com.cn^
 ||storedl1.nearme.com.cn^
 ||finance.needtoday.com^
@@ -3389,7 +3336,6 @@
 ||logserver.nzxcloud.cn^
 ||oadz.com^
 ||gtm.oasisfeng.com^
-||obsidian-hl.hl.cn^
 ||obsidian.hl.cn^
 ||obv3epx22d.com^
 ||accoun.ocbuvja.cn^
@@ -3425,10 +3371,6 @@
 ||openai.wf^
 ||openclaw-ai-bot.com.cn^
 ||openclaw-cc.com.cn^
-||openclaw-hl.hl.cn^
-||openclawc.com.cn^
-||openclawt.com.cn^
-||openclawy.com.cn^
 ||openinstall.io^
 ||openlive.cn^
 ||adsfs.oppomobile.com^
@@ -3486,9 +3428,7 @@
 ||passionsex.vip^
 ||bt1.patexplorer.com^
 ||pbaiyho.cn^
-||pc-clash.hl.cn^
 ||pc-i4.hl.cn^
-||pc-teams.hl.cn^
 ||pc-youdaofanyi.hl.cn^
 ||ipad.pc899.cn^
 ||count.pcauto.com.cn^
@@ -3907,7 +3847,6 @@
 ||rsvqlz.cn^
 ||rtbasia.com^
 ||rtbwave.com^
-||rtinka.bond^
 ||rts-kuailian.com.cn^
 ||ds.ruanwengfa.com^
 ||rui61.cn^
@@ -3995,7 +3934,6 @@
 ||senbiaojita.com^
 ||sensorsdata.cn^
 ||seordl.cn^
-||services-amazon-webservices.com^
 ||seurss.eu.cc^
 ||logstat.t.sfht.com^
 ||sfpyykk22.cn^
@@ -4476,7 +4414,6 @@
 ||toutiaopage.com^
 ||tovbus.cn^
 ||tovppl.cn^
-||tqkuailian.com.cn^
 ||trackingio.com^
 ||transocks-cn.hl.cn^
 ||transocks.hl.cn^
@@ -4562,9 +4499,6 @@
 ||uebabuf.cn^
 ||ugdtimg.com^
 ||ugoogle.com.cn^
-||ugyintexas.com^
-||ugyintexes.com^
-||ugyintexzs.com^
 ||uhabo.com^
 ||bdjs.uimg.cn^
 ||uimr.cn^
@@ -4620,7 +4554,6 @@
 ||v2.uyan.cc^
 ||uyfv.cn^
 ||uyunad.com^
-||v-clash.hl.cn^
 ||log.apk.v-mate.mobi^
 ||v-vay.com^
 ||ad.v3mh.com^
@@ -4951,7 +4884,7 @@
 ||wep-google.com.cn^
 ||ad.weplayer.cc^
 ||crosspromotion.weplayer.cc^
-||wesiedu.com^
+||s1.wesiedu.com^
 ||count.west263.com^
 ||perfsight.wetest.net^
 ||htrace.wetvinfo.com^
@@ -5007,7 +4940,6 @@
 ||wps-apps.hl.cn^
 ||wps-cnn.hl.cn^
 ||wps-cnpp.com.cn^
-||wps-cnzh.hl.cn^
 ||wps-ddk.hl.cn^
 ||wps-down.hl.cn^
 ||wps-hl.hl.cn^
@@ -5023,7 +4955,6 @@
 ||wps-sp.hl.cn^
 ||wps-wps-office.com.cn^
 ||wps-ws.hl.cn^
-||wps-zhcn.hl.cn^
 ||wps-zhh.hl.cn^
 ||ad.docer.wps.cn^
 ||dyn.wps.cn^
@@ -5063,7 +4994,6 @@
 ||wumii.cn^
 ||wumii.com^
 ||content.wuxibiologics.com^
-||ww-clash.hl.cn^
 ||ww-wps.hl.cn^
 ||wwads.cn^
 ||www-bgoogle.com.cn^
@@ -5173,7 +5103,6 @@
 ||redirect.pandora.xiaomi.com^
 ||register.xmpush.global.xiaomi.com^
 ||resolver.mi.xiaomi.com^
-||sdkconfig.ad.eu.xiaomi.com^
 ||stat.pandora.xiaomi.com^
 ||stats.music.xiaomi.com^
 ||storeconfig.mistat.intl.xiaomi.com^
@@ -5247,7 +5176,6 @@
 ||www.xpdyqax.cn^
 ||xqblnei.cn^
 ||xryrylt.cn^
-||xs-office.tech^
 ||bchina-1.xsfaya.com^
 ||rdbd.xsread.com^
 ||xueaaaw.cn^
@@ -5526,7 +5454,6 @@
 ||zgyjsjymh.com^
 ||zh-chrome-chrome.hl.cn^
 ||zh-chrome-google-cn.hl.cn^
-||zh-clash.hl.cn^
 ||zh-cn-kuailian.com.cn^
 ||zh-cnkuailian.com.cn^
 ||zh-ggoogle-cn.hl.cn^
@@ -5586,9 +5513,7 @@
 ||zhck-google-chrome.hl.cn^
 ||zhcl-google-chrome.hl.cn^
 ||zhcn-google-chrome.com.cn^
-||zhcn-google-chrome.hl.cn^
 ||zhcn-telegramxz.com.cn^
-||zhcngoogle-google.hl.cn^
 ||zhcnkuailian.com.cn^
 ||zhco-google-chrome.hl.cn^
 ||zhcp-google-chrome.hl.cn^
@@ -5603,7 +5528,6 @@
 ||cdnlog.zhenai.com^
 ||zhenoffice.xyz^
 ||zhflodsix.cn^
-||zhg-google-google.hl.cn^
 ||zhgoogle-cn-cngoogle.hl.cn^
 ||zhgoogle-google.hl.cn^
 ||zhidian3g.cn^
