@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: zA3mThHo7HyR6zcLfZIP6w
-! Version: 202603310031
+! Checksum: /yrR5ZgKsDxBasnWAgQJOg
+! Version: 202603310821
 ! Title: EasyPrivacy
-! Last modified: 31 Mar 2026 00:31 UTC
+! Last modified: 31 Mar 2026 08:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8218,6 +8218,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beacon.sftoaa.com^
 ||beacon.sojern.com^
 ||beacon.statful.com^
+||beacon.webpresence.work^
 ||beacons.mediamelon.com^
 ||beam.mjhlifesciences.com^
 ||beamanalytics.b-cdn.net^
@@ -52146,6 +52147,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||analyzer.fc2.com^
 ||analyzer2.fc2.com^
 ||anyelse.com/stat^
+||api.mercari.jp/client_events/
 ||apps.nhk.jp/assets/dtm/
 ||askdoctors.jp/assets/packs/js/impression_tracker-
 ||astat.nikkei.com^
