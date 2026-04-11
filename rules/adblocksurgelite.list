@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/11 16:19:55
-#!support=5796
+#!date=2026/04/12 00:15:05
+#!support=5700
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -311,7 +311,6 @@
 .dl.1003b.56a.com
 .56fba.cn
 .57573zubo36833.com
-.advert.58.com
 .brandshow.58.com
 .jing.58.com
 .poro.58.com
@@ -347,19 +346,7 @@
 .609999.xyz
 .644446.com
 .64528.xyz
-.64553.xyz
-.64569.xyz
-.64630.xyz
-.64680.xyz
-.64692.xyz
-.64712.xyz
 .64734e98f389532c.com
-.64745.xyz
-.64781.xyz
-.64792.xyz
-.64817.xyz
-.64827.xyz
-.64847.xyz
 .649d87bbe2f87a80.com
 .cad.659t.cn
 .65a4fa1469c06d78.com
@@ -414,8 +401,6 @@
 .m1.81312.com
 .8181zx.com
 .83caa03d23a68c0f.com
-.84223.cc
-.84747.cc
 .88362zubo95838.com
 .88eg.cn
 .88kuailian.com.cn
@@ -467,14 +452,12 @@
 .9wee.com
 .a-kuailianxz.com.cn
 .a32a.com.cn
-.a354245023.xyz
 .a3p4.net
 .a4xvv2g18l.com
 .a50870975c3b0155.com
 .a65a9119ab2ec4e6.com
 .aaaweb.cn
 .aaoffice.cn
-.abcaacc188.xyz
 .smetrics.abercrombie.cn
 .discover.absciex.com.cn
 .accesshub.cq.cn
@@ -559,9 +542,7 @@
 .ahov1.top
 .ai-google-com.hl.cn
 .ai-sogou.com.cn
-.ai-sogou.hl.cn
 .ai-sougou-com.hl.cn
-.ai-sougou.hl.cn
 .ai-youdao-com.hl.cn
 .brc.aigrammar.net
 .brc2.aigrammar.net
@@ -577,7 +558,6 @@
 .lcd.aivote.com
 .aiwanma99.com
 .aiwei365.net
-.aiwuhan.net
 .dmm.aizhan.com
 .aizipai.cn
 .aj-youdao-com.hl.cn
@@ -781,7 +761,6 @@
 .apps-google-cn.hl.cn
 .apps-google-hl.hl.cn
 .apps-safew-safew.com.cn
-.apps-www-google.com.cn
 .st.appsad.cn
 .adx.appsdk.com.cn
 .appsdt.com
@@ -1099,7 +1078,6 @@
 .vstat.borderlessbd.com
 .noyvyv.bosonshop.com
 .boxdeliveryb.cfd
-.boxgridt.cfd
 .evri.boxsioo.cfd
 .evri.boxsiop.cfd
 .evri.boxsios.cfd
@@ -1117,7 +1095,6 @@
 .btyou.com
 .llt.bugu360.net
 .butou.cn
-.bv-kuailian.hl.cn
 .bvmlt.top
 .bwkuailian.com.cn
 .ad.bwton.com
@@ -1211,7 +1188,6 @@
 .cfkrnyt.cn
 .update.cg100iii.com
 .cgigc.com.cn
-.ch-kuailian.hl.cn
 .ch-openclaw.com.cn
 .ads.adagent.chacha.com
 .metrics.chacha.com
@@ -1332,8 +1308,6 @@
 .cnpmjzm.cn
 .ad.cnr.cn
 .phpstat.cntcm.com.cn
-.cnwps.com.cn
-.cnwps.hl.cn
 .www3-vpass.cnxzzb.cn
 .cnzh-google-apps.hl.cn
 .cnzz.cn
@@ -1341,7 +1315,6 @@
 .codeminer.cn
 .1.codesdq.com
 .reportwest-midas.codmwest.com
-.coinbaseguanwang.com.cn
 .guif.coloros.com
 .guif-eu.coloros.com
 .icosa-sg.coloros.com
@@ -1378,11 +1351,9 @@
 .wslog-global-dual.coolzcloud.com
 .bdu1.coozhi.cn
 .count-ledger.online
-.cp-kuailian.hl.cn
 .cp-openclaw.com.cn
 .cp7iys8fp.com
 .cpanclean.cn
-.growthetic.cq415037.cn
 .cbjg.cqnews.net
 .crasheye.cn
 .crashlyticsreports-pa.googleapis.com
@@ -1644,7 +1615,6 @@
 .dryvoa.cn
 .dspunion.com
 .analytics.dsyqt.com
-.dt-kuailian.hl.cn
 .dtsxn.cn
 .www.dualspace.com
 .a.duanmeiwen.com
@@ -1720,10 +1690,8 @@
 .ebay.sh.cn
 .eblnzoq.cn
 .ebrid.cn
-.ec-kuailian.hl.cn
 .jb.ecar168.cn
 .ecudsc.cn
-.ed-kuailian.hl.cn
 .ed68a5d203539e3a.com
 .acccountverificatonlog.edgeone.app
 .c2vydmvydxbkyxri-kte1fxva3p.edgeone.app
@@ -1763,7 +1731,6 @@
 .ekdky.cn
 .eknz.cn
 .ekuailian.com.cn
-.wellfaction.ekzhwp.cn
 .adashx.ut.ele.me
 .app-monitor.ele.me
 .client-api.ele.me
@@ -1785,7 +1752,6 @@
 .envion.top
 .eobuwieplonline.com
 .eoyqzzk.cn
-.ep-kuailian.hl.cn
 .eqqi.cn
 .m.ercos.cn
 .erish.xyz
@@ -1829,7 +1795,6 @@
 .api-event.falconnet.app
 .config.ad.falconnet.app
 .kdewa111.familydoctor.com.cn
-.fancourier-track.vip
 .fancyapi.com
 .fancydsp.com
 .clickm.fang.com
@@ -1910,7 +1875,6 @@
 .mon3-misc-lf.fqnovel.com
 .rtlog5-applog-lf.fqnovel.com
 .fqxkj.cn
-.fr-kuailian.hl.cn
 .trace-v1.free-reels.com
 .frodzo.club
 .fucnm.com
@@ -1962,7 +1926,6 @@
 .log.geetest.com
 .g.gegeyingshi.com
 .web.genarupi-whatsapp.com.cn
-.gensokyo.asia
 .image.gentags.com
 .code.geonamebase.com
 .gepush.com
@@ -2058,7 +2021,6 @@
 .google-chrme-www.com.cn
 .google-chrrome-zh.hl.cn
 .google-cn-chrom.com.cn
-.google-co.com.cn
 .google-en-chrome.com.cn
 .google-gle.com.cn
 .google-google-google.com.cn
@@ -2139,12 +2101,10 @@
 .gxhzv.cn
 .gybyxsy1588.com
 .gz-data.com
-.gz-kuailian.hl.cn
 .share.gzdsw.com
 .gzfzcj.cn
 .gzqvd.cn
 .gzzkjdam.cn
-.h109e.xyz
 .h3-binance.com.cn
 .h45pmx1.cn
 .h57vpulpu.com
@@ -2252,7 +2212,6 @@
 .uapi.ads.heytapmobi.com
 .ums-telemetry-cn.heytapmobi.com
 .virusinfo-cloudscan-cn.heytapmobi.com
-.hf-kuailian.hl.cn
 .hffxc.com
 .hfqdipw.cn
 .hgjxp.cn
@@ -2318,7 +2277,6 @@
 .hjpqt.cn
 .hk-hqlm-whatsapp.hl.cn
 .hk-jxbq-whatsapp.hl.cn
-.hkblookonline.com
 .hkeig.com
 .hkkeafj.cn
 .hksafety.com.cn
@@ -2519,7 +2477,6 @@
 .sla-media.immomo.com
 .atb-stats-api.imolive.tv
 .ads-gdl.imovideo.ru
-.pyk.in-neo.cn
 .in-stagram.hl.cn
 .inad.com
 .analytics.infility.cn
@@ -2687,7 +2644,6 @@
 .jsmxkj.com
 .jspcdn.cn
 .fpb1.jsq886.com
-.jswps.com.cn
 .jszctech.com
 .jtvwbp.cn
 .jukuailian.hl.cn
@@ -2800,7 +2756,6 @@
 .kuailian-get.com.cn
 .kuailian-hot.com.cn
 .kuailian-my.com.cn
-.kuailian-new.com.cn
 .kuailian-on.com.cn
 .kuailian-ssl.com.cn
 .kuailian-su.com.cn
@@ -2810,7 +2765,6 @@
 .kuailian-tv.com.cn
 .kuailian-up.com.cn
 .kuailian-yi.com.cn
-.kuailian7z.com.cn
 .kuailianai.hl.cn
 .kuailiancff-pcc.com.cn
 .kuailiandss.com.cn
@@ -2820,7 +2774,6 @@
 .kuailianlinker.com.cn
 .kuailianstack.com.cn
 .kuailianxiazai-cn.com.cn
-.kuailianxiazai-gz.com.cn
 .kuaishang.cn
 .kuaishang.com.cn
 .e.kuaishou.cn
@@ -3061,7 +3014,6 @@
 .m2-binance.com.cn
 .m3cqjc3og6.com
 .m43ocq1uoj.com
-.mac-wpsoffice.com.cn
 .xc.macd.cn
 .madhouse.cn
 .tongji.mafengwo.cn
@@ -3084,15 +3036,12 @@
 .mathtype.cn
 .metrics.mathworks.cn
 .smetrics.mathworks.cn
-.maxiseri.com
-.maybank2n.vip
 .ad.mazc.org
 .mbai.cn
 .mbaobao.com
 .mcatcher.cn
 .mckuailian.com.cn
 .mckumf5ii4.com
-.mdbmzsa.cn
 .lepodownload.mediatek.com
 .mepodownload.mediatek.com
 .mgepodownload.mediatek.com
@@ -3101,7 +3050,6 @@
 .medproad.com
 .meihu56.cn
 .eco-api.meiqia.com
-.1rer62p.meiqiea.com
 .ma1.meishij.net
 .corp.meitu.com
 .gg.meitu.com
@@ -3158,7 +3106,6 @@
 .ott.v1.data.mgtv.com
 .pcweb.v1.mgtv.com
 .resolver.gslb.mi-idc.com
-.mi-kuailian.hl.cn
 .ad.mi.com
 .api.jr.mi.com
 .d.g.mi.com
@@ -3294,7 +3241,6 @@
 .pp-cdnfile1pcdn.msstatic.com
 .qn-cdnfile1pcdn.msstatic.com
 .qn-livewebbs2pcdn.msstatic.com
-.mt-kuailian.hl.cn
 .mtkuailian.com.cn
 .mtqogl.cn
 .cdnovs.multiopen.cn
@@ -3396,7 +3342,6 @@
 .a.nowscore.com
 .z.nowscore.com
 .np-kuailian.com.cn
-.np-kuailian.hl.cn
 .nphqw.cn
 .nrjzkj.cn
 .nrltzcs.cn
@@ -3436,7 +3381,6 @@
 .officeskills.cn
 .officesoftcn.com
 .officetea.cn
-.officewps.hl.cn
 .officeyes.cn
 .offie-wps.com.cn
 .offiio-wps.com.cn
@@ -3445,7 +3389,6 @@
 .ojg8sflgl.com
 .okhan.net
 .okx-apzc.com.cn
-.on-kuailian.hl.cn
 .oneapm.com
 .onelnk.com
 .click.oneplus.cn
@@ -3467,7 +3410,6 @@
 .optimix.asia
 .oq-kuailian.com.cn
 .oqyiapj.cn
-.or-kuailian.hl.cn
 .oraye.hl.cn
 .orayo.hl.cn
 .org-telegram.hl.cn
@@ -3487,13 +3429,11 @@
 .ouyaoxiazai.com
 .overlay.top
 .ovnrmvg.cn
-.ox-kuailian.hl.cn
 .umami.oyo.cool
 .oyz61nhz8.com
 .ozkuailian.hl.cn
 .ozogame.com
 .p0yixb3wfv.com
-.p212s.xyz
 .p2cdn.com
 .p74ugyuur.com
 .static.paddlewaver.com
@@ -3509,7 +3449,6 @@
 .panoeye.com.cn
 .parking-pcnmh.cn
 .parking-pcnms.cn
-.parking-qf.cn
 .parking-y.cn
 .partnerboost.com
 .passionsex.vip
@@ -3529,7 +3468,6 @@
 .ivy.pconline.com.cn
 .pcpop.com
 .pcupd.com
-.pcwpsoffice.com.cn
 .video-dsp.pddpic.com
 .download.pdf00.cn
 .download.pdf00.com
@@ -3566,7 +3504,6 @@
 .gg86.pinggu.org
 .img50.pingguolv.com
 .api.pingstart.com
-.pioffice.top
 .bd1.pipaw.com
 .pisauc.cn
 .stat2.pixpin.cn
@@ -3575,7 +3512,6 @@
 .placidocn.com
 .up.play-analytics.com
 .bdx.playnext.cn
-.plcjiemi.com
 .pmensrl.cn
 .pojebanoffice.com.cn
 .dluat.pokerbros.net
@@ -3686,13 +3622,11 @@
 .kbae.qiqqh.cn
 .qishiu.com.cn
 .qishmusic.com.cn
-.qishui-dd.hl.cn
 .qishui-ff.hl.cn
 .qishui-qishui.hl.cn
 .qishui-uu.hl.cn
 .qishuiyiyue.com.cn
 .qishuiyiyue.hl.cn
-.qishuyi.com.cn
 .qiumiba.cn
 .stats.qiumibao.com
 .webstat.qiumibao.com
@@ -3973,7 +3907,6 @@
 .riveralydia.shop
 .bi-tracker-global.rivergame.net
 .tatracker-us.rivergame.net
-.rj-kuailian.hl.cn
 .rkcfmfm97.com
 .rkjgfh.cn
 .rkzby.cn
@@ -4001,7 +3934,6 @@
 .rtkuailian.com.cn
 .ds.ruanwengfa.com
 .rui61.cn
-.rukee.cyou
 .rumt-sg.com
 .rumt-zh.com
 .abc.ruodian360.com
@@ -4019,10 +3951,8 @@
 .safe-jiuyouhui.com.cn
 .safe-mile.com.cn
 .404.safedog.cn
-.safepalqianbaoguanwangxiazai.com.cn
 .safewcm.org.cn
 .safewqq.com.cn
-.safewx.hl.cn
 .sagetrc.com
 .saitef.cn
 .smetrics.samsung.com.cn
@@ -4285,8 +4215,6 @@
 .countubn.light.soufun.com
 .tongji.home.soufun.com
 .sougou-pinyin.com.cn
-.sougoupc6.com.cn
-.sougoupc9.com.cn
 .sougoupy.com.cn
 .roi.soulapp.cn
 .sgg.southcn.com
@@ -4300,7 +4228,6 @@
 .show.ssports.com
 .3.ssqzj.com
 .ssur.cc
-.staimall.com
 .stargame.com
 .staticfile.net
 .staticfile.org
@@ -4448,9 +4375,7 @@
 .1.tecbbs.com
 .tongji.techweb.com.cn
 .tecunonline.com
-.telegram-cnzh.com.cn
 .telegramars.com.cn
-.temaz.cn
 .data.tempersyi.com
 .apd-pcdnvodstat.teg.tencent-cloud.net
 .apd-pcdnwxlogin.teg.tencent-cloud.net
@@ -4498,7 +4423,6 @@
 .tianmidian.com
 .datas.tianqistatic.com
 .yptqys.tianqistatic.com
-.fz.tiansys.cn
 .www.tiexing.com
 .smetrics.tiffany.cn
 .tiktok-auto.top
@@ -4592,7 +4516,6 @@
 .livetech.shopee.co.id.txlivecdn.com
 .livetech.shopee.com.br.txlivecdn.com
 .livetech.shopee.vn.txlivecdn.com
-.txqqx.com.cn
 .m.txtxr.com
 .u.txuesoft.cn
 .ty.cn
@@ -4644,7 +4567,6 @@
 .ucus.ucweb.com
 .up4.ucweb.com
 .m.uczzd.cn
-.ud-kuailian.hl.cn
 .udeztrb.cn
 .udrig.com
 .uebabuf.cn
@@ -4652,7 +4574,6 @@
 .ugdtimg.com
 .uhabo.com
 .bdjs.uimg.cn
-.uj-kuailian.hl.cn
 .ujian.cc
 .ultrapay.net
 .umeng.com
@@ -4994,7 +4915,6 @@
 .vorluic.cn
 .vps-google.com.cn
 .vpsgu.cn
-.vq-kuailian.hl.cn
 .vrbrothers.com
 .hvkfmk.vrkxqfrx.cn
 .n.vs108.com
@@ -5034,7 +4954,6 @@
 .xjkugh.waterdropfilter.com
 .ggw.watertu.com
 .bd.watu.cn
-.wayond.yoga
 .factorship.wcyrkdd.cn
 .wd-kuailian.com.cn
 .manage.wdfans.cn
@@ -5102,7 +5021,6 @@
 .wiyun.com
 .wj8i1rlp2b.com
 .wjjhip.cn
-.wjtzbp.com.cn
 .wjxcdn.com
 .wkanx.com
 .lm1.wkpcw.cn
@@ -5129,7 +5047,6 @@
 .www.wowostar.cn
 .v1.wphonelife.com
 .wps-mps.com.cn
-.wps-pcoffice.hl.cn
 .wps-yps.com.cn
 .wps.ac.cn
 .ad.docer.wps.cn
@@ -5144,13 +5061,7 @@
 .api-ad-adapter-mb.wps.com
 .mo.res.wpscdn.cn
 .abroadad.cache.wpscdn.com
-.wpsios.com.cn
-.wpsmac.hl.cn
-.wpsoffice-pc.com.cn
 .wpsoffice.nx.cn
-.wpsofficeios.com.cn
-.wpsofficemac.com.cn
-.wpspc.hl.cn
 .wpwpquse.cn
 .wrating.com
 .efeou.wrerji.cn
@@ -5195,11 +5106,9 @@
 .wy-kuailian.com.cn
 .wy213.com
 .wyvw.cn
-.wzjgj.com.cn
 .a.wzu.com
 .x-steam.com
 .x-telegram.com.cn
-.x114a.xyz
 .x4hu95mh0t.com
 .x8520.com
 .xaqnbj.cn
@@ -5320,7 +5229,6 @@
 .ad-sdk.altamob.xiaoying.co
 .viva.api.xiaoying.co
 .xiaozhen.com
-.xiaqishisichangzucduizhenbiaozuixin.org.cn
 .xibao100.com
 .xibvdjz2x2.com
 .ns2.xidian.edu.cn
@@ -5434,7 +5342,6 @@
 .imgapp.yeyou.com
 .news.yeyou.com
 .ue.yeyoucdn.com
-.yf-kuailian.hl.cn
 .yflieu.cn
 .yfminw.cn
 .yguuab.cn
@@ -5586,7 +5493,6 @@
 .www.yuyue008.cn
 .yvdb.cn
 .yvibptl.cn
-.yw-kuailian.hl.cn
 .yw800.com.cn
 .ywkkmze.cn
 .123.ywxww.net
@@ -5644,7 +5550,6 @@
 .zbo0n.com
 .xue.zbyw.cn
 .log.zcool.com.cn
-.zdkuailian.com.cn
 .zegarkirepliki.pl
 .api-analytics.zepp.com
 .api-analytics-cn3.zepp.com
@@ -5676,7 +5581,6 @@
 .slotabrosdev.zharev.com
 .slotabrosuat.zharev.com
 .zhcn-googele.hl.cn
-.zhekoushouyou.com.cn
 .cdnlog.zhenai.com
 .1.zhev.com.cn
 .zhflodsix.cn
