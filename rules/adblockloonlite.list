@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/13 16:51:56
-#!support=5795
+#!date=2026/04/14 00:35:01
+#!support=5766
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -453,7 +453,6 @@ DOMAIN-SUFFIX,9ee60bf9450cbdfe.com
 DOMAIN-SUFFIX,9ef02862467c3642.com
 DOMAIN-SUFFIX,9ics.cn
 DOMAIN-SUFFIX,9wee.com
-DOMAIN-SUFFIX,a-kuailianxz.com.cn
 DOMAIN-SUFFIX,a2pfs5k90i.com
 DOMAIN-SUFFIX,a32a.com.cn
 DOMAIN-SUFFIX,a3p4.net
@@ -497,7 +496,6 @@ DOMAIN-SUFFIX,adn-plus.com.cn
 DOMAIN-SUFFIX,adquan.com
 DOMAIN-SUFFIX,adreal.cn
 DOMAIN-SUFFIX,ads360.cn
-DOMAIN-SUFFIX,ads55.com
 DOMAIN-SUFFIX,adsage.cn
 DOMAIN-SUFFIX,adsame.com
 DOMAIN-SUFFIX,logrcv.adseyeservice.com
@@ -831,7 +829,6 @@ DOMAIN-SUFFIX,azdxypf.cn
 DOMAIN-SUFFIX,umami.azhubaby.com
 DOMAIN-SUFFIX,azu0jytzgm.com
 DOMAIN-SUFFIX,b195c46b88578263.com
-DOMAIN-SUFFIX,b1q-binance.com.cn
 DOMAIN-SUFFIX,b1.b2b168.com
 DOMAIN-SUFFIX,b1.b2b168.net
 DOMAIN-SUFFIX,b4641y3dw.com
@@ -1251,7 +1248,6 @@ DOMAIN-SUFFIX,chiq-cloud.com
 DOMAIN-SUFFIX,cholo215.cn
 DOMAIN-SUFFIX,cholor201115.cn
 DOMAIN-SUFFIX,chrme-google-apps.com.cn
-DOMAIN-SUFFIX,chrme-google-zh.com.cn
 DOMAIN-SUFFIX,chrom-pc.cn
 DOMAIN-SUFFIX,chrome-google-zh.com.cn
 DOMAIN-SUFFIX,chrome-gooogle-zh.hl.cn
@@ -2058,11 +2054,9 @@ DOMAIN-SUFFIX,google-gle.com.cn
 DOMAIN-SUFFIX,google-google-google.com.cn
 DOMAIN-SUFFIX,google-hk-chrome.com.cn
 DOMAIN-SUFFIX,google-ji.com.cn
-DOMAIN-SUFFIX,google-ju.com.cn
 DOMAIN-SUFFIX,google-le.hl.cn
 DOMAIN-SUFFIX,google-network.com
 DOMAIN-SUFFIX,google-og.com.cn
-DOMAIN-SUFFIX,google-xu.com.cn
 DOMAIN-SUFFIX,google-zh-chrome.com.cn
 DOMAIN-SUFFIX,google-zhcn-chrome.com.cn
 DOMAIN-SUFFIX,ads.google.cn
@@ -2128,7 +2122,6 @@ DOMAIN-SUFFIX,link.guoqi365.com
 DOMAIN-SUFFIX,mo.gushiji.cc
 DOMAIN-SUFFIX,ggw.gusuwang.com
 DOMAIN-SUFFIX,guzsjdl.cn
-DOMAIN-SUFFIX,gw-kuailianxz.com.cn
 DOMAIN-SUFFIX,gw7jpuouik.com
 DOMAIN-SUFFIX,res.gwifi.com.cn
 DOMAIN-SUFFIX,gxbnp.cn
@@ -2314,7 +2307,6 @@ DOMAIN-SUFFIX,auth-launcher-sa.hismarttv.com
 DOMAIN-SUFFIX,auth-na.hismarttv.com
 DOMAIN-SUFFIX,auth-phone-afr.hismarttv.com
 DOMAIN-SUFFIX,auth-phone-ap.hismarttv.com
-DOMAIN-SUFFIX,auth-phone-na.hismarttv.com
 DOMAIN-SUFFIX,auth-sa.hismarttv.com
 DOMAIN-SUFFIX,cdn-plugin-sync-upgrade-juui.hismarttv.com
 DOMAIN-SUFFIX,msg-em.hismarttv.com
@@ -2340,7 +2332,6 @@ DOMAIN-SUFFIX,m.hmucc.com
 DOMAIN-SUFFIX,hnltcw.com
 DOMAIN-SUFFIX,online.hnoexpo.com
 DOMAIN-SUFFIX,hnol.net
-DOMAIN-SUFFIX,hnw-binance.com.cn
 DOMAIN-SUFFIX,hnxqzbs.cn
 DOMAIN-SUFFIX,hnxxt.net
 DOMAIN-SUFFIX,hologramid.cn
@@ -2426,7 +2417,6 @@ DOMAIN-SUFFIX,huoche.com.cn
 DOMAIN-SUFFIX,huoying666.com
 DOMAIN-SUFFIX,collect.hupu.com
 DOMAIN-SUFFIX,goblin.hupu.com
-DOMAIN-SUFFIX,hupukuaichuanzhuanqu.com.cn
 DOMAIN-SUFFIX,ad-sdk.huxiu.com
 DOMAIN-SUFFIX,api-ad-product.huxiu.com
 DOMAIN-SUFFIX,log-api.huxiu.com
@@ -2553,7 +2543,6 @@ DOMAIN-SUFFIX,smetrics.marketing.interact-lighting.com.cn
 DOMAIN-SUFFIX,inveno.com
 DOMAIN-SUFFIX,io-googlse.com.cn
 DOMAIN-SUFFIX,ioiksw.cn
-DOMAIN-SUFFIX,ios-sougou.com.cn
 DOMAIN-SUFFIX,ip193.cn
 DOMAIN-SUFFIX,c81.ipanocloud.com
 DOMAIN-SUFFIX,iper2.com
@@ -2725,7 +2714,6 @@ DOMAIN-SUFFIX,o2.jyjyj.cn
 DOMAIN-SUFFIX,jykuailian.com.cn
 DOMAIN-SUFFIX,jys-binance.com.cn
 DOMAIN-SUFFIX,jzdwl4.cn
-DOMAIN-SUFFIX,k-kuailiangw.com.cn
 DOMAIN-SUFFIX,k2n0f.cn
 DOMAIN-SUFFIX,k69wes8q8.com
 DOMAIN-SUFFIX,ds1.kaijia.com
@@ -2800,7 +2788,6 @@ DOMAIN-SUFFIX,hdns.ksyun.com
 DOMAIN-SUFFIX,kuaichalian.com.cn
 DOMAIN-SUFFIX,kuaichelian.com.cn
 DOMAIN-SUFFIX,kuaichi.com.cn
-DOMAIN-SUFFIX,kuaichuanba3.com.cn
 DOMAIN-SUFFIX,kuaichulian.com.cn
 DOMAIN-SUFFIX,c.kuaiduizuoye.com
 DOMAIN-SUFFIX,kuailian-51.com.cn
@@ -3695,7 +3682,6 @@ DOMAIN-SUFFIX,log.qiniuapi.com
 DOMAIN-SUFFIX,kbae.qiqqh.cn
 DOMAIN-SUFFIX,qishmusic.com.cn
 DOMAIN-SUFFIX,qishui-qishui.hl.cn
-DOMAIN-SUFFIX,qishui-uu.hl.cn
 DOMAIN-SUFFIX,qishuiyiyue.com.cn
 DOMAIN-SUFFIX,qishuiyiyue.hl.cn
 DOMAIN-SUFFIX,qiumiba.cn
@@ -4513,7 +4499,6 @@ DOMAIN-SUFFIX,fz.tiansys.cn
 DOMAIN-SUFFIX,www.tiexing.com
 DOMAIN-SUFFIX,smetrics.tiffany.cn
 DOMAIN-SUFFIX,tiktok-auto.top
-DOMAIN-SUFFIX,tiktok-cn.hl.cn
 DOMAIN-SUFFIX,tikz.cn
 DOMAIN-SUFFIX,wkrd.tingyun.com
 DOMAIN-SUFFIX,tisszhb.cn
@@ -4692,7 +4677,6 @@ DOMAIN-SUFFIX,urbanfind.club
 DOMAIN-SUFFIX,uri6.com
 DOMAIN-SUFFIX,urlqh.cn
 DOMAIN-SUFFIX,usdt1.com.cn
-DOMAIN-SUFFIX,usdt3.com.cn
 DOMAIN-SUFFIX,usdtchengduishang.com.cn
 DOMAIN-SUFFIX,usdtchongzhi.com.cn
 DOMAIN-SUFFIX,usdtdizhichaxunyue.com.cn
@@ -5153,7 +5137,6 @@ DOMAIN-SUFFIX,wsds.cn
 DOMAIN-SUFFIX,mlog.wangsu.com.wswebcdn.com
 DOMAIN-SUFFIX,cdn-ad.wtzw.com
 DOMAIN-SUFFIX,wu-google.com.cn
-DOMAIN-SUFFIX,wubi-sougou.com.cn
 DOMAIN-SUFFIX,wukongtongji.com
 DOMAIN-SUFFIX,wumii.cn
 DOMAIN-SUFFIX,wumii.com
@@ -5166,7 +5149,6 @@ DOMAIN-SUFFIX,ww-officc-wps.com.cn
 DOMAIN-SUFFIX,wwads.cn
 DOMAIN-SUFFIX,wws-google-app.com.cn
 DOMAIN-SUFFIX,vhs.wwstat.com
-DOMAIN-SUFFIX,www-bbs-google.com.cn
 DOMAIN-SUFFIX,www-chromegoogle.com.cn
 DOMAIN-SUFFIX,www-chromegooglee.com.cn
 DOMAIN-SUFFIX,www-chromeguge.com.cn
@@ -5180,7 +5162,6 @@ DOMAIN-SUFFIX,www-qishiu.com.cn
 DOMAIN-SUFFIX,www-qishul.org.cn
 DOMAIN-SUFFIX,www-safew-com.com.cn
 DOMAIN-SUFFIX,www-safews.com.cn
-DOMAIN-SUFFIX,www-sougou.com.cn
 DOMAIN-SUFFIX,1500020991.vodplayer.wxamedia.com
 DOMAIN-SUFFIX,1500022744.vodplayer.wxamedia.com
 DOMAIN-SUFFIX,1500026601.vodplayer.wxamedia.com
@@ -5347,7 +5328,6 @@ DOMAIN-SUFFIX,promotion.xmeye.net
 DOMAIN-SUFFIX,promotion-en.xmeye.net
 DOMAIN-SUFFIX,adm.xmfish.com
 DOMAIN-SUFFIX,cmm.xmfish.com
-DOMAIN-SUFFIX,xmkuailian.com.cn
 DOMAIN-SUFFIX,xmlheads.com
 DOMAIN-SUFFIX,xn--2qu92fhtxsxexqab.xn--fiqs8s
 DOMAIN-SUFFIX,xn--2qux23cwrdmnaz3gj3w.xn--fiqs8s
@@ -5492,16 +5472,8 @@ DOMAIN-SUFFIX,sdk.yolanda.hk
 DOMAIN-SUFFIX,yongtai.cn
 DOMAIN-SUFFIX,sxgahmjk.yottnats.cn
 DOMAIN-SUFFIX,youdao-ek.hl.cn
-DOMAIN-SUFFIX,youdao-fj.hl.cn
-DOMAIN-SUFFIX,youdao-gh.hl.cn
 DOMAIN-SUFFIX,youdao-hk.cn
 DOMAIN-SUFFIX,youdao-hk.com.cn
-DOMAIN-SUFFIX,youdao-mz.hl.cn
-DOMAIN-SUFFIX,youdao-ny.hl.cn
-DOMAIN-SUFFIX,youdao-qb.hl.cn
-DOMAIN-SUFFIX,youdao-rv.hl.cn
-DOMAIN-SUFFIX,youdao-uc.hl.cn
-DOMAIN-SUFFIX,youdao-vh.hl.cn
 DOMAIN-SUFFIX,youdao-wp.hl.cn
 DOMAIN-SUFFIX,youdao-xt.hl.cn
 DOMAIN-SUFFIX,a.youdao.com
@@ -5658,7 +5630,6 @@ DOMAIN-SUFFIX,yin1.zgpingshu.com
 DOMAIN-SUFFIX,zh-appd-google.com.cn
 DOMAIN-SUFFIX,zh-cn-safew.com.cn
 DOMAIN-SUFFIX,zh-fifa-football-live.com
-DOMAIN-SUFFIX,zh-google-chrom.com.cn
 DOMAIN-SUFFIX,zh-google-zh.hl.cn
 DOMAIN-SUFFIX,zh-googlle-chrome.hl.cn
 DOMAIN-SUFFIX,zh-www-google.org.cn
