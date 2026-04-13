@@ -7,7 +7,7 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/13 00:16:36
+#!date=2026/04/13 08:51:46
 #!support=5500
 #!proxy-select=REJECT
 #
@@ -256,7 +256,6 @@ DOMAIN-SUFFIX,4d0m.cn
 DOMAIN-SUFFIX,4nfesm3itf.com
 DOMAIN-SUFFIX,1.5000yan.com
 DOMAIN-SUFFIX,4399stat.5054399.com
-DOMAIN-SUFFIX,onlineappdownload.507.net.cn
 DOMAIN-SUFFIX,50bang.org
 DOMAIN-SUFFIX,51.la
 DOMAIN-SUFFIX,511a.cn
@@ -1225,7 +1224,6 @@ DOMAIN-SUFFIX,pl.cp31.ott.cibntv.net
 DOMAIN-SUFFIX,vali-g1.cp31.ott.cibntv.net
 DOMAIN-SUFFIX,yk-ssp-ad.cp31.ott.cibntv.net
 DOMAIN-SUFFIX,ykad-data.cp31.ott.cibntv.net
-DOMAIN-SUFFIX,www.cippe.com.cn
 DOMAIN-SUFFIX,web.circular-whatsapp.com.cn
 DOMAIN-SUFFIX,metrics.citi.cn
 DOMAIN-SUFFIX,smetrics.citibank.cn
@@ -3083,6 +3081,7 @@ DOMAIN-SUFFIX,flash.sec.miui.com
 DOMAIN-SUFFIX,flash.sec.intl.miui.com
 DOMAIN-SUFFIX,gamebox.sec.miui.com
 DOMAIN-SUFFIX,geofence.sys.miui.com
+DOMAIN-SUFFIX,httpdns.browser.miui.com
 DOMAIN-SUFFIX,inf.miui.com
 DOMAIN-SUFFIX,jupiter.intl.sys.miui.com
 DOMAIN-SUFFIX,jupiter.rus.sys.miui.com
@@ -3096,6 +3095,8 @@ DOMAIN-SUFFIX,port.sec.miui.com
 DOMAIN-SUFFIX,port.sec.intl.miui.com
 DOMAIN-SUFFIX,privacy.miui.com
 DOMAIN-SUFFIX,proxy.sec.miui.com
+DOMAIN-SUFFIX,r.browser.miui.com
+DOMAIN-SUFFIX,security.browser.miui.com
 DOMAIN-SUFFIX,srv.sec.miui.com
 DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,tracking.eu.miui.com
@@ -4388,7 +4389,6 @@ DOMAIN-SUFFIX,cms.ucweb.com
 DOMAIN-SUFFIX,insight.ucweb.com
 DOMAIN-SUFFIX,logssug.ucweb.com
 DOMAIN-SUFFIX,puds.ucweb.com
-DOMAIN-SUFFIX,px.ucweb.com
 DOMAIN-SUFFIX,px-intl.ucweb.com
 DOMAIN-SUFFIX,uc.ucweb.com
 DOMAIN-SUFFIX,uc9.ucweb.com
