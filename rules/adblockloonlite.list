@@ -7,7 +7,7 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/15 00:33:19
+#!date=2026/04/15 08:53:26
 #!support=5588
 #!proxy-select=REJECT
 #
@@ -1376,7 +1376,6 @@ DOMAIN-SUFFIX,daque.cn
 DOMAIN-SUFFIX,daraz.com
 DOMAIN-SUFFIX,net.daraz.lk
 DOMAIN-SUFFIX,net.daraz.pk
-DOMAIN-SUFFIX,clickserve.dartsearch.net
 DOMAIN-SUFFIX,dashet.com
 DOMAIN-SUFFIX,gate.datacaciques.com
 DOMAIN-SUFFIX,pv.datacaciques.com
@@ -1555,6 +1554,7 @@ DOMAIN-SUFFIX,umami.dp.tech
 DOMAIN-SUFFIX,dpd-express.cn
 DOMAIN-SUFFIX,dpjzzgw.cn
 DOMAIN-SUFFIX,drdwy.com
+DOMAIN-SUFFIX,drivethelife.com
 DOMAIN-SUFFIX,drokozz.club
 DOMAIN-SUFFIX,dropbox.ac.cn
 DOMAIN-SUFFIX,dryvoa.cn
