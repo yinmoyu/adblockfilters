@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: V6d5Y5OgU0YsYJpqsHVWkg
-! Version: 202604160041
+! Checksum: Q96KwvbnCw6aK/KVc6IUkg
+! Version: 202604160201
 ! Title: EasyList
-! Last modified: 16 Apr 2026 00:41 UTC
+! Last modified: 16 Apr 2026 02:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16096,6 +16096,7 @@ browsershots.org#@#.advert_area
 ||5bd3cec305.com^
 ||5bs4y5e7.xyz^
 ||5btekl14.de^
+||5c384e999a.com^
 ||5c536d71ba.com^
 ||5cb79f17b9.com^
 ||5cumlrbo9y17z6.rest^
@@ -16196,6 +16197,7 @@ browsershots.org#@#.advert_area
 ||6e67e233a2.com^
 ||6e76b83826.com^
 ||6e7c875650.com^
+||6e7e9acff5.com^
 ||6ec764402d.com^
 ||6epv2lqboiwp3b5zrgcm39zj.cfd^
 ||6f218410f7.com^
@@ -18112,6 +18114,7 @@ browsershots.org#@#.advert_area
 ||anamaembush.com^
 ||anamuel-careslie.com^
 ||anankesfigurer.com^
+||ananterblatta.cyou^
 ||anantertotora.cyou^
 ||ananymyokel.cfd^
 ||anapirate.com^
@@ -18971,6 +18974,7 @@ browsershots.org#@#.advert_area
 ||avalanchetremorunfilled.com^
 ||avamenialsenglyn.qpon^
 ||avaricious-application.pro^
+||avatarchingma.cfd^
 ||avazu.net^
 ||avazutracking.net^
 ||avbfivan.in^
@@ -21060,6 +21064,7 @@ browsershots.org#@#.advert_area
 ||bunchhigher.com^
 ||buncoedsutrasrimery.cyou^
 ||bundlemoviepumice.com^
+||bundookbabiedhalogen.cfd^
 ||bunfcjddgmnrd.online^
 ||bungeedubbah.com^
 ||bunglersignoff.com^
@@ -26086,6 +26091,7 @@ browsershots.org#@#.advert_area
 ||ehtkfjhrozkeu.website^
 ||ehuhefrrpqjgp.website^
 ||ehungroundt.org^
+||ehvfnfeprn.com^
 ||ehvxrxndjgzbb.online^
 ||ehwjabvdtzqge.website^
 ||ehwtrxeivhora.site^
@@ -37851,6 +37857,7 @@ browsershots.org#@#.advert_area
 ||lavfttpdcojeh.space^
 ||lavingflue.qpon^
 ||lavishboot.com^
+||lavmaxamma.in^
 ||lavouzicamvvi.online^
 ||lawful-nature.pro^
 ||lawfullygreater.com^
@@ -54977,6 +54984,7 @@ browsershots.org#@#.advert_area
 ||sefwpmjrsvewq.website^
 ||segarraw.cyou^
 ||seggarsbeachy.shop^
+||seggiobarrack.shop^
 ||seggiosharia.shop^
 ||seggromwy.cfd^
 ||seggzpwzesnxh.website^
@@ -56312,6 +56320,7 @@ browsershots.org#@#.advert_area
 ||smlypotr.net^
 ||smmivcxq.xyz^
 ||smmnclhggakto.website^
+||smnsocslbtwwoji.com^
 ||smoggy-construction.com^
 ||smoggy-twist.pro^
 ||smoggyfeed.com^
@@ -56623,6 +56632,7 @@ browsershots.org#@#.advert_area
 ||somsoargous.net^
 ||son-in-lawmorbid.com^
 ||sonatapostagecreaky.qpon^
+||songertringa.com^
 ||songsill.com^
 ||songssyncoms.qpon^
 ||songtopbrand.com^
@@ -57948,6 +57958,7 @@ browsershots.org#@#.advert_area
 ||summertenons.cyou^
 ||summingteashop.cyou^
 ||summonsrecarry.com^
+||summonsword.cfd^
 ||summonteacherjunction.com^
 ||summythdevious.com^
 ||sumpooloor.net^
@@ -59625,6 +59636,7 @@ browsershots.org#@#.advert_area
 ||tingleergs.cfd^
 ||tinglerms.cyou^
 ||tinifygzkncqu.website^
+||tinilyethmose.com^
 ||tinkerwidth.com^
 ||tinkledtertium.com^
 ||tinnilybagdi.cfd^
@@ -62268,6 +62280,7 @@ browsershots.org#@#.advert_area
 ||unrulypause.com^
 ||unrulystored.com^
 ||unrvfdnjigyms.space^
+||unsaintpyrotic.qpon^
 ||unsaltyneedles.cfd^
 ||unsawedappear.qpon^
 ||unscarbaedeagi.cfd^
@@ -62780,6 +62793,7 @@ browsershots.org#@#.advert_area
 ||uswardsodded.cyou^
 ||uswgjyclbvtjj.space^
 ||uswibinjursxc.site^
+||uswqumrdseugf.site^
 ||uswsyzbbbhqsi.site^
 ||usxhqgokbxuya.site^
 ||usxiqtjuigcse.site^
@@ -63479,6 +63493,7 @@ browsershots.org#@#.advert_area
 ||vendsborrows.cfd^
 ||veneeringanguishwhipped.com^
 ||veneeringhystericalreward.com^
+||veneerssliwer.cfd^
 ||veneralthecla.qpon^
 ||venetictittie.cyou^
 ||venetrigni.com^
@@ -64116,6 +64131,7 @@ browsershots.org#@#.advert_area
 ||vlwrncwqf.xyz^
 ||vlxctnusilgeh.site^
 ||vlxhvoidlnrjf.space^
+||vlxobtxurxpqe.online^
 ||vlxrvlvnasoys.space^
 ||vlyossclchubl.space^
 ||vlypqssug.com^
@@ -67452,6 +67468,7 @@ browsershots.org#@#.advert_area
 ||xoszyclagweyv.online^
 ||xotsxpboxljzv.website^
 ||xoubuywanqskg.website^
+||xouszczpeqsju.online^
 ||xovbjzdbfomoo.site^
 ||xovlsjegbpwqs.site^
 ||xovzgcoovh.club^
@@ -68400,6 +68417,7 @@ browsershots.org#@#.advert_area
 ||yjtwkkyczcyut.site^
 ||yjwajohilqxia.online^
 ||yjwojvccdukua.site^
+||yjxwpxpqblyoq.website^
 ||yjyjyzprctiln.site^
 ||yjzgncwwpcjve.online^
 ||yjzpeujnntjxp.online^
@@ -68971,6 +68989,7 @@ browsershots.org#@#.advert_area
 ||yxrocrfgsuclr.space^
 ||yxrztudaxbejo.website^
 ||yxsfksmxygegq.website^
+||yxtnrafwvysku.online^
 ||yxtwurrbxqifz.website^
 ||yxunqfhyuwrxt.online^
 ||yxwwyxmpowqnm.space^
@@ -69929,6 +69948,7 @@ browsershots.org#@#.advert_area
 ||zuajnozwaotok.site^
 ||zubivu.com^
 ||zubniivgigntj.website^
+||zubtvnuahsszj.site^
 ||zucany.click^
 ||zucks.net^
 ||zudenbnz.com^
@@ -85668,6 +85688,7 @@ interest.co.nz##.story-tag-wrapper
 healthshots.com##.storyBlockOne
 livemint.com##.storyPage_storyblockAd__r4wwE
 businesstoday.in##.stoybday-ad
+twitch.tv##.stream-display-ad__wrapper
 24fm.ps,datingscammer.info,ihrc24x7.com,news365.co.za,royale-games.com,thedefensepost.com,xboxera.com##.stream-item
 siasat.com##.stream-item-below-post-content
 twitter.com,x.com##.stream-item-group-start[label="promoted"]

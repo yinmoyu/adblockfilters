@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/16 08:54:25
-#!support=5640
+#!date=2026/04/16 10:19:01
+#!support=5637
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -550,7 +550,6 @@
 .hk-datareceiver.aki-game.net
 .jp-datareceiver.aki-game.net
 .us-datareceiver.aki-game.net
-.akks-telegram.com.cn
 .ako.cc
 .al-safew.com.cn
 .alertcenter.hn.cn
@@ -3437,7 +3436,6 @@
 .pepnsnq.cn
 .pepsico.com.cn
 .petersonjace.shop
-.pfd-google.com.cn
 .pfdth.cn
 .pfkuailian.com.cn
 .pfqwbqs.cn
@@ -3504,7 +3502,6 @@
 .ptmabek.cn
 .puchao.hl.cn
 .pufhzpt.cn
-.pulton.info
 .pig.pupuapi.com
 .puqer.cn
 .purebuy.club

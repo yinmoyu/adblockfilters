@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/16 08:54:25
-#!support=5640
+#!date=2026/04/16 10:19:00
+#!support=5637
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -547,7 +547,6 @@ DOMAIN-SUFFIX,eu-datareceiver.aki-game.net
 DOMAIN-SUFFIX,hk-datareceiver.aki-game.net
 DOMAIN-SUFFIX,jp-datareceiver.aki-game.net
 DOMAIN-SUFFIX,us-datareceiver.aki-game.net
-DOMAIN-SUFFIX,akks-telegram.com.cn
 DOMAIN-SUFFIX,ako.cc
 DOMAIN-SUFFIX,al-safew.com.cn
 DOMAIN-SUFFIX,alertcenter.hn.cn
@@ -3434,7 +3433,6 @@ DOMAIN-SUFFIX,pmm.people.com.cn
 DOMAIN-SUFFIX,pepnsnq.cn
 DOMAIN-SUFFIX,pepsico.com.cn
 DOMAIN-SUFFIX,petersonjace.shop
-DOMAIN-SUFFIX,pfd-google.com.cn
 DOMAIN-SUFFIX,pfdth.cn
 DOMAIN-SUFFIX,pfkuailian.com.cn
 DOMAIN-SUFFIX,pfqwbqs.cn
@@ -3501,7 +3499,6 @@ DOMAIN-SUFFIX,ptgdb.cn
 DOMAIN-SUFFIX,ptmabek.cn
 DOMAIN-SUFFIX,puchao.hl.cn
 DOMAIN-SUFFIX,pufhzpt.cn
-DOMAIN-SUFFIX,pulton.info
 DOMAIN-SUFFIX,pig.pupuapi.com
 DOMAIN-SUFFIX,puqer.cn
 DOMAIN-SUFFIX,purebuy.club
