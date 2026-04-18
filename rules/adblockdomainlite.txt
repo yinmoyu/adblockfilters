@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260418002642
-! Last modified: 2026/04/18 00:26:42
-! Blocked domains: 5606
+! Version: 20260418084814
+! Last modified: 2026/04/18 08:48:14
+! Blocked domains: 5623
 !
 kwflvcdn.000dn.com
 img.0279.net
@@ -22,6 +22,7 @@ gemini.03vps.cn
 080999.cn
 087tqb.cn
 0941.org
+0ss1vl.cn
 0wk6gdkg8r.com
 10000xing.cn
 smartad.10010.com
@@ -308,6 +309,7 @@ cdn.7nsc.cn
 7s8z7w24u.com
 m1.81312.com
 8181zx.com
+84207.cc
 88362zubo95838.com
 88eg.cn
 88kuailian.com.cn
@@ -354,6 +356,7 @@ discover.absciex.com.cn
 ac-apps-google-hl.hl.cn
 acc-ackuailiandc.com.cn
 acc-kuailians.com.cn
+acceskc.com
 accesshub.cq.cn
 accesshub.gd.cn
 accesshub.hk.cn
@@ -657,6 +660,7 @@ app5kuailian.com.cn
 app6kuailian.com.cn
 app7kuailian.com.cn
 app9kuailian.com.cn
+appc-zoom.com.cn
 mobile.appchina.com
 appdriver.cn
 appikuailian.com.cn
@@ -721,6 +725,7 @@ azdxypf.cn
 umami.azhubaby.com
 azm-kuailian.com.cn
 azu0jytzgm.com
+b258v.xyz
 b1.b2b168.com
 b1.b2b168.net
 b4641y3dw.com
@@ -1278,6 +1283,7 @@ abvynbc.cym0ero.cn
 cyq8vqq9s.com
 a1.cyyangqiguan.com
 straighttangerine.cz.cc
+czanshunda.com
 c1.czcol.cn
 bd.czxuexi.com
 ggjs.d17.cc
@@ -1388,6 +1394,7 @@ trackercollect.ddxq.mobi
 trackerfeed.ddxq.mobi
 dejia.hl.cn
 aem.dentsuchina.cn
+designerwatches.cn
 www.destinationurl.com
 msz3.destinia.cn
 detailroi.com
@@ -1711,7 +1718,6 @@ bro.flyme.cn
 t-e.flyme.cn
 t-flow.flyme.cn
 log-auth.flysleep.cn
-flyye.cn
 www.fm120.com
 accoun.fnmgr.cn
 adv-sv-show.focus.cn
@@ -2137,6 +2143,7 @@ v2-api-channel-launcher.hismarttv.com
 www.histar.com
 stun.hitv.com
 gentian-frd.hjapi.com
+hjcdcgw-qx.cn
 resu8.hjfile.cn
 hjpqt.cn
 hk-hqlm-whatsapp.hl.cn
@@ -2191,6 +2198,7 @@ support.hqts.com
 hrkuailian.hl.cn
 cdnjs.hro-cosmetics.com
 hs-kuailian.com.cn
+hs6htt.com
 hseda.com
 hsehk.cn
 hsrgnac.cn
@@ -2430,6 +2438,7 @@ izgl.cn
 izjmlg.cn
 adapi.izuiyou.com
 adstat.izuiyou.com
+j350b.xyz
 j3n6x.co
 jab88.com
 eventlog.jackpot.de
@@ -2921,6 +2930,8 @@ marshallscarlett.shop
 mathtype.cn
 metrics.mathworks.cn
 smetrics.mathworks.cn
+maxisaie.vip
+maxisrm.vip
 maxisuik.vip
 ad.mazc.org
 mbai.cn
@@ -2977,6 +2988,7 @@ tracking.c.mercedes-benz.com.cn
 tracking.m.mercedes-benz.com.cn
 tracking.t.mercedes-benz.com.cn
 mernrza.com
+mesmall.cn
 metaversemolecule.com
 metaword.cn
 analytics.metro.cn
@@ -3813,6 +3825,7 @@ rtkuailian.com.cn
 ds.ruanwengfa.com
 rui61.cn
 ruiing.com
+rukee.cyou
 rumt-sg.com
 rumt-zh.com
 abc.ruodian360.com
@@ -3925,6 +3938,7 @@ shuzilm.cn
 ads-monitoring.shziyi.com
 sigmob.com
 smetrics.marketing.signify.com.cn
+sihuikeji.cn
 simicloud.com
 adblock.sina.cn
 adimg.mobile.sina.cn
@@ -4312,6 +4326,7 @@ adexpo.tencentmusic.com
 adstats.tencentmusic.com
 report.tencentmusic.com
 tengfeidn.cn
+tensai146.icu
 tepusi888.cn
 answers.teradata.com.cn
 testsafe.com.cn
@@ -4401,6 +4416,7 @@ tovbus.cn
 tovppl.cn
 tq-kuailian.com.cn
 trackingio.com
+trast.help
 trk-kuailian.com.cn
 ta.trs.cn
 trustutn.org
@@ -4994,6 +5010,7 @@ wwww-wps.hl.cn
 wxkuailian.com.cn
 wy-kuailian.com.cn
 wy213.com
+wz2010.com.cn
 a.wzu.com
 x-steam.com
 x-telegram.com.cn
