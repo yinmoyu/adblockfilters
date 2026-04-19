@@ -3,8 +3,8 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260419001738
-# Last modified: 2026/04/19 00:17:38
+# Version: 20260419085436
+# Last modified: 2026/04/19 08:54:36
 # Blocked domains: 5591
 #
 127.0.0.1	localhost
@@ -1500,7 +1500,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	download-office-wps.com.cn
 0.0.0.0	download-web-whatsapp.com.cn
 0.0.0.0	umami.dp.tech
-0.0.0.0	dpdnew.click
 0.0.0.0	dpjzzgw.cn
 0.0.0.0	drdwy.com
 0.0.0.0	drivethelife.com
@@ -1773,7 +1772,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	a.fxltsbl.com
 0.0.0.0	fy14.cn
 0.0.0.0	fyy-youdao.hl.cn
-0.0.0.0	g95q.xyz
 0.0.0.0	gainifyads.com
 0.0.0.0	fc.gaizong.cn
 0.0.0.0	ng-vn-notice.gameitop.com
@@ -1962,6 +1960,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	gzfzcj.cn
 0.0.0.0	gzqvd.cn
 0.0.0.0	gzzkjdam.cn
+0.0.0.0	h111f.xyz
 0.0.0.0	h3-binance.com.cn
 0.0.0.0	h45pmx1.cn
 0.0.0.0	h5-wps.com.cn
@@ -5197,6 +5196,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	bmjs.xzw.com
 0.0.0.0	m.y-binance.com.cn
 0.0.0.0	y0764.cn
+0.0.0.0	y218l.xyz
 0.0.0.0	y6a7ap3io3.com
 0.0.0.0	y74s.xyz
 0.0.0.0	yahekby.cn

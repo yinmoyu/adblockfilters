@@ -2,8 +2,8 @@
 #!desc=每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 #!homepage=https://github.com/217heidai/adblockfilters
 #!source=https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockshadowrocketlite.sgmodule
-#!version=20260419001738
-#!updated=2026/04/19 00:17:38
+#!version=20260419085436
+#!updated=2026/04/19 08:54:36
 
 [Rule]
 DOMAIN-SUFFIX,kwflvcdn.000dn.com,REJECT-DROP
@@ -1484,7 +1484,6 @@ DOMAIN-SUFFIX,download-m-whatsapp.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,download-office-wps.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,download-web-whatsapp.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,umami.dp.tech,REJECT-DROP
-DOMAIN-SUFFIX,dpdnew.click,REJECT-DROP
 DOMAIN-SUFFIX,dpjzzgw.cn,REJECT-DROP
 DOMAIN-SUFFIX,drdwy.com,REJECT-DROP
 DOMAIN-SUFFIX,drivethelife.com,REJECT-DROP
@@ -1757,7 +1756,6 @@ DOMAIN-SUFFIX,dms.fx678.com,REJECT-DROP
 DOMAIN-SUFFIX,a.fxltsbl.com,REJECT-DROP
 DOMAIN-SUFFIX,fy14.cn,REJECT-DROP
 DOMAIN-SUFFIX,fyy-youdao.hl.cn,REJECT-DROP
-DOMAIN-SUFFIX,g95q.xyz,REJECT-DROP
 DOMAIN-SUFFIX,gainifyads.com,REJECT-DROP
 DOMAIN-SUFFIX,fc.gaizong.cn,REJECT-DROP
 DOMAIN-SUFFIX,ng-vn-notice.gameitop.com,REJECT-DROP
@@ -1946,6 +1944,7 @@ DOMAIN-SUFFIX,share.gzdsw.com,REJECT-DROP
 DOMAIN-SUFFIX,gzfzcj.cn,REJECT-DROP
 DOMAIN-SUFFIX,gzqvd.cn,REJECT-DROP
 DOMAIN-SUFFIX,gzzkjdam.cn,REJECT-DROP
+DOMAIN-SUFFIX,h111f.xyz,REJECT-DROP
 DOMAIN-SUFFIX,h3-binance.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,h45pmx1.cn,REJECT-DROP
 DOMAIN-SUFFIX,h5-wps.com.cn,REJECT-DROP
@@ -5181,6 +5180,7 @@ DOMAIN-SUFFIX,xzhllj.cn,REJECT-DROP
 DOMAIN-SUFFIX,bmjs.xzw.com,REJECT-DROP
 DOMAIN-SUFFIX,m.y-binance.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,y0764.cn,REJECT-DROP
+DOMAIN-SUFFIX,y218l.xyz,REJECT-DROP
 DOMAIN-SUFFIX,y6a7ap3io3.com,REJECT-DROP
 DOMAIN-SUFFIX,y74s.xyz,REJECT-DROP
 DOMAIN-SUFFIX,yahekby.cn,REJECT-DROP

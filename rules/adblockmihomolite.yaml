@@ -4,8 +4,8 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20260419001738
-  # Last modified: 2026/04/19 00:17:38
+  # Version: 20260419085436
+  # Last modified: 2026/04/19 08:54:36
   # Blocked domains: 5591
   #
   - '+.kwflvcdn.000dn.com'
@@ -1486,7 +1486,6 @@ payload:
   - '+.download-office-wps.com.cn'
   - '+.download-web-whatsapp.com.cn'
   - '+.umami.dp.tech'
-  - '+.dpdnew.click'
   - '+.dpjzzgw.cn'
   - '+.drdwy.com'
   - '+.drivethelife.com'
@@ -1759,7 +1758,6 @@ payload:
   - '+.a.fxltsbl.com'
   - '+.fy14.cn'
   - '+.fyy-youdao.hl.cn'
-  - '+.g95q.xyz'
   - '+.gainifyads.com'
   - '+.fc.gaizong.cn'
   - '+.ng-vn-notice.gameitop.com'
@@ -1948,6 +1946,7 @@ payload:
   - '+.gzfzcj.cn'
   - '+.gzqvd.cn'
   - '+.gzzkjdam.cn'
+  - '+.h111f.xyz'
   - '+.h3-binance.com.cn'
   - '+.h45pmx1.cn'
   - '+.h5-wps.com.cn'
@@ -5183,6 +5182,7 @@ payload:
   - '+.bmjs.xzw.com'
   - '+.m.y-binance.com.cn'
   - '+.y0764.cn'
+  - '+.y218l.xyz'
   - '+.y6a7ap3io3.com'
   - '+.y74s.xyz'
   - '+.yahekby.cn'
