@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/20 00:17:35
-#!support=5444
+#!date=2026/04/20 08:53:19
+#!support=5445
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -1612,6 +1612,7 @@ DOMAIN-SUFFIX,falal.cn
 DOMAIN-SUFFIX,api-ad-callback.falconnet.app
 DOMAIN-SUFFIX,api-event.falconnet.app
 DOMAIN-SUFFIX,config.ad.falconnet.app
+DOMAIN-SUFFIX,famespaces.click
 DOMAIN-SUFFIX,kdewa111.familydoctor.com.cn
 DOMAIN-SUFFIX,famoway-pro.net
 DOMAIN-SUFFIX,fancyapi.com
