@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
-! Version: 20260421003412
-! Last modified: 2026/04/21 00:34:12
+! Version: 20260421085254
+! Last modified: 2026/04/21 08:52:54
 ! Blocked Filters: 42256
 !
 ###AC_ad
@@ -22599,7 +22599,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 3jy.com,maolihui.com##.lad
 3minx.com#$?#div.popup-box-ads { remove: true; }
 3movs.com,3movs.xxx,babepump.com,bravotube.net,camvideos.tv,cluset.com,deviants.com,dixyporn.com,fapnfuck.com,fuqster.com,hello.porn,homo.xxx,javcab.com,katestube.com,pornicom.com,sexpester.com,sleazyneasy.com,thefree3dporn.com,videocelebs.net,vikiporn.com,vjav.com,w1mp.com,w4nkr.com##.spot
-3movs.com,3movs.xxx,babepump.com,bravotube.net,camvideos.tv,cluset.com,deviants.com,dixyporn.com,fapnfuck.com,fuqster.com,hello.porn,javcab.com,katestube.com,pornicom.com,sexpester.com,sleazyneasy.com,thefree3dporn.com,videocelebs.net,vikiporn.com,vjav.com,w1mp.com,w4nkr.com##.spot
 3movs.com,fapality.com##.cs
 3movs.com,ggjav.com,tnaflix.com##iframe[width="300"]
 3movs.com,japan-whores.com##.spot_large
@@ -25296,6 +25295,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=leechpremium.link
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=leechpremium.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=lightningmaps.org
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=links.lootlabs.gg
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=linovelib.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=lisanarb.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=listvpn.net
