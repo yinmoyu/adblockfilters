@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/23 00:31:14
-#!support=5701
+#!date=2026/04/23 08:54:27
+#!support=5694
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -2012,7 +2012,6 @@ DOMAIN-SUFFIX,share.gzdsw.com
 DOMAIN-SUFFIX,gzfzcj.cn
 DOMAIN-SUFFIX,gzqvd.cn
 DOMAIN-SUFFIX,gzzkjdam.cn
-DOMAIN-SUFFIX,h111g.xyz
 DOMAIN-SUFFIX,h3-binance.com.cn
 DOMAIN-SUFFIX,h45pmx1.cn
 DOMAIN-SUFFIX,h5-wps.com.cn
@@ -2482,11 +2481,7 @@ DOMAIN-SUFFIX,ixjtpbj.cn
 DOMAIN-SUFFIX,ixkuailian.com.cn
 DOMAIN-SUFFIX,adapi.izuiyou.com
 DOMAIN-SUFFIX,adstat.izuiyou.com
-DOMAIN-SUFFIX,j338o.xyz
 DOMAIN-SUFFIX,j350b.xyz
-DOMAIN-SUFFIX,j353g.xyz
-DOMAIN-SUFFIX,j353q.xyz
-DOMAIN-SUFFIX,j357w.xyz
 DOMAIN-SUFFIX,j3n6x.co
 DOMAIN-SUFFIX,jab88.com
 DOMAIN-SUFFIX,eventlog.jackpot.de
@@ -3523,7 +3518,6 @@ DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
 DOMAIN-SUFFIX,ptengine.cn
 DOMAIN-SUFFIX,ptgdb.cn
 DOMAIN-SUFFIX,ptmabek.cn
-DOMAIN-SUFFIX,publicishub.com
 DOMAIN-SUFFIX,pufhzpt.cn
 DOMAIN-SUFFIX,punktopulex.com
 DOMAIN-SUFFIX,pig.pupuapi.com
@@ -4538,7 +4532,6 @@ DOMAIN-SUFFIX,u.txuesoft.cn
 DOMAIN-SUFFIX,ty.cn
 DOMAIN-SUFFIX,tydouke.com
 DOMAIN-SUFFIX,stat.u.sb
-DOMAIN-SUFFIX,u103s.xyz
 DOMAIN-SUFFIX,u7u9.com
 DOMAIN-SUFFIX,u88.cn
 DOMAIN-SUFFIX,images.service.ubmsinoexpo.com
