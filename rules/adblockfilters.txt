@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260905024907
-! Last modified: 2026/09/05 02:49:07
-! Blocked Filters: 118776
+! Version: 20260905105953
+! Last modified: 2026/09/05 10:59:53
+! Blocked Filters: 118778
 !
 ###AC_ad
 ###AD_160
@@ -71551,6 +71551,7 @@ ping0.cc###websites-wrap:has([rel$="sponsored"])
 ping0.cc##.aditems
 ping0.cc##.xdeles
 ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> [class^="close"])
+ping0.cc#?#div:-abp-has(>a>.tipbd)
 pinggu.org##.banner2015
 pinggu.org##.hdbanner
 pinggu.org##.index-somelinks
@@ -109179,6 +109180,7 @@ zzzyk.com###Tinfo
 ||ping*.qq.com^
 ||ping-admin.ru^$third-party
 ||ping-fast.com^$third-party
+||ping0.cc/images/fx/*.gif
 ||ping0.cc/static/images/ad/
 ||pingclock.net^$third-party
 ||pingdom.net^$third-party
